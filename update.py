@@ -2,7 +2,7 @@ import json
 import string
 
 from mwcleric import AuthCredentials
-from mwcleric import TemplateModifierBase
+from mwcleric import PageModifierBase
 from mwcleric import WikiggClient
 from mwparserfromhell.nodes import Template
 
@@ -11,15 +11,15 @@ credentials = AuthCredentials(user_file="me")
 # gg.wiki.gg is our sandbox wiki that anyone may edit for any reason to test scripts
 # so while you are testing your code, you can leave this as-is and view changes at gg.wiki.gg
 # then change it to your wiki afterwards
-site = WikiggClient('gg', credentials=credentials)
-summary = 'Automatically updating infobox from changed data'
+site = WikiggClient('vaulthunters', credentials=credentials)
+summary = 'First python data test'
 
 with open('items.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
-class TemplateModifier(TemplateModifierBase):
-    def update_template(self, template: Template):
+class PageModifier(PageModifierBase):
+    def update_wikitext(self, text):
         # TemplateModifier is a generic framework for modifying templates
         # It will iterate through all pages containing at least one instance
         # of the specified template in the initialization call below and then
@@ -28,12 +28,12 @@ class TemplateModifier(TemplateModifierBase):
             # don't do anything outside of the main namespace
             # for example, we don't want to modify template documentation or user sandboxes
             return
-        info = data[self.current_page.name.lower()]
-        template.add('Weight', info['weight'])
-        template.add('Element', info['element'])
+        info = data[self.current_page.lower()]
+        text.add('Weight', info['weight'])
+        text.add('Element', info['element'])
         if (recipe := self.get_recipe_text(info)) is None:
             return
-        template.add('Recipe', recipe)
+        text.add('Recipe', recipe)
         # any changes made before returning will automatically be saved by the runner
 
     @staticmethod
@@ -45,5 +45,5 @@ class TemplateModifier(TemplateModifierBase):
             [recipe_string.format(ing=string.capwords(x['ingredient']), q=x['quantity']) for x in info['ingredients']])
 
 
-TemplateModifier(site, 'Item infobox',
+PageModifier(site, 'Item infobox',
                  summary=summary).run()
