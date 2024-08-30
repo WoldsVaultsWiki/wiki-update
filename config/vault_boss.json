@@ -1,0 +1,248 @@
+{
+  "Bosses": {
+    "the_vault:blaze_boss": {
+      "BaseTraits": [
+        "fireball_ranged_attack",
+        "evoker_fangs",
+        "heal"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "shulker_bullet"
+      }
+    },
+    "the_vault:golem_boss": {
+      "BaseTraits": [
+        "melee_attack",
+        "summoning_vault",
+        "life_leech_on_hit",
+        "levitate_on_hit"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "blood_orb"
+      }
+    },
+    "the_vault:black_widow_boss": {
+      "BaseTraits": [
+        "melee_attack",
+        "life_leech_on_hit",
+        "wither_on_hit",
+        "throw_lingering_poison"
+      ],
+      "ModifierTraits": {
+        "light_ranged": "evoker_fangs"
+      }
+    }
+  },
+  "Traits": {
+    "fireball_ranged_attack": {
+      "Type": "fireball_ranged_attack",
+      "Attributes": {
+        "AttackIntervalMin": 20,
+        "AttackIntervalMax": 60,
+        "SpeedModifier": 1.0,
+        "MaxInaccuracy": 0.5,
+        "AttackRadius": 25.0
+      }
+    },
+    "melee_attack": {
+      "Type": "melee_attack",
+      "Attributes": {
+        "Attacks": [
+          {
+            "Multiplier": 1.0,
+            "Weight": 1.0,
+            "Name": "punch"
+          }
+        ]
+      }
+    },
+    "sweep_attack": {
+      "Type": "melee_attack",
+      "Attributes": {
+        "Attacks": [
+          {
+            "Multiplier": 1.0,
+            "Weight": 1.0,
+            "Name": "aoeclose"
+          }
+        ]
+      }
+    },
+    "summoning_vanilla": {
+      "Type": "summoning",
+      "Attributes": {
+        "SpawnInterval": 100,
+        "EntityTypes": [
+          {
+            "EntityType": "minecraft:zombie",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "minecraft:skeleton",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "minecraft:creeper",
+            "Weight": 1.0
+          }
+        ],
+        "Radius": 15,
+        "MaxMobSpawnCount": 4,
+        "MaxMobsAliveBeforeNextSpawn": 10,
+        "MinMobSpawnCount": 1
+      }
+    },
+    "summoning_vault": {
+      "Type": "summoning",
+      "Attributes": {
+        "SpawnInterval": 100,
+        "EntityTypes": [
+          {
+            "EntityType": "the_vault:fighter",
+            "EntityNbt": {
+              "HandItems": [
+                {
+                  "id": "minecraft:netherite_sword",
+                  "Count": 1,
+                  "tag": {
+                    "Damage": 0
+                  }
+                }
+              ]
+            },
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "the_vault:dungeon_skeleton",
+            "Weight": 1.0
+          },
+          {
+            "EntityType": "the_vault:dungeon_vindicator",
+            "Weight": 1.0
+          }
+        ],
+        "Radius": 15,
+        "MaxMobSpawnCount": 4,
+        "MaxMobsAliveBeforeNextSpawn": 10,
+        "MinMobSpawnCount": 1
+      }
+    },
+    "shulker_bullet": {
+      "Type": "shulker_bullet",
+      "Attributes": {
+        "AttackIntervalMin": 10,
+        "AttackIntervalMax": 40
+      }
+    },
+    "heal": {
+      "Type": "heal",
+      "Attributes": {
+        "HealCooldown": 0,
+        "HealInterval": 40,
+        "HealPercentage": 0.1
+      }
+    },
+    "blood_orb": {
+      "Type": "blood_orb",
+      "Attributes": {
+        "MaxBloodOrbs": 4,
+        "BloodOrbSpawnIntervalMin": 40,
+        "BloodOrbs": [],
+        "BloodOrbSpawnRadius": 20,
+        "BloodOrbSpawnIntervalMax": 100
+      }
+    },
+    "evoker_fangs": {
+      "Type": "evoker_fangs",
+      "Attributes": {
+        "Radius": 3,
+        "MaxAttackInterval": 200,
+        "FangCount": 5,
+        "Inaccuracy": 1.5,
+        "MeleeDamageMultiplier": 0.7,
+        "MinAttackInterval": 100
+      }
+    },
+    "higher_health": {
+      "Type": "attribute_modifier",
+      "Attributes": {
+        "Operator": "multiply",
+        "Value": 1.5,
+        "Name": "minecraft:generic.max_health"
+      }
+    },
+    "higher_speed": {
+      "Type": "attribute_modifier",
+      "Attributes": {
+        "Operator": "add",
+        "Value": 0.30000001192092896,
+        "Name": "minecraft:generic.movement_speed"
+      }
+    },
+    "life_leech_on_hit": {
+      "Type": "life_leech_on_hit",
+      "Attributes": {
+        "LeechPercentage": 0.5
+      }
+    },
+    "wither_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "minecraft:wither",
+        "Duration": 100,
+        "Amplifier": 0,
+        "Chance": 0.2
+      }
+    },
+    "levitate_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "minecraft:levitation",
+        "Duration": 100,
+        "Amplifier": 0,
+        "Chance": 0.5
+      }
+    },
+    "steal_mana_on_hit": {
+      "Type": "apply_potion_on_hit",
+      "Attributes": {
+        "MobEffect": "the_vault:mana_steal",
+        "Duration": 20,
+        "Amplifier": 0,
+        "Chance": 0.5
+      }
+    },
+    "throw_lingering_poison": {
+      "Type": "throw_potion",
+      "Attributes": {
+        "AttackIntervalMin": 100,
+        "AttackIntervalMax": 200,
+        "SpeedModifier": 1.0,
+        "MobEffect": "minecraft:poison",
+        "AttackRadius": 10.0,
+        "Duration": 100,
+        "Amplifier": 0,
+        "Lingering": 1
+      }
+    },
+    "levitation_aura": {
+      "Type": "potion_aura",
+      "Attributes": {
+        "MobEffect": "minecraft:levitation",
+        "Duration": 40,
+        "Amplifier": 0,
+        "Range": 5
+      }
+    },
+    "bleed_aura": {
+      "Type": "potion_aura",
+      "Attributes": {
+        "MobEffect": "the_vault:bleed",
+        "Duration": 40,
+        "Amplifier": 0,
+        "Range": 5
+      }
+    }
+  },
+  "LootPool": "the_vault:boss_loot"
+}

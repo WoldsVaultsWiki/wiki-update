@@ -2,7 +2,7 @@ import json
 import string
 
 from mwcleric import AuthCredentials
-from mwcleric import PageModifierBase
+from mwcleric import TemplateModifierBase
 from mwcleric import WikiggClient
 from mwparserfromhell.nodes import Template
 
@@ -18,8 +18,8 @@ with open('items.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
-class PageModifier(PageModifierBase):
-    def update_wikitext(self, text):
+class TemplateModifier(TemplateModifierBase):
+    def update_template(self, template: Template):
         # TemplateModifier is a generic framework for modifying templates
         # It will iterate through all pages containing at least one instance
         # of the specified template in the initialization call below and then
@@ -28,12 +28,12 @@ class PageModifier(PageModifierBase):
             # don't do anything outside of the main namespace
             # for example, we don't want to modify template documentation or user sandboxes
             return
-        info = data[self.current_page.lower()]
-        text.add('Weight', info['weight'])
-        text.add('Element', info['element'])
+        info = data[self.current_page.name.lower()]
+        template.add('Weight', info['weight'])
+        template.add('Element', info['element'])
         if (recipe := self.get_recipe_text(info)) is None:
             return
-        text.add('Recipe', recipe)
+        template.add('Recipe', recipe)
         # any changes made before returning will automatically be saved by the runner
 
     @staticmethod
@@ -45,5 +45,5 @@ class PageModifier(PageModifierBase):
             [recipe_string.format(ing=string.capwords(x['ingredient']), q=x['quantity']) for x in info['ingredients']])
 
 
-PageModifier(site, 'Item infobox',
+TemplateModifier(site, 'TestTemplate',
                  summary=summary).run()

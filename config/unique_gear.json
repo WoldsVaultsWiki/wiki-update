@@ -1,0 +1,102 @@
+{
+  "registry": {
+    "the_vault:jester": {
+      "name": "Jester Hat",
+      "model": "the_vault:gear/armor/jester/helmet",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:base_durability",
+          "the_vault:base_lucky_hit_chance"
+        ],
+        "PREFIX": [
+          "the_vault:jester_lucky_hit"
+        ]
+      },
+      "modifierTags": {},
+      "weight": 1
+    },
+    "the_vault:castle": {
+      "name": "The Castle",
+      "model": "the_vault:gear/armor/castle/chestplate",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:base_durability",
+          "the_vault:base_armor"
+        ],
+        "PREFIX": [
+          "the_vault:mod_resistance",
+          "the_vault:mod_resistance"
+        ],
+        "SUFFIX": [
+          "the_vault:mod_knockback_resistance",
+          "the_vault:mod_knockback_resistance",
+          "the_vault:mod_knockback_resistance"
+        ]
+      },
+      "modifierTags": {},
+      "weight": 1
+    },
+    "the_vault:sweetheart": {
+      "name": "The Sweetheart",
+      "model": "the_vault:gear/armor/sweetheart/chestplate",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:base_durability",
+          "the_vault:base_health"
+        ],
+        "PREFIX": [
+          "the_vault:mod_health",
+          "the_vault:mod_health"
+        ],
+        "SUFFIX": [
+        ]
+      },
+      "modifierTags": {},
+      "weight": 10
+    },
+    "the_vault:crystalplate": {
+      "name": "Crystal Plate",
+      "model": "the_vault:gear/armor/crystalplate/chestplate",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:base_durability",
+          "the_vault:base_ap",
+          "the_vault:base_ap"
+        ],
+        "PREFIX": [
+          "the_vault:mod_ap"
+          
+        ],
+        "SUFFIX": [
+          "the_vault:mod_mana_regen",
+          "the_vault:mod_area_of_effect"
+        ]
+      },
+      "modifierTags": {},
+      "weight": 10
+    },
+    "the_vault:grim": {
+      "name": "Grim Shield",
+      "model": "the_vault:gear/shield/grim",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:base_durability"
+        ],
+        "PREFIX": [
+          "the_vault:mod_fear"
+        ]
+      },
+      "modifierTags": {},
+      "weight": 1
+    }
+  },
+  "pools": {
+    "the_vault:default": {
+      "the_vault:jester": 1,
+      "the_vault:sweetheart": 1,
+      "the_vault:castle": 1,
+      "the_vault:grim": 1,
+      "the_vault:crystalplate": 1
+    }
+  }
+}
