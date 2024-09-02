@@ -7,6 +7,7 @@ from mwcleric import TemplateModifierBase
 from mwcleric import WikiggClient
 from mwparserfromhell.nodes import Template
 
+print(os.environ.items)
 credentials = AuthCredentials(user_file='Attackeight')
 print(credentials.username)
 # the following login has been changed to edit gg.wiki.gg rather than sorcererbyriver.wiki.gg
