@@ -1,5 +1,6 @@
 import json
 import string
+import numpy
 
 from mwcleric import AuthCredentials
 from mwcleric import TemplateModifierBase
@@ -12,9 +13,11 @@ credentials = AuthCredentials(user_file="me")
 # so while you are testing your code, you can leave this as-is and view changes at gg.wiki.gg
 # then change it to your wiki afterwards
 site = WikiggClient('vaulthunters', credentials=credentials)
-summary = 'First python data test'
+summary = 'Update Loot tables from config (bot update)'
 
-with open('items.json', 'r', encoding='utf-8') as f:
+# this file contains locations for any configs not locateed in the config/ root directory
+# such as the chest loot tables
+with open('config_translator.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
@@ -28,22 +31,56 @@ class TemplateModifier(TemplateModifierBase):
             # don't do anything outside of the main namespace
             # for example, we don't want to modify template documentation or user sandboxes
             return
-        info = data[self.current_page.name.lower()]
-        template.add('Weight', info['weight'])
-        template.add('Element', info['element'])
-        if (recipe := self.get_recipe_text(info)) is None:
-            return
-        template.add('Recipe', recipe)
+        
+        key = str(template.get("id").value.get(0)).strip()
+
+        try: 
+            loc = data[key]
+        except KeyError:
+            loc = key + ".json"
+        try:
+            file = open('config/' + loc, 'r')
+        except FileNotFoundError:
+            file = open('config/gen/1.0/loot_tables/' + loc, 'r')
+        config = json.load(file)
+
+        # To return
+        items = []
+        quantities = []
+        chances = []
+
+        if 'entries' in config.keys():
+            # Loot table in gen/
+            loot = config['entries'][0]
+
+            # Calculate average number of pools for this loot table, to be multiplied in at the end (or not)
+            rolls = [loot['roll']['min'], loot['roll']['min']]
+            roll_count = numpy.average(rolls)
+
+            pool_list = loot['pool']
+            total_weight = 0
+            for weight_counter in pool_list:
+                # Count up total weight for all pools in the table
+                total_weight += weight_counter['weight']
+            for pool_data in pool_list:
+                pool_weight = pool_data['weight']
+                
+                pool_total_weight = 0
+                for pool_weight_counter in pool_data['pool']:
+                    pool_total_weight += pool_weight_counter['weight']
+                
+                for pool in pool_data['pool']:
+                    item = pool['item']
+                    weight = pool['weight']
+                    quant = str(item['count']['min']) + " - " + str(item['count']['max'])
+
+                    items.append(item['id'])
+                    quantities.append(quant)
+                    chances.append(str(round(((float(weight) / float(pool_total_weight)) * (float(pool_weight) / float(total_weight))) * 100, 2)) + "%")
+
+        template.add('Items', ', '.join(items))
+        template.add('Quantity', ', '.join(quantities))
+        template.add('Chances', ', '.join(chances))
         # any changes made before returning will automatically be saved by the runner
 
-    @staticmethod
-    def get_recipe_text(info):
-        if len(info['ingredients']) == 0:
-            return None
-        recipe_string = '{{{{RecipePart|item={ing}|quantity={q}}}}}'
-        return ''.join(
-            [recipe_string.format(ing=string.capwords(x['ingredient']), q=x['quantity']) for x in info['ingredients']])
-
-
-TemplateModifier(site, 'TestTemplate',
-                 summary=summary).run()
+TemplateModifier(site, 'LootTable', summary=summary).run()
