@@ -72,7 +72,12 @@ class TemplateModifier(TemplateModifierBase):
                 for pool in pool_data['pool']:
                     item = pool['item']
                     weight = pool['weight']
-                    quant = str(item['count']['min']) + " - " + str(item['count']['max'])
+                    minquant = item['count']['min']
+                    maxquant = item['count']['max']
+                    if (minquant == maxquant):
+                        quant = str(minquant)
+                    else:
+                        quant = str(minquant) + " - " + str(maxquant)
 
                     items.append(item['id'])
                     quantities.append(quant)
