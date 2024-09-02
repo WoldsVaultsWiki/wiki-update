@@ -1,5 +1,4 @@
 import json
-import string
 import numpy
 
 from mwcleric import AuthCredentials
