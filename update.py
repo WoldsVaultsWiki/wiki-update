@@ -1,6 +1,5 @@
 import json
 import numpy
-import os
 
 from mwcleric import AuthCredentials
 from mwcleric import TemplateModifierBase
@@ -105,6 +104,30 @@ class TemplateModifier(TemplateModifierBase):
                 item = item_data['id']
                 minquant = item_data['amountMin']
                 maxquant = item_data['amountMax']
+                if (minquant == maxquant):
+                    quant = str(minquant)
+                else:
+                    quant = str(minquant) + " - " + str(maxquant)
+                
+                items.append(item)
+                quantities.append(quant)
+                chances.append(str(round((float(weight) / float(total_weight)) * 100, 2)) + "%")
+        elif 'LEVELS' in config.keys():
+            # Vault altar
+            level = str(template.get("level").value)
+            slot = str(template.get('slot').value)
+            pool = config['LEVELS'][level][slot]
+            
+            total_weight = 0
+            for entry in pool:
+                total_weight += entry['weight']
+
+            for entry in pool:
+                item_data = entry['value']
+                weight = entry['weight']
+                item = item_data['items'][0]
+                minquant = item_data['amount']['min']
+                maxquant = item_data['amount']['max']
                 if (minquant == maxquant):
                     quant = str(minquant)
                 else:
