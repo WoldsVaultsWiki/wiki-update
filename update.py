@@ -125,7 +125,7 @@ class TemplateModifier(TemplateModifierBase):
             for entry in pool:
                 item_data = entry['value']
                 weight = entry['weight']
-                item = item_data['items'][0]
+                item = item_data['items'][0]['item']
                 minquant = item_data['amount']['min']
                 maxquant = item_data['amount']['max']
                 if (minquant == maxquant):
