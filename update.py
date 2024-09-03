@@ -7,9 +7,7 @@ from mwcleric import TemplateModifierBase
 from mwcleric import WikiggClient
 from mwparserfromhell.nodes import Template
 
-print(os.environ.items)
 credentials = AuthCredentials(user_file='Attackeight')
-print(credentials.username)
 # the following login has been changed to edit gg.wiki.gg rather than sorcererbyriver.wiki.gg
 # gg.wiki.gg is our sandbox wiki that anyone may edit for any reason to test scripts
 # so while you are testing your code, you can leave this as-is and view changes at gg.wiki.gg
@@ -84,6 +82,37 @@ class TemplateModifier(TemplateModifierBase):
                     items.append(item['id'])
                     quantities.append(quant)
                     chances.append(str(round(((float(weight) / float(pool_total_weight)) * (float(pool_weight) / float(total_weight))) * 100, 2)) + "%")
+
+        elif 'POOL' in config.keys():
+            # Openables
+            pool = config['POOL']
+
+            if isinstance(pool, dict):
+                # Mod Boxes
+                try:
+                    pool = pool[template.get('TableName')]
+                except KeyError:
+                    print("Mod " + template.get('TableName') + " does not have mod box rewards")
+                    return
+            
+            total_weight = 0
+            for entry in pool:
+                total_weight += entry['weight']
+
+            for entry in pool:
+                item_data = entry['value']
+                weight = entry['weight']
+                item = item_data['id']
+                minquant = item_data['amountMin']
+                maxquant = item_data['amountMax']
+                if (minquant == maxquant):
+                    quant = str(minquant)
+                else:
+                    quant = str(minquant) + " - " + str(maxquant)
+                
+                items.append(item)
+                quantities.append(quant)
+                chances.append(str(round((float(weight) / float(total_weight)) * 100, 2)) + "%")
 
         template.add('Items', ', '.join(items))
         template.add('Quantity', ', '.join(quantities))
