@@ -90,9 +90,9 @@ class TemplateModifier(TemplateModifierBase):
             if isinstance(pool, dict):
                 # Mod Boxes
                 try:
-                    pool = pool[template.get('TableName')]
+                    pool = pool[str(template.get('TableName').value)]
                 except KeyError:
-                    print("Mod " + template.get('TableName') + " does not have mod box rewards")
+                    print("Mod " + str(template.get('TableName').value) + " does not have mod box rewards")
                     return
             
             total_weight = 0
