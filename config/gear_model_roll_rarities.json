@@ -121,7 +121,11 @@
       "the_vault:gear/armor/soulflame",
       "the_vault:gear/armor/phoenix_goldflame",
       "the_vault:gear/armor/phoenix_soulflame",
-      "the_vault:gear/armor/castle"
+      "the_vault:gear/armor/castle",
+      "the_vault:gear/armor/stormcrown",
+      "the_vault:gear/armor/crashguards",
+      "the_vault:gear/armor/spiral_guardian",
+      "the_vault:gear/armor/devilguise"
     ]
   },
   "SWORD_MODEL_ROLLS": {
@@ -176,7 +180,11 @@
       "the_vault:gear/sword/idonas_sword",
       "the_vault:gear/sword/honey_wand",
       "the_vault:gear/sword/godsword",
-      "the_vault:gear/sword/soulflame"
+      "the_vault:gear/sword/soulflame",
+      "the_vault:gear/sword/inflatedjustice",
+      "the_vault:gear/sword/crystalblade",
+      "the_vault:gear/sword/crystaldoubleblade",
+      "the_vault:gear/sword/elite_skeleton_dagger"
 
     ]
   },
@@ -218,7 +226,9 @@
       "the_vault:gear/axe/idonas_scythe",
       "the_vault:gear/axe/blood_cleaver",
       "the_vault:gear/axe/last_sight",
-      "the_vault:gear/axe/godaxe"
+      "the_vault:gear/axe/godaxe",
+      "the_vault:gear/axe/butchers_bone_cleaver",
+      "the_vault:gear/axe/crystal_crusher"
     ]
   },
   "SHIELD_MODEL_ROLLS": {
@@ -256,7 +266,9 @@
       "the_vault:gear/shield/turtle",
       "the_vault:gear/shield/honey_drone",
       "the_vault:gear/shield/grim",
-      "the_vault:gear/shield/slab"
+      "the_vault:gear/shield/slab",
+      "the_vault:gear/shield/cardboard",
+      "the_vault:gear/shield/glass_flower"
     ]
   },
   "WAND_MODEL_ROLLS": {
@@ -289,7 +301,10 @@
       "the_vault:gear/wand/baguette",
       "the_vault:gear/wand/carrot_on_a_wand",
       "the_vault:gear/wand/carri_king",
-      "the_vault:gear/wand/soul"
+      "the_vault:gear/wand/soul",
+      "the_vault:gear/wand/infernos_reach",
+      "the_vault:gear/wand/chaining_wand"
+
     ]
   },
   "FOCUS_MODEL_ROLLS": {
@@ -309,7 +324,8 @@
       "the_vault:gear/focus/tomeofknowledge"
     ],
     "UNIQUE": [
-      "the_vault:gear/focus/soulorb"
+      "the_vault:gear/focus/soulorb",
+      "the_vault:gear/focus/frozenorb"
     ]
   }
 }

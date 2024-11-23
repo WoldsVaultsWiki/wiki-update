@@ -72,7 +72,7 @@
                   "type": "weighted_target",
                   "target": "ispawner:spawner{group:standard}",
                   "output": {
-                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t2_skeleton_pirate_egg\", Count: 13}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_mantis_shrimp\", Count: 1} ] } }": 1
+                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t2_skeleton_pirate_egg\", Count: 13}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 6} ] } }": 1
                   }
               },
               {
@@ -80,7 +80,7 @@
                   "type": "weighted_target",
                   "target": "ispawner:spawner{group:standard}",
                   "output": {
-                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 16}, {id: \"the_vault:vault_fighter_4_egg\", Count: 4}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t2_skeleton_pirate_egg\", Count: 10}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_mantis_shrimp\", Count: 1} ] } }": 1
+                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 16}, {id: \"the_vault:vault_fighter_4_egg\", Count: 4}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t2_skeleton_pirate_egg\", Count: 10}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 10} ] } }": 1
                   }
               },
               {
@@ -88,7 +88,7 @@
                   "type": "weighted_target",
                   "target": "ispawner:spawner{group:standard}",
                   "output": {
-                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 13}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_mantis_shrimp\", Count: 1} ] } }": 1
+                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 13}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 6} ] } }": 1
                   }
               },
               {
@@ -96,7 +96,7 @@
                   "type": "weighted_target",
                   "target": "ispawner:spawner{group:standard}",
                   "output": {
-                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 6}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 10}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t5_skeleton_pirate_egg\", Count: 1}, {id: \"alexsmobs:spawn_egg_mantis_shrimp\", Count: 1} ] } }": 1
+                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 6}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 10}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t5_skeleton_pirate_egg\", Count: 1} ] } }": 1
                   }
               },
               {
@@ -104,7 +104,7 @@
                   "type": "weighted_target",
                   "target": "ispawner:spawner{group:standard}",
                   "output": {
-                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 8}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t5_skeleton_pirate_egg\", Count: 2}, {id: \"alexsmobs:spawn_egg_mantis_shrimp\", Count: 1} ] } }": 1
+                      "ispawner:spawner{ Inventory: { Stacks: [ {id: \"ecologics:coconut_crab_spawn_egg\", Count: 20}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 8}, {id: \"rottencreatures:dead_beard_spawn_egg\", Count: 1}, {id: \"the_vault:t3_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t4_skeleton_pirate_egg\", Count: 8}, {id: \"the_vault:t5_skeleton_pirate_egg\", Count: 2} ] } }": 1
                   }
               }
             ]
@@ -244,8 +244,7 @@
                             "the_vault:skeleton_pirate_t1": 6,
                             "ecologics:coconut_crab": 21,
                             "the_vault:skeleton_pirate_t2": 14,
-                            "the_vault:skeleton_pirate_t3": 2,
-                            "alexsmobs:mantis_shrimp": 1
+                            "the_vault:skeleton_pirate_t3": 2
                           },
                           "weight": 1
                         }
@@ -260,8 +259,7 @@
                           "elements": {
                             "ecologics:coconut_crab": 19,
                             "the_vault:skeleton_pirate_t2": 18,
-                            "the_vault:skeleton_pirate_t3": 2,
-                            "alexsmobs:mantis_shrimp": 1
+                            "the_vault:skeleton_pirate_t3": 2
                           },
                           "weight": 1
                         }
@@ -277,8 +275,7 @@
                             "ecologics:coconut_crab": 19,
                             "the_vault:skeleton_pirate_t2": 9,
                             "the_vault:skeleton_pirate_t3": 9,
-                            "the_vault:skeleton_pirate_t4": 1,
-                            "alexsmobs:mantis_shrimp": 1
+                            "the_vault:skeleton_pirate_t4": 1
                           },
                           "weight": 1
                         }
@@ -294,8 +291,7 @@
                             "ecologics:coconut_crab": 19,
                             "the_vault:skeleton_pirate_t3": 13,
                             "the_vault:skeleton_pirate_t4": 5,
-                            "the_vault:skeleton_pirate_t5": 1,
-                            "alexsmobs:mantis_shrimp": 1
+                            "the_vault:skeleton_pirate_t5": 1
                           },
                           "weight": 1
                         }
@@ -311,8 +307,7 @@
                             "ecologics:coconut_crab": 19,
                             "the_vault:skeleton_pirate_t3": 8,
                             "the_vault:skeleton_pirate_t4": 9,
-                            "the_vault:skeleton_pirate_t5": 3,
-                            "alexsmobs:mantis_shrimp": 1
+                            "the_vault:skeleton_pirate_t5": 3
                           },
                           "weight": 1
                         }

@@ -42,10 +42,10 @@
         "target": "the_vault:vendor_door",
         "output": [
           {
-            "Pool": "the_vault:vault/treasure_rooms/vendor_rooms",
-            "Target": "the_vault:treasure_room",
+            "Pool": "the_vault:vault/vendor_rooms/vendor_rooms",
+            "Target": "the_vault:vendor_room",
             "Palettes": [
-              "the_vault:treasure_rooms/vendor_rooms"
+              "the_vault:vendor_rooms/vendor_rooms"
             ],
             "weight": 1
           }

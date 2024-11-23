@@ -1,29 +1,4 @@
 {
   "jewelRecipes": [
-    {
-      "id": "the_vault:jewel",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:jewel",
-        "NBT": "{\"the_vault:gear_roll_type_pool\":\"jewel_completion\"}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:gemstone",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:silver_scrap",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 9,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        }
-      ]
-    }
   ]
 }

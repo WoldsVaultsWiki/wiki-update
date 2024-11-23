@@ -1,5 +1,6 @@
 {
   "maxLevel": 100,
+  "expMultiplier": 1,
   "levelMetas": [
     {
       "level": 0,

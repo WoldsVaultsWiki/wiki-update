@@ -3512,6 +3512,22 @@
       }
     },
     {
+      "id": "the_vault:vault/decor/crystal_caves/floating3",
+      "name": "Crystal Caves Floating 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/floating3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/floating4",
+      "name": "Crystal Caves Floating 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/floating4.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/crystal_caves/hanging1",
       "name": "Crystal Caves Hanging 1",
       "1.0": {
@@ -3528,6 +3544,22 @@
       }
     },
     {
+      "id": "the_vault:vault/decor/crystal_caves/hanging3",
+      "name": "Crystal Caves Hanging 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/hanging3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/hanging4",
+      "name": "Crystal Caves Hanging 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/hanging4.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/crystal_caves/standing1",
       "name": "Crystal Caves Standing 1",
       "1.0": {
@@ -3541,6 +3573,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/standing2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/standing3",
+      "name": "Crystal Caves Standing 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/standing3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/standing4",
+      "name": "Crystal Caves Standing 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/crystal_caves/standing4.nbt"
       }
     },
     {
@@ -4496,11 +4544,51 @@
       }
     },
     {
-      "id": "the_vault:vault/treasure_rooms/vendor1",
+      "id": "the_vault:vault/vendor_rooms/vendor1",
       "name": "Vendor 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/treasure_rooms/vendor1.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/vendor_rooms/vendor2",
+      "name": "Vendor 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/vendor_rooms/vendor3",
+      "name": "Vendor 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/vendor_rooms/vendor4",
+      "name": "Vendor 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/vendor_rooms/vendor5",
+      "name": "Vendor 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/vendor_rooms/vendor6",
+      "name": "Vendor 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/vendor_rooms/vendor6.nbt"
       }
     },
     {
@@ -4573,6 +4661,14 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/x-mark_treasure1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/x-mark1",
+      "name": "X-mark 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/x-mark1.nbt"
       }
     },
     {
@@ -8224,6 +8320,1038 @@
       }
     },
     {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/wooden1",
+      "name": "Highlighter Mushroom4 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/wooden2",
+      "name": "Highlighter Mushroom4 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/wooden3",
+      "name": "Highlighter Mushroom4 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/wooden4",
+      "name": "Highlighter Mushroom4 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/ornate1",
+      "name": "Highlighter Mushroom4 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/living1",
+      "name": "Highlighter Mushroom4 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/gilded1",
+      "name": "Highlighter Mushroom4 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1/coin1",
+      "name": "Highlighter Mushroom4 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mushroom4/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/wooden1",
+      "name": "Highlighter Pirate1 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/wooden2",
+      "name": "Highlighter Pirate1 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/wooden3",
+      "name": "Highlighter Pirate1 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/wooden4",
+      "name": "Highlighter Pirate1 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/ornate1",
+      "name": "Highlighter Pirate1 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/living1",
+      "name": "Highlighter Pirate1 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/gilded1",
+      "name": "Highlighter Pirate1 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1/coin1",
+      "name": "Highlighter Pirate1 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/wooden1",
+      "name": "Highlighter Pirate1 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/wooden2",
+      "name": "Highlighter Pirate1 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/wooden3",
+      "name": "Highlighter Pirate1 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/wooden4",
+      "name": "Highlighter Pirate1 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/ornate1",
+      "name": "Highlighter Pirate1 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/living1",
+      "name": "Highlighter Pirate1 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/gilded1",
+      "name": "Highlighter Pirate1 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2/coin1",
+      "name": "Highlighter Pirate1 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/wooden1",
+      "name": "Highlighter Pirate1 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/wooden2",
+      "name": "Highlighter Pirate1 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/wooden3",
+      "name": "Highlighter Pirate1 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/wooden4",
+      "name": "Highlighter Pirate1 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/ornate1",
+      "name": "Highlighter Pirate1 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/living1",
+      "name": "Highlighter Pirate1 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/gilded1",
+      "name": "Highlighter Pirate1 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3/coin1",
+      "name": "Highlighter Pirate1 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/wooden1",
+      "name": "Highlighter Pirate1 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/wooden2",
+      "name": "Highlighter Pirate1 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/wooden3",
+      "name": "Highlighter Pirate1 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/wooden4",
+      "name": "Highlighter Pirate1 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/ornate1",
+      "name": "Highlighter Pirate1 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/living1",
+      "name": "Highlighter Pirate1 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/gilded1",
+      "name": "Highlighter Pirate1 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4/coin1",
+      "name": "Highlighter Pirate1 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/structure4/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/bridge1",
+      "name": "Highlighter Pirate1 Bridge 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate1/bridge1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/wooden1",
+      "name": "Highlighter Pirate2 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/wooden2",
+      "name": "Highlighter Pirate2 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/wooden3",
+      "name": "Highlighter Pirate2 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/wooden4",
+      "name": "Highlighter Pirate2 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/ornate1",
+      "name": "Highlighter Pirate2 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/living1",
+      "name": "Highlighter Pirate2 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/gilded1",
+      "name": "Highlighter Pirate2 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1/coin1",
+      "name": "Highlighter Pirate2 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/wooden1",
+      "name": "Highlighter Pirate2 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/wooden2",
+      "name": "Highlighter Pirate2 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/wooden3",
+      "name": "Highlighter Pirate2 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/wooden4",
+      "name": "Highlighter Pirate2 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/ornate1",
+      "name": "Highlighter Pirate2 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/living1",
+      "name": "Highlighter Pirate2 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/gilded1",
+      "name": "Highlighter Pirate2 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2/coin1",
+      "name": "Highlighter Pirate2 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/wooden1",
+      "name": "Highlighter Pirate2 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/wooden2",
+      "name": "Highlighter Pirate2 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/wooden3",
+      "name": "Highlighter Pirate2 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/wooden4",
+      "name": "Highlighter Pirate2 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/ornate1",
+      "name": "Highlighter Pirate2 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/living1",
+      "name": "Highlighter Pirate2 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/gilded1",
+      "name": "Highlighter Pirate2 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3/coin1",
+      "name": "Highlighter Pirate2 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/wooden1",
+      "name": "Highlighter Pirate2 Structure5 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/wooden2",
+      "name": "Highlighter Pirate2 Structure5 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/wooden3",
+      "name": "Highlighter Pirate2 Structure5 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/wooden4",
+      "name": "Highlighter Pirate2 Structure5 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/ornate1",
+      "name": "Highlighter Pirate2 Structure5 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/living1",
+      "name": "Highlighter Pirate2 Structure5 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/gilded1",
+      "name": "Highlighter Pirate2 Structure5 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5/coin1",
+      "name": "Highlighter Pirate2 Structure5 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate2/structure5/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/wooden1",
+      "name": "Highlighter Pirate3 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/wooden2",
+      "name": "Highlighter Pirate3 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/wooden3",
+      "name": "Highlighter Pirate3 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/wooden4",
+      "name": "Highlighter Pirate3 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/ornate1",
+      "name": "Highlighter Pirate3 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/living1",
+      "name": "Highlighter Pirate3 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/gilded1",
+      "name": "Highlighter Pirate3 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1/coin1",
+      "name": "Highlighter Pirate3 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/wooden1",
+      "name": "Highlighter Pirate3 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/wooden2",
+      "name": "Highlighter Pirate3 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/wooden3",
+      "name": "Highlighter Pirate3 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/wooden4",
+      "name": "Highlighter Pirate3 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/ornate1",
+      "name": "Highlighter Pirate3 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/living1",
+      "name": "Highlighter Pirate3 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/gilded1",
+      "name": "Highlighter Pirate3 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2/coin1",
+      "name": "Highlighter Pirate3 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/wooden1",
+      "name": "Highlighter Pirate3 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/wooden2",
+      "name": "Highlighter Pirate3 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/wooden3",
+      "name": "Highlighter Pirate3 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/wooden4",
+      "name": "Highlighter Pirate3 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/ornate1",
+      "name": "Highlighter Pirate3 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/living1",
+      "name": "Highlighter Pirate3 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/gilded1",
+      "name": "Highlighter Pirate3 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3/coin1",
+      "name": "Highlighter Pirate3 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/wooden1",
+      "name": "Highlighter Pirate3 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/wooden2",
+      "name": "Highlighter Pirate3 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/wooden3",
+      "name": "Highlighter Pirate3 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/wooden4",
+      "name": "Highlighter Pirate3 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/ornate1",
+      "name": "Highlighter Pirate3 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/living1",
+      "name": "Highlighter Pirate3 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/gilded1",
+      "name": "Highlighter Pirate3 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4/coin1",
+      "name": "Highlighter Pirate3 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate3/structure4/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/wooden1",
+      "name": "Highlighter Pirate4 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/wooden2",
+      "name": "Highlighter Pirate4 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/wooden3",
+      "name": "Highlighter Pirate4 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/wooden4",
+      "name": "Highlighter Pirate4 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/ornate1",
+      "name": "Highlighter Pirate4 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/living1",
+      "name": "Highlighter Pirate4 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/gilded1",
+      "name": "Highlighter Pirate4 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1/coin1",
+      "name": "Highlighter Pirate4 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/wooden1",
+      "name": "Highlighter Pirate4 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/wooden2",
+      "name": "Highlighter Pirate4 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/wooden3",
+      "name": "Highlighter Pirate4 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/wooden4",
+      "name": "Highlighter Pirate4 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/ornate1",
+      "name": "Highlighter Pirate4 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/living1",
+      "name": "Highlighter Pirate4 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/gilded1",
+      "name": "Highlighter Pirate4 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2/coin1",
+      "name": "Highlighter Pirate4 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/wooden1",
+      "name": "Highlighter Pirate4 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/wooden2",
+      "name": "Highlighter Pirate4 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/wooden3",
+      "name": "Highlighter Pirate4 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/wooden4",
+      "name": "Highlighter Pirate4 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/ornate1",
+      "name": "Highlighter Pirate4 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/living1",
+      "name": "Highlighter Pirate4 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/gilded1",
+      "name": "Highlighter Pirate4 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3/coin1",
+      "name": "Highlighter Pirate4 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/pirate4/structure3/coin1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/omega/library1",
       "name": "Omega Library 1",
       "1.0": {
@@ -8448,131 +9576,195 @@
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_1a",
-      "name": "Catacomb 1a",
+      "id": "the_vault:vault/decor/village/village1/corner_nw/catacomb1",
+      "name": "Village1 Catacomb NW 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1a.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_nw/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_1b",
-      "name": "Catacomb 1b",
+      "id": "the_vault:vault/decor/village/village1/corner_ne/catacomb1",
+      "name": "Village1 Catacomb NE 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1b.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_ne/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_2a",
-      "name": "Catacomb 2a",
+      "id": "the_vault:vault/decor/village/village1/corner_sw/catacomb1",
+      "name": "Village1 Catacomb SW 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2a.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_sw/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_2b",
-      "name": "Catacomb 2b",
+      "id": "the_vault:vault/decor/village/village1/corner_se/catacomb1",
+      "name": "Village1 Catacomb SE 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2b.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_se/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_3a",
-      "name": "Catacomb 3a",
+      "id": "the_vault:vault/decor/village/village1/corner_nw/catacomb2",
+      "name": "Village1 Catacomb NW 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3a.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_nw/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_3b",
-      "name": "Catacomb 3b",
+      "id": "the_vault:vault/decor/village/village1/corner_ne/catacomb2",
+      "name": "Village1 Catacomb NE 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3b.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_ne/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_4a",
-      "name": "Catacomb 4a",
+      "id": "the_vault:vault/decor/village/village1/corner_sw/catacomb2",
+      "name": "Village1 Catacomb SW 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4a.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_sw/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_4b",
-      "name": "Catacomb 4b",
+      "id": "the_vault:vault/decor/village/village1/corner_se/catacomb2",
+      "name": "Village1 Catacomb SE 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4b.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village1/corner_se/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_1c",
-      "name": "Catacomb 1c",
+      "id": "the_vault:vault/decor/village/village2/corner_nw/catacomb1",
+      "name": "Village2 Catacomb NW 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1c.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_nw/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_1d",
-      "name": "Catacomb 1d",
+      "id": "the_vault:vault/decor/village/village2/corner_ne/catacomb1",
+      "name": "Village2 Catacomb NE 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1d.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_ne/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_2c",
-      "name": "Catacomb 2c",
+      "id": "the_vault:vault/decor/village/village2/corner_sw/catacomb1",
+      "name": "Village2 Catacomb SW 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2c.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_sw/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_2d",
-      "name": "Catacomb 2d",
+      "id": "the_vault:vault/decor/village/village2/corner_se/catacomb1",
+      "name": "Village2 Catacomb SE 1",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2d.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_se/catacomb1.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_3c",
-      "name": "Catacomb 3c",
+      "id": "the_vault:vault/decor/village/village2/corner_nw/catacomb2",
+      "name": "Village2 Catacomb NW 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3c.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_nw/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_3d",
-      "name": "Catacomb 3d",
+      "id": "the_vault:vault/decor/village/village2/corner_ne/catacomb2",
+      "name": "Village2 Catacomb NE 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3d.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_ne/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_4c",
-      "name": "Catacomb 4c",
+      "id": "the_vault:vault/decor/village/village2/corner_sw/catacomb2",
+      "name": "Village2 Catacomb SW 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4c.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_sw/catacomb2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb_4d",
-      "name": "Catacomb 4d",
+      "id": "the_vault:vault/decor/village/village2/corner_se/catacomb2",
+      "name": "Village2 Catacomb SE 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4d.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village2/corner_se/catacomb2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_nw/catacomb1",
+      "name": "Village3 Catacomb NW 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_nw/catacomb1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_ne/catacomb1",
+      "name": "Village3 Catacomb NE 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_ne/catacomb1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_sw/catacomb1",
+      "name": "Village3 Catacomb SW 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_sw/catacomb1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_se/catacomb1",
+      "name": "Village3 Catacomb SE 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_se/catacomb1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_nw/catacomb2",
+      "name": "Village3 Catacomb NW 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_nw/catacomb2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_ne/catacomb2",
+      "name": "Village3 Catacomb NE 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_ne/catacomb2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_sw/catacomb2",
+      "name": "Village3 Catacomb SW 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_sw/catacomb2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_se/catacomb2",
+      "name": "Village3 Catacomb SE 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/village3/corner_se/catacomb2.nbt"
       }
     },
     {
@@ -8776,19 +9968,27 @@
       }
     },
     {
-      "id": "the_vault:vault/dungeon_rooms/spider_large2",
+      "id": "the_vault:vault/dungeon_rooms/spider_large_2",
       "name": "Spider Large 2",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large2.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_2.nbt"
       }
     },
     {
-      "id": "the_vault:vault/dungeon_rooms/spider_large3",
+      "id": "the_vault:vault/dungeon_rooms/spider_large_3",
       "name": "Spider Large 3",
       "1.0": {
         "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large3.nbt"
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large_4",
+      "name": "Spider Large 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_4.nbt"
       }
     },
     {
@@ -9008,30 +10208,6 @@
       }
     },
     {
-      "id": "the_vault:vault/dungeon_rooms/spider_large_2",
-      "name": "Spider Large 4",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/dungeon_rooms/spider_large_3",
-      "name": "Spider Large 5",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_3.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/structure3.zip",
-      "name": "Structure 3",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
-      }
-    },
-    {
       "id": "the_vault:vault/rooms/special/boss1",
       "name": "Boss Room",
       "1.0": {
@@ -9045,6 +10221,934 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid1",
+      "name": "Raid Room",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/raid1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/raid1",
+      "name": "Raid Start 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/raid1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/tunnels/raid1",
+      "name": "Raid Tunnel 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/tunnels/raid1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/tunnels/raid2",
+      "name": "Raid Tunnel 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/tunnels/raid2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/tunnels/raid3",
+      "name": "Raid Tunnel 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/tunnels/raid3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate0",
+      "name": "Raid Room Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate1",
+      "name": "Raid Room Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate2",
+      "name": "Raid Room Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate3",
+      "name": "Raid Room Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate4",
+      "name": "Raid Room Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/gate5",
+      "name": "Raid Room Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/gate5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch0",
+      "name": "Raid Room Hatch Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch1",
+      "name": "Raid Room Hatch Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch2",
+      "name": "Raid Room Hatch Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch3",
+      "name": "Raid Room Hatch Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch4",
+      "name": "Raid Room Hatch Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch5",
+      "name": "Raid Room Hatch Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch6",
+      "name": "Raid Room Hatch Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch7",
+      "name": "Raid Room Hatch Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/raid/hatch8",
+      "name": "Raid Room Hatch Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/raid/hatch8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/laboratory1",
+      "name": "Laboratory Room 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/laboratory1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/laboratory2",
+      "name": "Laboratory Room 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/laboratory2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/gate0",
+      "name": "Laboratory Room 1 Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/gate1",
+      "name": "Laboratory Room 1 Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/gate2",
+      "name": "Laboratory Room 1 Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/gate3",
+      "name": "Laboratory Room 1 Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/gate4",
+      "name": "Laboratory Room 1 Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/gate0",
+      "name": "Laboratory Room 2 Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/gate1",
+      "name": "Laboratory Room 2 Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/gate2",
+      "name": "Laboratory Room 2 Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/gate3",
+      "name": "Laboratory Room 2 Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/gate4",
+      "name": "Laboratory Room 2 Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod0",
+      "name": "Laboratory Room 1 Pod Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod1",
+      "name": "Laboratory Room 1 Pod Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod2",
+      "name": "Laboratory Room 1 Pod Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod3",
+      "name": "Laboratory Room 1 Pod Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod4",
+      "name": "Laboratory Room 1 Pod Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod5",
+      "name": "Laboratory Room 1 Pod Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod6",
+      "name": "Laboratory Room 1 Pod Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod7",
+      "name": "Laboratory Room 1 Pod Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod8",
+      "name": "Laboratory Room 1 Pod Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod9",
+      "name": "Laboratory Room 1 Pod Frame 9",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod9.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory1/pod10",
+      "name": "Laboratory Room 1 Pod Frame 10",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory1/pod10.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod0",
+      "name": "Laboratory Room 2 Pod Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod1",
+      "name": "Laboratory Room 2 Pod Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod2",
+      "name": "Laboratory Room 2 Pod Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod3",
+      "name": "Laboratory Room 2 Pod Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod4",
+      "name": "Laboratory Room 2 Pod Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod5",
+      "name": "Laboratory Room 2 Pod Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod6",
+      "name": "Laboratory Room 2 Pod Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod7",
+      "name": "Laboratory Room 2 Pod Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod8",
+      "name": "Laboratory Room 2 Pod Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod9",
+      "name": "Laboratory Room 2 Pod Frame 9",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod9.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/laboratory2/pod10",
+      "name": "Laboratory Room 2 Pod Frame 10",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/laboratory2/pod10.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate0",
+      "name": "Boss Room 1 Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate1",
+      "name": "Boss Room 1 Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate2",
+      "name": "Boss Room 1 Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate3",
+      "name": "Boss Room 1 Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate4",
+      "name": "Boss Room 1 Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate5",
+      "name": "Boss Room 1 Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate6",
+      "name": "Boss Room 1 Gate Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss1/gate7",
+      "name": "Boss Room 1 Gate Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss1/gate7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate0",
+      "name": "Boss Room 2 Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate1",
+      "name": "Boss Room 2 Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate2",
+      "name": "Boss Room 2 Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate3",
+      "name": "Boss Room 2 Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate4",
+      "name": "Boss Room 2 Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate5",
+      "name": "Boss Room 2 Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate6",
+      "name": "Boss Room 2 Gate Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate7",
+      "name": "Boss Room 2 Gate Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate8",
+      "name": "Boss Room 2 Gate Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate9",
+      "name": "Boss Room 2 Gate Frame 9",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate9.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/boss2/gate10",
+      "name": "Boss Room 2 Gate Frame 10",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/boss2/gate10.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure0",
+      "name": "X-Mark 1 Treasure Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure1",
+      "name": "X-Mark 1 Treasure Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure2",
+      "name": "X-Mark 1 Treasure Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure3",
+      "name": "X-Mark 1 Treasure Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure4",
+      "name": "X-Mark 1 Treasure Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure5",
+      "name": "X-Mark 1 Treasure Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/treasure6",
+      "name": "X-Mark 1 Treasure Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/treasure6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped0",
+      "name": "X-Mark 1 Trapped Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped1",
+      "name": "X-Mark 1 Trapped Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped2",
+      "name": "X-Mark 1 Trapped Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped3",
+      "name": "X-Mark 1 Trapped Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped4",
+      "name": "X-Mark 1 Trapped Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped5",
+      "name": "X-Mark 1 Trapped Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/trapped6",
+      "name": "X-Mark 1 Trapped Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/trapped6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover0",
+      "name": "X-Mark 1 Cover Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover1",
+      "name": "X-Mark 1 Cover Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover2",
+      "name": "X-Mark 1 Cover Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover3",
+      "name": "X-Mark 1 Cover Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover4",
+      "name": "X-Mark 1 Cover Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover5",
+      "name": "X-Mark 1 Cover Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover6",
+      "name": "X-Mark 1 Cover Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover7",
+      "name": "X-Mark 1 Cover Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover8",
+      "name": "X-Mark 1 Cover Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover9",
+      "name": "X-Mark 1 Cover Frame 9",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover9.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/animations/x-mark1/cover10",
+      "name": "X-Mark 1 Cover Frame 10",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/animations/x-mark1/cover10.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_1a",
+      "name": "Catacomb 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1a.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_1b",
+      "name": "Catacomb 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1b.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_1c",
+      "name": "Catacomb 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1c.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_1d",
+      "name": "Catacomb 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_1d.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_2a",
+      "name": "Catacomb 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2a.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_2b",
+      "name": "Catacomb 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2b.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_2c",
+      "name": "Catacomb 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2c.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_2d",
+      "name": "Catacomb 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_2d.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_3a",
+      "name": "Catacomb 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3a.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_3b",
+      "name": "Catacomb 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3b.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_3c",
+      "name": "Catacomb 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3c.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_3d",
+      "name": "Catacomb 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_3d.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_4a",
+      "name": "Catacomb 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4a.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_4b",
+      "name": "Catacomb 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4b.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_4c",
+      "name": "Catacomb 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4c.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb_4d",
+      "name": "Catacomb 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/village/catacomb_4d.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large2",
+      "name": "Spider Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large3",
+      "name": "Spider Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large3.nbt"
       }
     }
   ]

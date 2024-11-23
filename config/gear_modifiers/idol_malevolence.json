@@ -1,9 +1,12 @@
 {
   "modifierGroup": {
-    "IMPLICIT": [
+    "BASE_ATTRIBUTES": [
       { "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
+        "tags": [
+          "resilientFocusTarget"
+        ],
         "tiers": [
           {
             "minLevel": 0,
@@ -57,6 +60,40 @@
           }
         ]
       },
+      { "attribute": "the_vault:soulbound",
+        "group": "BaseSoulbound",
+        "identifier": "the_vault:base_soulbound",
+        "tags": [
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      { "attribute": "the_vault:soulbound",
+        "group": "BaseSoulbound",
+        "identifier": "the_vault:base_no_soulbound",
+        "tags": [
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 80,
+            "value": {
+              "flag": false
+            }
+          }
+        ]
+      }
+    ],
+    "IMPLICIT": [
       { "attribute": "the_vault:mana_additive",
         "group": "BaseMaxMana",
         "identifier": "the_vault:base_mana_additive",
@@ -111,38 +148,6 @@
               "min": 91,
               "max": 100,
               "step": 1
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:soulbound",
-        "group": "BaseSoulbound",
-        "identifier": "the_vault:base_soulbound",
-        "tags": [
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      { "attribute": "the_vault:soulbound",
-        "group": "BaseSoulbound",
-        "identifier": "the_vault:base_no_soulbound",
-        "tags": [
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 80,
-            "value": {
-              "flag": false
             }
           }
         ]
@@ -1293,6 +1298,7 @@
         }
       ]
       }
-    ]
+    ],
+    "CORRUPTED_IMPLICIT": []
   }
 }

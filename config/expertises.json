@@ -27,6 +27,20 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "lucky_altar",
+            "luckyAltarChance": 0.4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "lucky_altar",
+            "luckyAltarChance": 0.5,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
           }
         ]
       },
@@ -37,14 +51,21 @@
         "tiers": [
           {
             "type": "shop_pedestal",
-            "costReduction": 0.25,
+            "costReduction": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.5,
+            "costReduction": 0.3,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "shop_pedestal",
+            "costReduction": 0.45,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -133,8 +154,32 @@
         "tiers": [
           {
             "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.06,
+            "attribute": "the_vault:durability_wear_reduction_cap",
+            "value": 0.05,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction_cap",
+            "value": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction_cap",
+            "value": 0.15,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction_cap",
+            "value": 0.2,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -142,31 +187,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.12,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.18,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.24,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.3,
+            "value": 0.25,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -341,22 +362,8 @@
         "tiers": [
           {
             "type": "jeweler",
-            "numberOfFreeCuts": 1,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "jeweler",
-            "numberOfFreeCuts": 2,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "jeweler",
-            "numberOfFreeCuts": 3,
-            "learnPointCost": 1,
+            "additionalIdentifiedJewels": 1,
+            "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0
           }
@@ -387,6 +394,30 @@
             "type": "marketer",
             "timeReductionInMinutes": 0,
             "numberOfRolls": 3,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 5,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 6,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0

@@ -1,6 +1,10 @@
 [
   {
     "weight": 1,
+    "reference": "the_vault:vault/rooms/chaos/aurora_cave_common_rooms"
+  },
+  {
+    "weight": 1,
     "reference": "the_vault:vault/rooms/chaos/beach_common_rooms"
   },
   {

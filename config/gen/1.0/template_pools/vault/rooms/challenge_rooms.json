@@ -12,7 +12,7 @@
         "reference": "the_vault:vault/rooms/challenge/village"
       },
       {
-        "weight": 10,
+        "weight": 0,
         "reference": "the_vault:vault/rooms/challenge/wildwest"
       },
       {
@@ -22,5 +22,13 @@
       {
         "weight": 10,
         "reference": "the_vault:vault/rooms/challenge/x-mark"
+      },
+      {
+        "weight": 4,
+        "reference": "the_vault:vault/rooms/challenge/raid/rooms"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/laboratory"
       }
 ]

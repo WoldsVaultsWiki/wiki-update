@@ -29,6 +29,10 @@
               "type": "default",
               "RandomModifiers": 0
             },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_chaos_cake"
+            },
             "Properties": {
               "type": "capacity",
               "exhausted": 1,
@@ -50,10 +54,10 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:plunderer", 
+                  "id": "the_vault:plunderer",
                   "size": 1
-                  }
-                ]
+                }
+              ]
             },
             "Properties": {
               "type": "capacity",
@@ -76,10 +80,10 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:afterlife", 
+                  "id": "the_vault:afterlife",
                   "size": 1
-                  }
-                ]
+                }
+              ]
             },
             "Properties": {
               "type": "capacity",
@@ -102,16 +106,16 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:chaos", 
+                  "id": "the_vault:chaos",
                   "size": 1
-                  }
-                ]
+                }
+              ]
             },
             "Model": {
               "type": "chaos"
             },
             "Theme": {
-              "type": "value", 
+              "type": "value",
               "id": "the_vault:classic_vault_chaos"
             },
             "Properties": {
@@ -135,10 +139,10 @@
               "RandomModifiers": 0,
               "List": [
                 {
-                  "id": "the_vault:herald", 
+                  "id": "the_vault:herald",
                   "size": 1
-                  }
-                ]
+                }
+              ]
             },
             "Objective": {
               "type": "herald"
@@ -147,7 +151,7 @@
               "type": "herald"
             },
             "Theme": {
-              "type": "value", 
+              "type": "value",
               "id": "the_vault:classic_vault_herald"
             },
             "Time": {
@@ -214,6 +218,78 @@
               "type": "capacity",
               "exhausted": 1,
               "volume": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "the_vault:crystal_seal_raid",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "raid"
+            },
+            "Theme": {
+              "type": "pool",
+              "id": "the_vault:base_raid"
+            },
+            "Layout": {
+              "type": "raid"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:raid",
+                  "size": 1
+                }
+              ]
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "the_vault:crystal_seal_raid_infinite",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "raid"
+            },
+            "Theme": {
+              "type": "pool",
+              "id": "the_vault:infinite_raid"
+            },
+            "Layout": {
+              "type": "raid"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:raid",
+                  "size": 1
+                }
+              ]
             },
             "Version": 3
           }

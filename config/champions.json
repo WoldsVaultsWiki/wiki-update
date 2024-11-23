@@ -3,22 +3,24 @@
   "entityChampionChance": {
     "@the_vault:dungeon": 0.02,
     "@the_vault:tank": 0.02,
-    "@the_vault:horde": -0.5,
-    "the_vault:smolcap": -0.5,
-    "minecraft:villager": -0.5,
-    "minecraft:chicken": -0.5,
-    "rottencreatures:flying_scarab": -0.5,
-    "minecraft:cod": -0.5,
-    "minecraft:salmon": -0.5,
-    "minecraft:tropical_fish": -0.5,
-    "minecraft:axolotl": -0.5,
-    "minecraft:pufferfish": -0.5,
-    "rottencreatures:scarab": -0.5,
-    "minecraft:shulker": -0.5,
-    "minecraft:shulker_bullet": -0.5,
-    "minecraft:slime": -0.5,
-    "rottencreatures:zombie_lackey": -0.5,
-    "rottencreatures:skeleton_lackey": -0.5
+    "@the_vault:horde": -10.0,
+    "the_vault:smolcap": -10.0,
+    "minecraft:villager": -10.0,
+    "minecraft:chicken": -10.0,
+    "rottencreatures:flying_scarab": -10.0,
+    "minecraft:cod": -10.0,
+    "minecraft:salmon": -10.0,
+    "minecraft:tropical_fish": -10.0,
+    "minecraft:axolotl": -10.0,
+    "minecraft:pufferfish": -10.0,
+    "rottencreatures:scarab": -10.0,
+    "minecraft:shulker": -10.0,
+    "minecraft:shulker_bullet": -10.0,
+    "minecraft:slime": -10.0,
+    "minecraft:silverfish": -10.0,
+    "rottencreatures:zombie_lackey": -10.0,
+    "rottencreatures:skeleton_lackey": -10.0,
+    "alexsmobs:catfish": -10.0
   },
   "defaultAttributeOverrides": [
     {
@@ -113,40 +115,48 @@
   "entityAffixesData": {
     "@the_vault:mobs": [
       {
-        "value": "{amplifier:0,chance:1.0f,duration:60,mob_effect:\"minecraft:poison\",name:\"Poisonous\",type:\"on_hit_apply_potion\"}",
+        "value": "{amplifier:1,chance:1.0f,duration:60,mob_effect:\"minecraft:poison\",name:\"Poisonous\",type:\"on_hit_apply_potion\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,chance:1.0f,duration:60,mob_effect:\"minecraft:mining_fatigue\",name:\"Fatiguing Strike\",type:\"on_hit_apply_potion\"}",
+        "value": "{amplifier:1,duration:20,mob_effect:\"the_vault:mana_steal\",name:\"Mana Steal Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,chance:1.0f,duration:80,mob_effect:\"the_vault:freeze\",name:\"Freezing\",type:\"on_hit_apply_potion\"}",
-        "weight": 3.0
+        "value": "{amplifier:1,chance:1.0f,duration:80,mob_effect:\"the_vault:mana_steal\",name:\"Mana Stealing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:4,chance:1.0f,duration:100,mob_effect:\"the_vault:vulnerable\",name:\"Vulnerability\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,chance:1.0f,duration:80,mob_effect:\"the_vault:freeze\",name:\"Freezing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
       },
       {
         "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:weakness\",name:\"Weakening Strike\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:0,duration:20,mob_effect:\"minecraft:mining_fatigue\",name:\"Fatiguing\",range:5,target:\"player\",type:\"potion_aura\"}",
-        "weight": 0.0
-      },
-      {
-        "value": "{amplifier:1,duration:20,mob_effect:\"minecraft:resistance\",name:\"Reinforcing\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "value": "{amplifier:1,duration:40,mob_effect:\"the_vault:freeze\",name:\"Freezing Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,duration:20,mob_effect:\"minecraft:speed\",name:\"Accelerating\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "value": "{amplifier:1,duration:40,mob_effect:\"the_vault:vulnerable\",name:\"Vulnerability Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:resistance\",name:\"Reinforcing\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:speed\",name:\"Accelerating\",range:5,target:\"mob\",type:\"potion_aura\"}",
         "weight": 2.0
       },
       {
-        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:strength\",name:\"Strengthening\",range:4,target:\"mob\",type:\"potion_aura\"}",
-        "weight": 1.0
-      },
-      {
-        "value": "{amplifier:0,duration:20,mob_effect:\"alexsmobs:knockback_resistance\",name:\"Sturdy\",range:5,target:\"mob\",type:\"potion_aura\"}",
-        "weight": 0.0
+        "value": "{amplifier:3,duration:20,mob_effect:\"minecraft:strength\",name:\"Strengthening\",range:4,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
       },
       {
         "value": "{amplifier:0,duration:80,mob_effect:\"the_vault:immortality\",name:\"Immune\",range:10,target:\"mob\",type:\"potion_aura\"}",
@@ -154,45 +164,45 @@
       },
       {
         "value": "{leech_percentage:5.0f,name:\"Leeching\",type:\"leech_on_hit\"}",
-        "weight": 50.0
+        "weight": 4.0
       }
     ],
     "@the_vault:dungeon": [
       {
-        "value": "{amplifier:0,chance:1.0f,duration:60,mob_effect:\"minecraft:poison\",name:\"Poisonous\",type:\"on_hit_apply_potion\"}",
+        "value": "{amplifier:1,chance:1.0f,duration:60,mob_effect:\"minecraft:poison\",name:\"Poisonous\",type:\"on_hit_apply_potion\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,chance:1.0f,duration:60,mob_effect:\"minecraft:mining_fatigue\",name:\"Fatiguing Strike\",type:\"on_hit_apply_potion\"}",
+        "value": "{amplifier:1,duration:20,mob_effect:\"the_vault:mana_steal\",name:\"Mana Steal Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,chance:1.0f,duration:80,mob_effect:\"the_vault:freeze\",name:\"Freezing\",type:\"on_hit_apply_potion\"}",
-        "weight": 3.0
+        "value": "{amplifier:1,chance:1.0f,duration:80,mob_effect:\"the_vault:mana_steal\",name:\"Mana Stealing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,chance:1.0f,duration:80,mob_effect:\"the_vault:freeze\",name:\"Freezing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
       },
       {
         "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:weakness\",name:\"Weakening Strike\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:0,duration:20,mob_effect:\"minecraft:mining_fatigue\",name:\"Fatiguing\",range:5,target:\"player\",type:\"potion_aura\"}",
-        "weight": 0.0
-      },
-      {
-        "value": "{amplifier:1,duration:20,mob_effect:\"minecraft:resistance\",name:\"Reinforcing\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "value": "{amplifier:1,duration:40,mob_effect:\"the_vault:freeze\",name:\"Freezing Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
         "weight": 4.0
       },
       {
-        "value": "{amplifier:1,duration:20,mob_effect:\"minecraft:speed\",name:\"Accelerating\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:resistance\",name:\"Reinforcing\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:speed\",name:\"Accelerating\",range:5,target:\"mob\",type:\"potion_aura\"}",
         "weight": 2.0
       },
       {
-        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:strength\",name:\"Strengthening\",range:4,target:\"mob\",type:\"potion_aura\"}",
-        "weight": 1.0
-      },
-      {
-        "value": "{amplifier:0,duration:20,mob_effect:\"alexsmobs:knockback_resistance\",name:\"Sturdy\",range:5,target:\"mob\",type:\"potion_aura\"}",
-        "weight": 0.0
+        "value": "{amplifier:3,duration:20,mob_effect:\"minecraft:strength\",name:\"Strengthening\",range:4,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
       },
       {
         "value": "{amplifier:0,duration:80,mob_effect:\"the_vault:immortality\",name:\"Immune\",range:10,target:\"mob\",type:\"potion_aura\"}",
@@ -200,7 +210,53 @@
       },
       {
         "value": "{leech_percentage:5.0f,name:\"Leeching\",type:\"leech_on_hit\"}",
+        "weight": 4.0
+      }
+    ],
+    "@the_vault:illagers": [
+      {
+        "value": "{amplifier:1,chance:1.0f,duration:60,mob_effect:\"minecraft:poison\",name:\"Poisonous\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:1,duration:20,mob_effect:\"the_vault:mana_steal\",name:\"Mana Steal Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:1,chance:1.0f,duration:80,mob_effect:\"the_vault:mana_steal\",name:\"Mana Stealing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,chance:1.0f,duration:80,mob_effect:\"the_vault:freeze\",name:\"Freezing\",type:\"on_hit_apply_potion\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:weakness\",name:\"Weakening Strike\",range:5,target:\"player\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:1,duration:40,mob_effect:\"the_vault:freeze\",name:\"Freezing Aura\",range:5,target:\"player\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:resistance\",name:\"Reinforcing\",range:5,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:2,duration:20,mob_effect:\"minecraft:speed\",name:\"Accelerating\",range:5,target:\"mob\",type:\"potion_aura\"}",
         "weight": 2.0
+      },
+      {
+        "value": "{amplifier:3,duration:20,mob_effect:\"minecraft:strength\",name:\"Strengthening\",range:4,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 4.0
+      },
+      {
+        "value": "{amplifier:0,duration:80,mob_effect:\"the_vault:immortality\",name:\"Immune\",range:10,target:\"mob\",type:\"potion_aura\"}",
+        "weight": 2.0
+      },
+      {
+        "value": "{leech_percentage:5.0f,name:\"Leeching\",type:\"leech_on_hit\"}",
+        "weight": 4.0
       }
     ]
   }

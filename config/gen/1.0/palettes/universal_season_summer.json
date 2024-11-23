@@ -621,7 +621,7 @@
             "target": "@the_vault:vault_lootables",
             "stack": [
                 "THEME_SEASON_SUMMER",
-                "THEME_CATEGORY_PIRATE"
+                "THEME_CATEGORY_BEACH"
             ]
         },
         {
@@ -629,7 +629,7 @@
             "target": "ispawner:spawner",
             "stack": [
                 "THEME_SEASON_SUMMER",
-                "THEME_CATEGORY_PIRATE"
+                "THEME_CATEGORY_BEACH"
             ]
         }
     ],

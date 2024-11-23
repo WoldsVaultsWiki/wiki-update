@@ -629,23 +629,6 @@
       },
 
 
-      { "workbenchCraftIdentifier": "the_vault:crafted_soulbound_t0",
-        "modifierIdentifier": "the_vault:crafted_soulbound",
-        "modifierTier": 0,
-        "unlockCategory": "LEVEL",
-        "craftingCost": [
-          {
-            "AMOUNT": 8,
-            "ITEM": "the_vault:amplifying_focus",
-            "NBT": "{}"
-          },
-          {
-            "AMOUNT": 8,
-            "ITEM": "the_vault:vault_gold",
-            "NBT": "{}"
-          }
-        ]
-      },
       { "workbenchCraftIdentifier": "the_vault:crafted_copiously_t0",
         "modifierIdentifier": "the_vault:crafted_copiously",
         "modifierTier": 0,

@@ -9,7 +9,7 @@
             "target": "minecraft:cobblestone",
             "output": {
                 "architects_palette:twisted_leaves": 4,
-                "minecraft:purple_concrete": 3,
+                "quark:myalite": 3,
                 "auxiliaryblocks:purple_gelatin": 2
             }
         },
@@ -32,7 +32,7 @@
                 "architects_palette:osseous_skull": 2,
                 "architects_palette:lit_osseous_skull": 1,
                 "architects_palette:twisted_leaves": 1,
-                "minecraft:purple_concrete": 1,
+                "quark:myalite": 1,
                 "auxiliaryblocks:purple_gelatin": 1
             }
         },

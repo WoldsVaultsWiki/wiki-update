@@ -17,7 +17,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Common+",
-            "weight": 4
+            "weight": 8
           },
           {
             "value": "Rare+",
@@ -25,7 +25,7 @@
           },
           {
             "value": "Epic+",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "Omega",
@@ -72,6 +72,66 @@
           {
             "value": "Omega",
             "weight": 1
+          }
+        ]
+      }
+    ],
+    "strong_common": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common+",
+            "weight": 40
+          },
+          {
+            "value": "Scrappy+",
+            "weight": 40
+          }
+        ]
+      }
+    ],
+    "strong_rare": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common+",
+            "weight": 40
+          },
+          {
+            "value": "Rare+",
+            "weight": 40
+          }
+        ]
+      }
+    ],
+    "strong_epic": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare+",
+            "weight": 40
+          },
+          {
+            "value": "Epic+",
+            "weight": 40
+          }
+        ]
+      }
+    ],
+    "strong_omega": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Epic+",
+            "weight": 40
+          },
+          {
+            "value": "Omega",
+            "weight": 10
           }
         ]
       }
@@ -367,11 +427,11 @@
         "rollTypeOutcomes": [
           {
             "value": "Common",
-            "weight": 50
+            "weight": 91
           },
           {
             "value": "Rare",
-            "weight": 8
+            "weight": 6
           },
           {
             "value": "Epic",
@@ -616,6 +676,39 @@
           },
           {
             "value": "Epic+",
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "gear_bounty_rare": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Rare+",
+            "weight": 6
+          }
+        ]
+      }
+    ],
+    "gear_epic": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Epic+",
+            "weight": 6
+          }
+        ]
+      }
+    ],
+    "gear_omega": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Omega",
             "weight": 1
           }
         ]

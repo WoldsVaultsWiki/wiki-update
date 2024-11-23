@@ -7,85 +7,85 @@
     },
     {
       "id": "the_vault:classic_vault_ice",
-      "name": "Ice",
+      "name": "Snowfell: Blizzard",
       "color": 5364991,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_ice.json"
     },
     {
       "id": "the_vault:classic_vault_ice_cave",
-      "name": "Ice Cave",
+      "name": "Snowfell: Caverns",
       "color": 5364991,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_ice_cave.json"
     },
     {
       "id": "the_vault:classic_vault_cave",
-      "name": "Cave",
+      "name": "Rockfall: Caverns",
       "color": 9932424,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave.json"
     },
     {
       "id": "the_vault:classic_vault_lush_cave",
-      "name": "Lush Cave",
+      "name": "Jungle: Caverns",
       "color": 4427270,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_lush_cave.json"
     },
     {
       "id": "the_vault:classic_vault_living_cave",
-      "name": "Honey Cave",
+      "name": "Jungle: Honey",
       "color": 16111110,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_living_cave.json"
     },
     {
       "id": "the_vault:classic_vault_nether_crimson",
-      "name": "Crimson Nether",
+      "name": "Nether: Crimson",
       "color": 16719128,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_nether_crimson.json"
     },
     {
       "id": "the_vault:classic_vault_nether_warped",
-      "name": "Warped Nether",
+      "name": "Nether: Warped",
       "color": 6602192,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_nether_warped.json"
     },
     {
       "id": "the_vault:classic_vault_desert",
-      "name": "Desert",
+      "name": "Desert: Dunes",
       "color": 15852472,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_desert.json"
     },
     {
       "id": "the_vault:classic_vault_sandy_cave",
-      "name": "Sandy Cave",
+      "name": "Desert: Cavern",
       "color": 15852472,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_sandy_cave.json"
     },
     {
       "id": "the_vault:classic_vault_beach",
-      "name": "Oasis",
+      "name": "Oasis: Grotto",
       "color": 14873528,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_beach.json"
     },
     {
       "id": "the_vault:classic_vault_mesa",
-      "name": "Mesa",
+      "name": "Desert: Mesa",
       "color": 14840320,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_mesa.json"
     },
     {
       "id": "the_vault:classic_vault_deep_mesa",
-      "name": "Deep Mesa",
+      "name": "Desert: Badlands",
       "color": 14840320,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_deep_mesa.json"
     },
     {
       "id": "the_vault:classic_vault_void",
-      "name": "Void",
+      "name": "Void: Deepdark",
       "color": 1313588,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_void.json"
     },
     {
       "id": "the_vault:classic_vault_factory_void",
-      "name": "Factory Void",
+      "name": "Void: Factory",
       "color": 8057652,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_factory_void.json"
     },
@@ -131,79 +131,79 @@
     },
     {
       "id": "the_vault:classic_vault_cave_deepslate",
-      "name": "Deepslate Caves",
+      "name": "Rockfall: Deepslate",
       "color": 594432,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_deepslate.json"
     },
     {
       "id": "the_vault:classic_vault_cave_geode",
-      "name": "Geode Caves",
+      "name": "Rockfall: Geodes",
       "color": 6231630,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_geode.json"
     },
     {
       "id": "the_vault:classic_vault_cave_wasteland",
-      "name": "Wasteland Caves",
+      "name": "Rockfall:: Wasteland",
       "color": 7488811,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_wasteland.json"
     },
     {
       "id": "the_vault:classic_vault_end_void",
-      "name": "End Void",
+      "name": "Void: End",
       "color": 5769258,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_end_void.json"
     },
     {
       "id": "the_vault:classic_vault_nether_blackstone",
-      "name": "Dark Nether",
+      "name": "Nether: Dark",
       "color": 8587306,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_nether_blackstone.json"
     },
     {
       "id": "the_vault:classic_vault_nether_soul",
-      "name": "Soul Nether",
+      "name": "Nether: Souls",
       "color": 3417881,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_nether_soul.json"
     },
     {
       "id": "the_vault:classic_vault_sweet",
-      "name": "Sweet Domains",
+      "name": "Sweet: Domains",
       "color": 16273280,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_sweet.json"
     },
     {
       "id": "the_vault:classic_vault_festive",
-      "name": "Festive",
+      "name": "Festive: Holidays",
       "color": 16711808,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_festive.json"
     },
     {
       "id": "the_vault:classic_vault_gingerbread",
-      "name": "Gingerbread",
+      "name": "Festive: Gingerbread",
       "color": 8800023,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_gingerbread.json"
     },
     {
       "id": "the_vault:classic_vault_mushroom",
-      "name": "Mushroom",
+      "name": "Forest: Mushroom",
       "color": 10027008,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_mushroom.json"
     },
     {
       "id": "the_vault:classic_vault_flooded",
-      "name": "Flooded",
+      "name":"Oasis: Flooded",
       "color": 7775663,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_flooded.json"
     },
     {
       "id": "the_vault:classic_vault_fairy_ring",
-      "name": "Fairy Ring",
+      "name": "Forest: Enchanted",
       "color": 12245105,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_fairy_ring.json"
     },
     {
       "id": "the_vault:classic_vault_poison",
-      "name": "Poison",
+      "name": "Forest: Poison",
       "color": 13217235,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_poison.json"
     },
@@ -234,13 +234,13 @@
     },
     {
       "id": "the_vault:classic_vault_easter_egg",
-      "name": "Easter Egg",
+      "name": "Festive: Egg",
       "color": 16777100,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_easter_egg.json"
     },
     {
       "id": "the_vault:classic_vault_easter_pastel",
-      "name": "Easter Pastel",
+      "name": "Festive: Easter",
       "color": 16766676,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_easter_pastel.json"
     },
@@ -251,57 +251,87 @@
     },
     {
       "id": "the_vault:classic_vault_shipwreck",
-      "name": "Shipwreck",
+      "name": "Oasis: Shipwreck",
       "color": 13623024,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_shipwreck.json"
     },
     {
       "id": "the_vault:classic_vault_haunted",
-      "name": "Haunted",
+      "name": "Oasis: Haunted",
       "color": 5086371,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_haunted.json"
     },
     {
       "id": "the_vault:classic_vault_sea_floor",
-      "name": "Sea Floor",
+      "name": "Oasis: Sea Floor",
       "color": 6353107,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_sea_floor.json"
     },
     {
       "id": "the_vault:classic_vault_blood_moon",
-      "name": "Blood Moon",
+      "name": "Bloodveil: Bloodmoon",
       "color": 10161689,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood_moon.json"
     },
     {
       "id": "the_vault:classic_vault_season_spring",
-      "name": "Spring",
+      "name": "Jungle: Spring",
       "color": 15718399,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_season_spring.json"
     },
     {
       "id": "the_vault:classic_vault_season_summer",
-      "name": "Summer",
+      "name": "Oasis: Summer",
       "color": 16773287,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_season_summer.json"
     },
     {
       "id": "the_vault:classic_vault_season_fall",
-      "name": "Fall",
+      "name": "Forest: Fall",
       "color": 13605677,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_season_fall.json"
     },
     {
       "id": "the_vault:classic_vault_season_winter",
-      "name": "Winter",
+      "name": "Snowfall: Winter",
       "color": 16777215,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_season_winter.json"
     },
     {
       "id": "the_vault:classic_vault_flesh",
-      "name": "Flesh Pit",
+      "name": "Bloodveil: Flesh Pit",
       "color": 14446491,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_flesh.json"
+    },
+    {
+      "id": "the_vault:classic_vault_aurora_cave",
+      "name": "Snowfall: Aurora",
+      "color": 4533914,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_aurora_cave.json"
+    },
+    {
+      "id": "the_vault:raid_vault_base_orcish",
+      "name": "Raid Vault Orcish",
+      "color": 15620906,
+      "1.0": "config/the_vault/gen/1.0/themes/raid/base_orcish.json"
+    },
+    {
+      "id": "the_vault:raid_vault_base_easter",
+      "name": "Raid Vault Easter",
+      "color": 2865278,
+      "1.0": "config/the_vault/gen/1.0/themes/raid/base_easter.json"
+    },
+    {
+      "id": "the_vault:raid_vault_infinite_orcish",
+      "name": "Raid Vault Orcish",
+      "color": 15620906,
+      "1.0": "config/the_vault/gen/1.0/themes/raid/infinite_orcish.json"
+    },
+    {
+      "id": "the_vault:raid_vault_infinite_easter",
+      "name": "Raid Vault Easter",
+      "color": 2865278,
+      "1.0": "config/the_vault/gen/1.0/themes/raid/infinite_easter.json"
     },
     {
       "id": "the_vault:raw_vault_cave_granite",
@@ -416,6 +446,24 @@
       "name": "Herald",
       "color": 12017225,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_herald.json"
+    },
+    {
+      "id": "the_vault:classic_vault_chaos_cake",
+      "name": "Cake",
+      "color": 16761049,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_chaos_cake.json"
+    },
+    {
+      "id": "the_vault:classic_vault_blood",
+      "name": "Bloodveil: Dawn",
+      "color": 9109504,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood.json"
+    },
+    {
+      "id": "the_vault:classic_vault_blood_ash",
+      "name": "Bloodveil: Ashen",
+      "color": 9109504,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blood_ash.json"
     }
   ]
 }

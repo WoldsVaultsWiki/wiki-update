@@ -159,11 +159,6 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -190,11 +185,6 @@
         {
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -223,11 +213,6 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -254,11 +239,6 @@
         {
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -287,17 +267,12 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 2,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
     {
       "toolType": "PICK",
-      "toolMaterial": "VAULTERITE_INGOT",
+      "toolMaterial": "VAULT_ALLOY",
       "id": "the_vault:tool/pick/vaulterite_ingot",
       "output": {
         "AMOUNT": 1,
@@ -319,17 +294,12 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 3,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
     {
       "toolType": "AXE",
-      "toolMaterial": "VAULTERITE_INGOT",
+      "toolMaterial": "VAULT_ALLOY",
       "id": "the_vault:tool/axe/vaulterite_ingot",
       "output": {
         "AMOUNT": 1,
@@ -351,17 +321,12 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 3,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
     {
       "toolType": "SHOVEL",
-      "toolMaterial": "VAULTERITE_INGOT",
+      "toolMaterial": "VAULT_ALLOY",
       "id": "the_vault:tool/shovel/vaulterite_ingot",
       "output": {
         "AMOUNT": 1,
@@ -383,17 +348,12 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 3,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
     {
       "toolType": "HAMMER",
-      "toolMaterial": "VAULTERITE_INGOT",
+      "toolMaterial": "VAULT_ALLOY",
       "id": "the_vault:tool/hammer/vaulterite_ingot",
       "output": {
         "AMOUNT": 1,
@@ -415,17 +375,12 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 3,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
     {
       "toolType": "SICKLE",
-      "toolMaterial": "VAULTERITE_INGOT",
+      "toolMaterial": "VAULT_ALLOY",
       "id": "the_vault:tool/sickle/vaulterite_ingot",
       "output": {
         "AMOUNT": 1,
@@ -447,199 +402,11 @@
           "AMOUNT": 81,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 3,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
-    {
-      "toolType": "PICK",
-      "toolMaterial": "VAULT_ALLOY",
-      "id": "the_vault:tool/pick/vault_alloy",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:tool",
-        "NBT": "{Damage:0,color:[I;],offset:0L,vaultGearData:[L;-3840906241546862423L,1527150799918867395L,1514722424829605915L,4616400934536516931L,-9223371767994609471L,1247687999500L,-8852492746032676864L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318423552L,4633360432631010572L,-20668329451L,4111L,1549260833888952320L,-3592552224287028140L,35321811042289L,18084767253659648L]}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_silver_ingot",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 48,
-          "ITEM": "the_vault:driftwood",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 81,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 4,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
-      "toolType": "AXE",
-      "toolMaterial": "VAULT_ALLOY",
-      "id": "the_vault:tool/axe/vault_alloy",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:tool",
-        "NBT": "{Damage:0,color:[I;],offset:0L,vaultGearData:[L;8240754627256265705L,-8877868488210480934L,1514722424829605914L,4616400934536516931L,-9223371767994609471L,1247687999500L,-8852492746032676864L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318423552L,4633360432631010572L,-20668329451L,4111L,1549260833880563712L,-63927426998793132L,8623489023L,4415226380288L]}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_silver_ingot",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 48,
-          "ITEM": "the_vault:driftwood",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 81,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 4,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
-      "toolType": "SHOVEL",
-      "toolMaterial": "VAULT_ALLOY",
-      "id": "the_vault:tool/shovel/vault_alloy",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:tool",
-        "NBT": "{Damage:0,color:[I;],offset:0L,vaultGearData:[L;-4729536742696940839L,1898021677507376804L,1514722424829605915L,4616400934536516931L,-9223371767994609471L,1247687999500L,-8852492746032676864L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318423552L,4633360432631010572L,-20668329451L,4111L,1549260833901535232L,870711814924864596L,-9187343239839532909L,0L,257L]}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_silver_ingot",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 48,
-          "ITEM": "the_vault:driftwood",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 81,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 4,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
-      "toolType": "HAMMER",
-      "toolMaterial": "VAULT_ALLOY",
-      "id": "the_vault:tool/hammer/vault_alloy",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:tool",
-        "NBT": "{Damage:0,color:[I;],offset:0L,vaultGearData:[L;6518672689654420633L,8763214014500634832L,1514722424829605914L,4616400934536516931L,-9223371767994609471L,1247687999500L,-8852492471154769920L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318390784L,3463853960964756748L,-4503599626233307L,269484031L,-9217596139602182144L,55115572979717141L,-1354519638884275L,269484031L,1478628598762962944L,-3224258109546162816L,-3810373100L,513L,263168L]}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_silver_ingot",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 48,
-          "ITEM": "the_vault:driftwood",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 81,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 4,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
-        }
-      ]
-    },
-    {
-      "toolType": "SICKLE",
-      "toolMaterial": "VAULT_ALLOY",
-      "id": "the_vault:tool/sickle/vault_alloy",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:tool",
-        "NBT": "{Damage:0,color:[I;],offset:0L,vaultGearData:[L;-1231009382122911415L,-7023393746035582680L,1514722424829605912L,4616400934536516931L,-9223371767994609471L,1247687999500L,-8852492746032676864L,-8559560530332385260L,18372019767163027L,288230376101658624L,4L,4833775685013162312L,6063184587157488789L,-68719411194L,4111L,6058889699318423552L,4633360432631010572L,-20668329451L,4111L,1549260833888952320L,-3592464830158271404L,35321811042289L,18084767253659648L]}"
-      },
-      "inputs": [
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_silver_ingot",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 48,
-          "ITEM": "the_vault:driftwood",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 81,
-          "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 4,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
-        }
-      ]
-    },
+
+
     {
       "toolType": "PICK",
       "toolMaterial": "BLACK_CHROMATIC_STEEL_INGOT",
@@ -663,11 +430,6 @@
         {
           "AMOUNT": 162,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -696,11 +458,6 @@
           "AMOUNT": 162,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -727,11 +484,6 @@
         {
           "AMOUNT": 162,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -760,11 +512,6 @@
           "AMOUNT": 162,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -791,11 +538,6 @@
         {
           "AMOUNT": 162,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -824,11 +566,6 @@
           "AMOUNT": 256,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -855,11 +592,6 @@
         {
           "AMOUNT": 256,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -888,11 +620,6 @@
           "AMOUNT": 256,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -920,11 +647,6 @@
           "AMOUNT": 256,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -951,11 +673,6 @@
         {
           "AMOUNT": 256,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -989,11 +706,6 @@
           "AMOUNT": 1024,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -1025,11 +737,6 @@
         {
           "AMOUNT": 1024,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]
@@ -1063,11 +770,6 @@
           "AMOUNT": 1024,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -1100,11 +802,6 @@
           "AMOUNT": 1024,
           "ITEM": "the_vault:vault_bronze",
           "NBT": "{}"
-        },
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:wutodic_mass",
-          "NBT": "{}"
         }
       ]
     },
@@ -1136,11 +833,6 @@
         {
           "AMOUNT": 1024,
           "ITEM": "the_vault:vault_bronze",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 24,
-          "ITEM": "the_vault:wutodic_mass",
           "NBT": "{}"
         }
       ]

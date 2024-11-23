@@ -1501,20 +1501,6 @@
             "rewardPool": "rare"
           },
           "weight": 1
-        },
-        {
-          "value": {
-            "value": "the_vault:jewel",
-            "amount": {
-              "min": 12,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "rare"
-          },
-          "weight": 1
         }
       ]
     }

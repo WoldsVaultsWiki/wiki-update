@@ -97,5 +97,16 @@
         }
       ]
     }
-  ]
+  ],
+
+  "shiverEffect": {
+    "range": 2,
+    "effectDuration": 10,
+    "effectAmplifier": 3
+  },
+  "swampZombieEffect": {
+    "range": 2,
+    "effectDuration": 60,
+    "effectAmplifier": 2
+  }
 }

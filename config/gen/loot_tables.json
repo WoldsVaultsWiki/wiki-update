@@ -11,6 +11,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/ancient_copper_golem.json"
     },
     {
+      "id": "the_vault:companion_goblin",
+      "name": "Companion Goblin",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/companion_goblin.json"
+    },
+    {
       "id": "the_vault:ancient_copper_golem_exposed",
       "name": "Ancient Copper Golem Exposed",
       "1.0": "config/the_vault/gen/1.0/loot_tables/ancient_copper_golem_exposed.json"

@@ -37,8 +37,10 @@
       "slowness": "#d1d0ae",
       "text": "#192022",
       "unbreaking": "#dcc4f0",
-      "glacialChance": "#85edfe"
-      
+      "glacialChance": "#85edfe",
+      "areaOfEffect": "#e9c375",
+      "healthPoints": "#8EEDD9",
+      "thornsDamage": "#c55757"
     },
     "custom": {
       "gearResistance": "#FEDD00",
@@ -100,7 +102,10 @@
       "velara": "#54fc54",
       "normal": "#81f19b",
       "impossible": "#7721e1",
-      "gold": "#ffd42a"
+      "gold": "#ffd42a",
+      "simple": "#69cad8",
+      "medium": "#FFA500",
+      "difficult": "#FF0000"
     }
   }
 }

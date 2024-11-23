@@ -6,10 +6,6 @@
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/ore_placeholder_nether"
-        },
-        {
-            "type": "reference",
             "id": "the_vault:generic/treasure_door_placeholder"
         },
         {
@@ -653,7 +649,7 @@
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/nether_elite_spawners"
+            "id": "the_vault:generic/common_elite_spawners"
         },
         {
             "type": "reference",

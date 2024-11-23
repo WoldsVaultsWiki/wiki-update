@@ -8,7 +8,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 10}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 10}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6} ] } }": 1
                     }
                 },
                 {
@@ -16,7 +16,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 10}, {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 10}, {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6} ] } }": 1
                     }
                 },
                 {
@@ -24,7 +24,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 9}, {id: \"the_vault:vault_fighter_0_egg\", Count: 9}, {id: \"the_vault:t1_skeleton_egg\", Count: 1}, {id: \"the_vault:vault_fighter_1_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 9}, {id: \"the_vault:vault_fighter_0_egg\", Count: 9}, {id: \"the_vault:t1_cave_skeleton_egg\", Count: 1}, {id: \"the_vault:vault_fighter_1_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -32,7 +32,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 9}, {id: \"the_vault:vault_fighter_0_egg\", Count: 7}, {id: \"the_vault:t1_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_1_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 9}, {id: \"the_vault:vault_fighter_0_egg\", Count: 7}, {id: \"the_vault:t1_cave_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_1_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3} ] } }": 1
                     }
                 },
                 {
@@ -40,7 +40,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 7}, {id: \"the_vault:vault_fighter_0_egg\", Count: 5}, {id: \"the_vault:t1_skeleton_egg\", Count: 3}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 3}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 4} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 7}, {id: \"the_vault:vault_fighter_0_egg\", Count: 5}, {id: \"the_vault:t1_cave_skeleton_egg\", Count: 3}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 3}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 4} ] } }": 1
                     }
                 },
                 {
@@ -48,7 +48,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"minecraft:skeleton_spawn_egg\", Count: 5}, {id: \"the_vault:vault_fighter_0_egg\", Count: 2},{id: \"the_vault:t1_skeleton_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 18}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 5} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t0_cave_skeleton_spawn_egg\", Count: 5}, {id: \"the_vault:vault_fighter_0_egg\", Count: 2},{id: \"the_vault:t1_cave_skeleton_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 18}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 5} ] } }": 1
                     }
                 },
                 {
@@ -56,7 +56,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_skeleton_egg\", Count: 9}, {id: \"the_vault:vault_fighter_1_egg\", Count: 9},{id: \"the_vault:t2_skeleton_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_cave_skeleton_egg\", Count: 9}, {id: \"the_vault:vault_fighter_1_egg\", Count: 9},{id: \"the_vault:t2_cave_skeleton_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -64,7 +64,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_skeleton_egg\", Count: 7}, {id: \"the_vault:vault_fighter_1_egg\", Count: 7}, {id: \"the_vault:t2_skeleton_egg\", Count: 3}, {id: \"the_vault:vault_fighter_2_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 5}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_cave_skeleton_egg\", Count: 6}, {id: \"the_vault:t2_cave_skeleton_egg\", Count: 3}, {id: \"the_vault:t3_cave_skeleton_egg\", Count: 1}, {id: \"the_vault:vault_fighter_1_egg\", Count: 7}, {id: \"the_vault:vault_fighter_2_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 5}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 2} ] } }": 1
                     }
                 },
                 {
@@ -72,7 +72,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_skeleton_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:t2_skeleton_egg\", Count: 5}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_cave_skeleton_egg\", Count: 2}, {id: \"the_vault:t2_cave_skeleton_egg\", Count: 4}, {id: \"the_vault:t3_cave_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4} ] } }": 1
                     }
                 },
                 {
@@ -80,7 +80,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t1_skeleton_egg\", Count: 6},  {id: \"the_vault:t2_skeleton_egg\", Count: 14}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:t3_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_cave_skeleton_egg\", Count: 6},  {id: \"the_vault:t3_cave_skeleton_egg\", Count: 14}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:t4_cave_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -88,7 +88,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 18}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:t3_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 3} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t3_cave_skeleton_egg\", Count: 18}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:t4_cave_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 3} ] } }": 1
                     }
                 },
                 {
@@ -96,7 +96,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 18}, {id: \"the_vault:vault_fighter_2_egg\", Count: 12}, {id: \"the_vault:t3_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_4_egg\", Count: 8}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t3_cave_skeleton_egg\", Count: 14}, {id: \"the_vault:vault_fighter_2_egg\", Count: 12}, {id: \"the_vault:t4_cave_skeleton_egg\", Count: 6}, {id: \"the_vault:vault_fighter_4_egg\", Count: 8}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -104,7 +104,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 8}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 12}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 3}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t3_cave_skeleton_egg\", Count: 10}, {id: \"the_vault:t4_cave_skeleton_egg\", Count: 10}, {id: \"the_vault:t5_cave_skeleton_egg\", Count: 2}, {id: \"the_vault:vault_fighter_2_egg\", Count: 8}, {id: \"the_vault:vault_fighter_4_egg\", Count: 12}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 3}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -112,7 +112,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t3_cave_skeleton_egg\", Count: 8}, {id: \"the_vault:t4_cave_skeleton_egg\", Count: 8}, {id: \"the_vault:t5_cave_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 2} ] } }": 1
                     }
                 }
                  
@@ -161,11 +161,26 @@
                         {
                           "elements": {
                             "quark:wraith": 2,
-                            "minecraft:skeleton": 2
+                            "the_vault:t0_cave_skeleton": 2
                           },
                           "weight": 1
                         }
                       ]
+                },
+                {
+                    "level": 20,
+                    "type": "spawner",
+                    "target": "ispawner:spawner{group:assassin}",
+                    "output": [
+                        {
+                          "elements": {
+                            "the_vault:t1_cave_skeleton": 5,
+                            "quark:wraith": 3,
+                            "the_vault:t0_cave_skeleton": 2
+                          },
+                          "weight": 1
+                        }
+                     ]
                 },
                 {
                     "level": 30,
@@ -174,9 +189,9 @@
                     "output": [
                         {
                           "elements": {
-                            "minecraft:skeleton": 6,
-                            "quark:wraith": 6,
-                            "the_vault:t1_skeleton": 6
+                            "the_vault:t1_cave_skeleton": 3,
+                            "quark:wraith": 3,
+                            "the_vault:t0_cave_skeleton": 3
                           },
                           "weight": 1
                         }
@@ -189,9 +204,9 @@
                     "output": [
                         {
                           "elements": {
-                            "minecraft:skeleton": 3,
-                            "quark:wraith": 6,
-                            "the_vault:t1_skeleton": 9
+                            "the_vault:t1_cave_skeleton": 1,
+                            "quark:wraith": 3,
+                            "the_vault:t0_cave_skeleton": 6
                           },
                           "weight": 1
                         }
@@ -204,9 +219,9 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t1_skeleton": 9,
-                            "quark:wraith": 6,
-                            "the_vault:t2_skeleton": 4
+                            "the_vault:t2_cave_skeleton": 1,
+                            "quark:wraith": 2,
+                            "the_vault:t1_cave_skeleton": 4
                           },
                           "weight": 1
                         }
@@ -219,9 +234,9 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t1_skeleton": 6,
-                            "quark:wraith": 6,
-                            "the_vault:t2_skeleton": 6
+                            "the_vault:t2_cave_skeleton": 2,
+                            "quark:wraith": 2,
+                            "the_vault:t1_cave_skeleton": 3
                           },
                           "weight": 1
                         }
@@ -234,9 +249,10 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t3_skeleton": 1,
-                            "the_vault:t2_skeleton": 10,
-                            "quark:wraith": 6
+                            "the_vault:t3_cave_skeleton": 2,
+                            "the_vault:t2_cave_skeleton": 14,
+                            "the_vault:t1_cave_skeleton": 6,
+                            "quark:wraith": 10
                           },
                           "weight": 1
                         }
@@ -249,9 +265,9 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t3_skeleton": 2,
-                            "the_vault:t2_skeleton": 10,
-                            "quark:wraith": 6
+                            "the_vault:t3_cave_skeleton": 2,
+                            "the_vault:t2_cave_skeleton": 18,
+                            "quark:wraith": 9
                           },
                           "weight": 1
                         }
@@ -264,9 +280,10 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t3_skeleton": 2,
-                            "the_vault:t2_skeleton": 10,
-                            "quark:wraith": 6
+                            "the_vault:t4_cave_skeleton": 1,
+                            "the_vault:t3_cave_skeleton": 9,
+                            "the_vault:t2_cave_skeleton": 9,
+                            "quark:wraith": 9
                           },
                           "weight": 1
                         }
@@ -279,9 +296,10 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t3_skeleton": 3,
-                            "the_vault:t2_skeleton": 9,
-                            "quark:wraith": 6
+                            "the_vault:t5_cave_skeleton": 1,
+                            "the_vault:t4_cave_skeleton": 5,
+                            "the_vault:t3_cave_skeleton": 13,
+                            "quark:wraith": 9
                           },
                           "weight": 1
                         }
@@ -294,9 +312,10 @@
                     "output": [
                         {
                           "elements": {
-                            "the_vault:t3_skeleton": 4,
-                            "the_vault:t2_skeleton": 9,
-                            "quark:wraith": 6
+                            "the_vault:t5_cave_skeleton": 3,
+                            "the_vault:t4_cave_skeleton": 9,
+                            "the_vault:t3_cave_skeleton": 8,
+                            "quark:wraith": 9
                           },
                           "weight": 1
                         }

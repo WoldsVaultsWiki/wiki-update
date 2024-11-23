@@ -10,7 +10,8 @@
         "elixir": "the_vault:base_crate_0",
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_0",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo_full": "the_vault:bingo_full_crate",
+        "offering_boss": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
@@ -27,7 +28,8 @@
         "elixir": "the_vault:base_crate_0",
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_0",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo_full": "the_vault:bingo_full_crate",
+        "offering_boss": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl0",
@@ -44,7 +46,8 @@
         "elixir": "the_vault:base_crate_20",
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_20",
-        "bingo_full": "the_vault:bingo_full_crate"
+        "bingo_full": "the_vault:bingo_full_crate",
+        "offering_boss": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl20",
@@ -61,7 +64,8 @@
         "elixir": "the_vault:base_crate_50",
         "paradox": "the_vault:completion_paradox",
         "bingo": "the_vault:base_crate_50",
-        "bingo_full": "the_vault:bingo_bonus"
+        "bingo_full": "the_vault:bingo_bonus",
+        "offering_boss": "the_vault:base_crate_0"
       },
       "GLADIATOR_CRATE": "the_vault:completion_crate_lvl0",
       "CHAMPION": "the_vault:champion_loot_lvl50",

@@ -95,7 +95,7 @@
           "type": "template_stack_tile",
           "target": "@the_vault:vault_lootables",
           "stack": [
-              "STRUCTURE_DUNGEON_MEDIUM"
+              "STRUCTURE_DUNGEON"
           ]
       },
       {

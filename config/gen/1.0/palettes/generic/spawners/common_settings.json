@@ -153,6 +153,17 @@
                         "ispawner:spawner{ group:horde }": 8,
                         "ispawner:spawner{ group:standard }": 7
                     }
+                },
+                {
+                    "level": 70,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ group:tank }": 3,
+                        "ispawner:spawner{ group:assassin }": 2,
+                        "ispawner:spawner{ group:horde }": 8,
+                        "ispawner:spawner{ group:standard }": 1
+                    }
                 }
             ]
         }

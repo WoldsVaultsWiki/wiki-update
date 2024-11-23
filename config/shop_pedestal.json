@@ -307,14 +307,13 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:jewel",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+              "item": "the_vault:jewel_pouch"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
+            "MIN_COST": 16,
+            "MAX_COST": 32
           },
-          "weight": 124
+          "weight": 80
         },
         {
           "value": {
@@ -656,14 +655,13 @@
         {
           "value": {
               "OFFER": {
-                  "item": "the_vault:jewel",
-                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+                  "item": "the_vault:jewel_pouch"
               },
               "CURRENCY": "the_vault:vault_gold",
-              "MIN_COST": 8,
-              "MAX_COST": 24
+              "MIN_COST": 16,
+              "MAX_COST": 32
           },
-          "weight": 111
+          "weight": 76
         },
         {
           "value": {
@@ -727,9 +725,53 @@
               },
               "CURRENCY": "the_vault:vault_gold",
               "MIN_COST": 24,
-              "MAX_COST": 32
+              "MAX_COST": 64
           },
           "weight": 26
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:cryonic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 24,
+              "MAX_COST": 64
+          },
+          "weight": 26
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:pyretic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 24,
+              "MAX_COST": 64
+          },
+          "weight": 26
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:vorpal_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 24,
+              "MAX_COST": 64
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:empowered_chaotic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 24,
+              "MAX_COST": 32
+          },
+          "weight": 40
         },
         {
           "value": {
@@ -1093,14 +1135,13 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:jewel",
-              "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_blackmarket\"}"
+              "item": "the_vault:jewel_pouch"
             },
             "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 4,
-            "MAX_COST": 16
+            "MIN_COST": 16,
+            "MAX_COST": 32
           },
-          "weight": 110
+          "weight": 80
         },
         {
           "value": {
@@ -1167,6 +1208,50 @@
             "MAX_COST": 64
           },
           "weight": 19
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:cryonic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 32,
+              "MAX_COST": 64
+          },
+          "weight": 19
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:pyretic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 32,
+              "MAX_COST": 64
+          },
+          "weight": 19
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:vorpal_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 32,
+              "MAX_COST": 64
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+              "OFFER": {
+                  "item": "the_vault:empowered_chaotic_focus"
+              },
+              "CURRENCY": "the_vault:vault_gold",
+              "MIN_COST": 24,
+              "MAX_COST": 48
+          },
+          "weight": 44
         },
         {
           "value": {

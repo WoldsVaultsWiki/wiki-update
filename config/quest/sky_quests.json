@@ -790,7 +790,11 @@
       "descriptionData": {
         "description": [
           {
-            "text": "The Tool Station can be used to craft tools that are able to significantly enhance your experience in the vaults. It can also be used to craft jewels that can be applied to your vault tool",
+            "text": "The Tool Station can be used to craft tools that significantly enhance your experience in the vaults.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\n(Most vault stations now keep their inventory when broken)",
             "color": "$text"
           },
           {
@@ -802,7 +806,7 @@
       "icon": "the_vault:gui/quests/station",
       "targetId": "the_vault:tool_station",
       "targetProgress": 1.0,
-      "unlockedBy": "complete_bounty2",
+      "unlockedBy": "enter_vault",
       "reward": {
         "items": [
           {
@@ -812,7 +816,7 @@
         ],
         "vaultExp": 0
       }
-    },
+    },    
     {
       "type": "forge_gear",
       "id": "craft_tool",
@@ -828,7 +832,7 @@
             "color": "$text"
           },
           {
-            "text": "\n\nThere are also jewels that can change the tools functionality to include that of another. For example you could put a Shovelling jewel on a Pick to create a Mattock that can mine as fast as a pickaxe and dig as quick as a shovel!",
+            "text": "\n\nThere are also jewels that can change the tools functionality to include that of another. For example you could put a Shovelling jewel on a Pick to create a Mattock that can mine as fast as a pickaxe and dig as quick as a shovel! ",
             "color": "$text"
           },
           {
@@ -945,19 +949,23 @@
         "items": [
           {
             "item": "the_vault:jewel",
-            "nbt": "{vaultGearData:[L;-4041209260859438085L,-2135709318924711839L,1514722424829630571L,3527585455153845571L,-4337177541746540532L,-8539474061198775740L,-5924056819481868879L,4708514820545434005L,5833230247887458501L,-6313307067014436559L,109808844892416242L,-2676582356912304984L,-6869114626580620066L,-7184786208479598494L,6927847328646594563L,46207130776109184L,2524991149926686892L,-7908320945661965631L,-6401156405226632638L,2854745157834L,2590449395040256L,2954924305508466688L,5956118949417493545L,3615058605675556393L,0L,-3826156956482011136L,-805397933298103660L,-4233005412219989302L,-8553458270724774576L,86L,6341429269050556928L,6125239794534499649L,100559470070956288L,1585267068834414592L,-2534738461516570981L,6341429269066082514L,6125239794534499649L,28501876033028352L,36028797018963968L]}"
+            "nbt": "{vaultGearData:[L;971376693723047437L,-168107611866396186L,2398483460923590697L,7301343536245727237L,5575674136L,23103591157858304L,324563159483502678L,-8640993352180625592L,3132658643786425171L,661424963584L,423311976693760L,5788814723563913216L,5980992884900975665L,-281474976377438L,36028797019029503L,72057594037927936L,-6617703201862843645L,2196334573319662592L,-6834473908914065246L,1099511627698L,32768L,65536L]}"
           },
           {
             "item": "the_vault:jewel",
-            "nbt": "{vaultGearData:[L;5157655146149461835L,756708730955514081L,1514722424829630569L,3527585455153845571L,-4337177541746540532L,-8539474061198775740L,-5924056819481868879L,4708514820545434005L,5833230247887458501L,-6313307067014436559L,109808844892416242L,-2676582356912304984L,-6869114626580620066L,-7184786208479598494L,6927847328646594563L,46207130776109158L,2524991149926686892L,-7908320945661965631L,-6401156405226632638L,2854745157834L,3153399348461568L,2954924305508466688L,5956118949417493545L,3615058605675556393L,0L,-3826156956482011136L,-805397933298103660L,-4233005412219989302L,-8553458270724774576L,86L,6341429269050556928L,4702937314057307457L,100559470070956288L,1585267068834414592L,-2534738461516570981L,6341429269066082514L,4702937314057307457L,28501876033028352L,36028797018963968L]}"
+            "nbt": "{vaultGearData:[L;-5409796860451422771L,7603660194345864875L,2398483460923590699L,7301343536245727237L,5575674136L,23103591157858304L,324563159483502678L,-8640993352180625592L,3132658643786425171L,661424963584L,423311976693760L,5788814723563913216L,5980992884900975665L,-281474976377438L,36028797019029503L,72057594037927936L,-6617703201862843645L,-7164678727146624000L,-6834473908914083200L,1099511627698L,32768L,65536L]}"
           },
           {
             "item": "the_vault:jewel",
-            "nbt": "{vaultGearData:[L;1653960927128863195L,-8922604744906871126L,1514722424829630569L,3527585455153845571L,-4337177541746540532L,-8539474061198775740L,-5924056819481868879L,4708514820545434005L,5833230247887458501L,-6313307067014436559L,109808844892416242L,-2676582356912304984L,-6869114626580620066L,-7184786208479598494L,6927847328646594563L,46207130776109158L,2524991149926686892L,-7908320945661965631L,-6401156405226632638L,2854745157834L,3153399348461568L,2954924305508466688L,5956118949417493545L,3615058605675556393L,0L,-3826156956482011136L,-805397933298103660L,-4233005412219989302L,-8553458270724774576L,86L,6341429269050556928L,8325282775180559681L,100559470070956288L,1585267068834414592L,-2534738461516570981L,6341429269066082514L,8325282775180559681L,28501876033028352L,36028797018963968L]}"
+            "nbt": "{vaultGearData:[L;-2915353807708431011L,4285152979133458645L,2398483460923590698L,7301343536245727237L,5575674136L,23103591157858304L,324563159483502678L,-8640993352180625592L,3132658643786425171L,661424963584L,423311976693760L,5788814723563913216L,5980992884900975665L,-281474976377438L,36028797019029503L,72057594037927936L,-6617703201862843645L,1749915260256562176L,-6834473908914085726L,1099511627698L,32768L,65536L]}"
           },
           {
             "item": "the_vault:jewel",
-            "nbt": "{vaultGearData:[L;7776933383973922923L,-5406769386987178597L,1514722424829630569L,3527585455153845571L,-4337177541746540532L,-8539474061198775740L,-5924056819481868879L,4708514820545434005L,5833230247887458501L,-6313307067014436559L,109808844892416242L,-2676582356912304984L,-6869114626580620066L,-7184786208479598494L,6927847328646594563L,46207130776109170L,2524991149926686892L,-7908320945661965631L,-6401156405226632638L,2854745157834L,2027499441618944L,2954924305508466688L,5956118949417493545L,3615058605675556393L,0L,-3826156956482011136L,-805397933298103660L,-4233005412219989302L,-8553458270724774576L,86L,6341429268916339200L,1156902771338822977L,24550651872792L,-1607257301389934592L,-3690649535368369011L,-8852406509310718676L,5696584090108919828L,7296480264455258338L,-9223372036854775808L]}"
+            "nbt": "{vaultGearData:[L;-1576843100873769395L,-2976429644939743046L,2398483460923590697L,7301343536245727237L,5575674136L,23103591157858304L,324563159483502678L,-8640993352180625592L,3132658643786425171L,661424963584L,423311976693760L,5788814723563913216L,5980992884900975665L,-281474976377438L,36028797019029503L,72057594037927936L,-6617703201862843645L,-6032128973979210752L,-6834473908914079292L,1099511627698L,32768L,65536L]}"
+          },
+          {
+            "item": "the_vault:jewel",
+            "nbt": "{vaultGearData:[L;-5794345560873588563L,6759959357241824319L,2398483460923590698L,7301343536245727237L,5575674136L,23103591157858304L,324563159483502678L,-8640993352180625592L,3132658643786425171L,661424963584L,423311976693760L,5788814723563913216L,5980992884900975665L,-281474976377438L,36028797019029503L,72057594037927936L,-6617707599909354749L,1330939757422750720L,-348445744039196665L,268435455L,8L,16L]}"
           }
         ],
         "vaultExp": 0
@@ -1002,33 +1010,21 @@
             "color": "$text"
           },
           {
-            "text": "\n\nEach jewel is given a ",
+            "text": "\n\nEvery jewel is rolled with a ",
             "color": "$text"
           },
           {
-            "text": "size",
+            "text": "consistent size of 10",
             "color": "$qhighlight"
           },
           {
-            "text": " which can roll from ",
+            "text": ", ensuring it uses only a small portion of your Tool's ",
             "color": "$text"
           },
           {
-            "text": "10-35",
+            "text": "capacity.",
             "color": "$qhighlight"
-          },
-          {
-            "text": " and this decides how much of the ",
-            "color": "$text"
-          },
-          {
-            "text": "capacity",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " of your Tool will be used up.",
-            "color": "$text"
-          },
+          },         
           {
             "text": "\n\nAcquire a Jewel Applicator",
             "color": "$heal"
@@ -1044,6 +1040,36 @@
           {
             "item": "the_vault:chromatic_steel_ingot",
             "amount": 4
+          }
+        ],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "collection",
+      "id": "jewel_crafting",
+      "name": "Crafting Jewels",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Jewel Crafting Table allows you to craft a wide variety of jewels that can be applied to your tools to enhance their capabilities. These jewels are all set sizes. Not all affixes are available for crafting so you will still have to find the rest!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nAcquire a Jewel Crafting Table",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/jewel_cutting",
+      "targetId": "the_vault:jewel_crafting_table",
+      "targetProgress": 1.0,
+      "unlockedBy": "craft_tool",
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:silver_scrap",
+            "amount": 64
           }
         ],
         "vaultExp": 0
@@ -1086,7 +1112,23 @@
       "descriptionData": {
         "description": [
           {
-            "text": "The Vault Forge is used to craft gear and weapons as well as powerful trinkets once they have been unlocked. Crafting gear increases proficiency further honing your skills at forging specific types of gear.",
+            "text": "The Vault Forge allows you to craft powerful gear using proficiency, which is tied to your player level.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nProficiency increases by sacrificing Vault Scrap in the forge, and it impacts Crafting Potential, Rarity, Durability, Repair Slots, Soulbound Chance, and Greater Modifier chance. A greater modifier is a modifier one level above the max level modifier for that gear level.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCrafting gear does not consume proficiency, so you can continue to craft without losing your progress.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThe primary cost of crafting is Vault Alloy, and the system is balanced to keep gear crafting powerful, especially in the early game.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nTo mass craft, hold down Shift while crafting to send crafted items directly to your inventory.",
             "color": "$text"
           },
           {
@@ -1102,25 +1144,17 @@
       "reward": {
         "items": [
           {
-            "item": "the_vault:vault_plating",
-            "amount": 9
-          },
-          {
-            "item": "minecraft:diamond",
-            "amount": 5
-          },
-          {
-            "item": "the_vault:vault_bronze",
-            "amount": 81
-          },
-          {
             "item": "the_vault:vault_alloy",
             "amount": 9
+          },
+          {
+            "item": "the_vault:vault_gold",
+            "amount": 3
           }
         ],
         "vaultExp": 0
       }
-    },
+    },  
     {
       "type": "forge_gear",
       "id": "gear_forge",
@@ -1638,6 +1672,10 @@
             "color": "$text"
           },
           {
+            "text": "\n\nPlayers that are level 90 or above will have a 5x5 grid instead of the 4x4 grid.",
+            "color": "$qhighlight"
+          },
+          {
             "text": "\n\nBingo objective modifiers:",
             "color": "$text"
           },
@@ -1828,36 +1866,6 @@
           {
             "item": "the_vault:regret_orb",
             "amount": 4
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "jewel_cutting",
-      "name": "Perfecting Jewels",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Jewels may not always have the perfect size to be utilised to their maximum potential, which is where the Jewel Cutting Station comes into play!\n\nThe Cutting Station takes Silver Scrap and Vault Bronze and gives the player a 50% chance to cut down the size of a jewel randomly between 1 and 10 size. If the cut fails, the jewel will be lowered by one tier' Perfect become Flawless, Flawless become Flawed, Flawed become Chipped and lastly if a Chipped jewel cut fails, the jewel will break and provide the player with a Gemstone and a small amount of Wutodie.\n\nYou may also spec into the Jeweler Expertise which provides the player with up to 3 free cuts without removing an affix!",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nAcquire a Jewel Cutting Station",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/jewel_cutting",
-      "targetId": "the_vault:vault_jewel_cutting_station",
-      "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:silver_scrap",
-            "amount": 32
           }
         ],
         "vaultExp": 0

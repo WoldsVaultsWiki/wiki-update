@@ -184,7 +184,7 @@
       "tags": [
         "focusSoulChance"
       ],
-      "display": "Soul Chance",
+      "display": "Soul Quantity",
       "color": 4653308,
       "weight": 10
     },
@@ -290,7 +290,7 @@
       ],
       "display": "Illager Damage",
       "color": 40882,
-      "weight": 10
+      "weight": 0
     },
     "DamageSpiders": {
       "tags": [
@@ -298,7 +298,7 @@
       ],
       "display": "Arthropod Damage",
       "color": 8281694,
-      "weight": 10
+      "weight": 0
     },
     "DamageUndead": {
       "tags": [
@@ -306,7 +306,7 @@
       ],
       "display": "Undead Damage",
       "color": 16382128,
-      "weight": 10
+      "weight": 0
     },
     "DamageNether": {
       "tags": [
@@ -314,7 +314,7 @@
       ],
       "display": "Nether Damage",
       "color": 16757889,
-      "weight": 10
+      "weight": 0
     },
     "DamageChampion": {
       "tags": [

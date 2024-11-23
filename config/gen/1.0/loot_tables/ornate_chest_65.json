@@ -155,7 +155,7 @@
                 }
               },
               {
-                "weight": 21,
+                "weight": 4,
                 "item": {
                   "id": "the_vault:fundamental_focus",
                   "count": {
@@ -188,7 +188,7 @@
                 }
               },
               {
-                "weight": 48,
+                "weight": 50,
                 "item": {
                   "id": "the_vault:boots",
                   "nbt": {
@@ -202,7 +202,7 @@
                 }
               },
               {
-                "weight": 48,
+                "weight": 50,
                 "item": {
                   "id": "the_vault:leggings",
                   "nbt": {
@@ -216,7 +216,7 @@
                 }
               },
               {
-                "weight": 48,
+                "weight": 50,
                 "item": {
                   "id": "the_vault:chestplate",
                   "nbt": {
@@ -230,7 +230,7 @@
                 }
               },
               {
-                "weight": 48,
+                "weight": 50,
                 "item": {
                   "id": "the_vault:helmet",
                   "nbt": {
@@ -244,7 +244,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:sword",
                   "nbt": {
@@ -258,7 +258,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:axe",
                   "nbt": {
@@ -272,7 +272,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:shield",
                   "nbt": {
@@ -286,7 +286,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:wand",
                   "nbt": {
@@ -300,7 +300,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:focus",
                   "nbt": {
@@ -314,7 +314,7 @@
                 }
               },
               {
-                "weight": 24,
+                "weight": 26,
                 "item": {
                   "id": "the_vault:magnet",
                   "nbt": {

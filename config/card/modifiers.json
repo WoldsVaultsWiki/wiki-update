@@ -560,32 +560,32 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.01,
-          "max": 0.01,
-          "step": 0.01,
-          "tier": 1
-        },
-        {
           "min": 0.02,
           "max": 0.02,
           "step": 0.01,
-          "tier": 2
-        },
-        {
-          "min": 0.03,
-          "max": 0.03,
-          "step": 0.01,
-          "tier": 3
+          "tier": 1
         },
         {
           "min": 0.04,
           "max": 0.04,
           "step": 0.01,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.01,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.01,
           "tier": 4
         },
         {
-          "min": 0.05,
-          "max": 0.05,
+          "min": 0.1,
+          "max": 0.1,
           "step": 0.01,
           "tier": 5
         }
@@ -685,7 +685,7 @@
     "soul_chance": {
       "type": "gear",
       "name": {
-        "text": "Soul Chance Card"
+        "text": "Soul Quantity Card"
       },
       "model": "the_vault:card/icon/soul_chance#inventory",
       "groups": [
@@ -696,32 +696,32 @@
       "attribute": "the_vault:soul_chance",
       "pool": [
         {
-          "min": 0.01,
-          "max": 0.01,
-          "step": 0.001,
-          "tier": 1
-        },
-        {
           "min": 0.02,
           "max": 0.02,
           "step": 0.001,
-          "tier": 2
-        },
-        {
-          "min": 0.03,
-          "max": 0.03,
-          "step": 0.001,
-          "tier": 3
+          "tier": 1
         },
         {
           "min": 0.04,
           "max": 0.04,
           "step": 0.001,
+          "tier": 2
+        },
+        {
+          "min": 0.06,
+          "max": 0.06,
+          "step": 0.001,
+          "tier": 3
+        },
+        {
+          "min": 0.08,
+          "max": 0.08,
+          "step": 0.001,
           "tier": 4
         },
         {
-          "min": 0.05,
-          "max": 0.05,
+          "min": 0.1,
+          "max": 0.1,
           "step": 0.001,
           "tier": 5
         }
@@ -1665,14 +1665,14 @@
           "tier": 3
         },
         {
-          "min": 0.04,
-          "max": 0.04,
+          "min": 0.004,
+          "max": 0.004,
           "step": 1.0,
           "tier": 4
         },
         {
-          "min": 0.05,
-          "max": 0.05,
+          "min": 0.005,
+          "max": 0.005,
           "step": 1.0,
           "tier": 5
         }
@@ -1737,32 +1737,32 @@
       "attribute": "the_vault:mana_regen",
       "pool": [
         {
-          "min": 0.0025,
-          "max": 0.0025,
+          "min": 0.01,
+          "max": 0.01,
           "step": 0.01,
           "tier": 1
         },
         {
-          "min": 0.005,
-          "max": 0.005,
+          "min": 0.02,
+          "max": 0.02,
           "step": 0.01,
           "tier": 2
         },
         {
-          "min": 0.0075,
-          "max": 0.0075,
+          "min": 0.03,
+          "max": 0.03,
           "step": 0.01,
           "tier": 3
         },
         {
-          "min": 0.01,
-          "max": 0.01,
+          "min": 0.04,
+          "max": 0.04,
           "step": 0.01,
           "tier": 4
         },
         {
-          "min": 0.0125,
-          "max": 0.0125,
+          "min": 0.05,
+          "max": 0.05,
           "step": 0.01,
           "tier": 5
         }
@@ -1862,7 +1862,7 @@
     "amp_soul_chance": {
       "type": "gear",
       "name": {
-        "text": "Evolving Soul Chance Card"
+        "text": "Evolving Soul Quantity Card"
       },
       "model": "the_vault:card/icon/soul_chance#inventory",
       "groups": [
@@ -1872,32 +1872,32 @@
       "attribute": "the_vault:soul_chance",
       "pool": [
         {
-          "min": 0.0025,
-          "max": 0.0025,
+          "min": 0.01,
+          "max": 0.01,
           "step": 0.001,
           "tier": 1
         },
         {
-          "min": 0.005,
-          "max": 0.005,
+          "min": 0.02,
+          "max": 0.02,
           "step": 0.001,
           "tier": 2
         },
         {
-          "min": 0.0075,
-          "max": 0.0075,
+          "min": 0.03,
+          "max": 0.03,
           "step": 0.001,
           "tier": 3
         },
         {
-          "min": 0.01,
-          "max": 0.01,
+          "min": 0.04,
+          "max": 0.04,
           "step": 0.001,
           "tier": 4
         },
         {
-          "min": 0.0125,
-          "max": 0.0125,
+          "min": 0.05,
+          "max": 0.05,
           "step": 0.001,
           "tier": 5
         }
@@ -2700,7 +2700,7 @@
     "empower_ice": {
       "type": "gear",
       "name": {
-        "text": "Empower Card"
+        "text": "Ice Armour Card"
       },
       "model": "the_vault:card/icon/empower_ice_armour#inventory",
       "groups": [
@@ -2720,7 +2720,7 @@
     "empower_entropy": {
       "type": "gear",
       "name": {
-        "text": "Empower Card"
+        "text": "Entropic Bind Card"
       },
       "model": "the_vault:card/icon/empower_entropy#inventory",
       "groups": [
@@ -3759,7 +3759,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -4270,6 +4270,7 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    
     "resource_bronze": {
       "type": "task_loot",
       "name": {
@@ -4383,7 +4384,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4431,7 +4432,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4479,7 +4480,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -4846,6 +4847,439 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    "resource_catalyst_fragment": {
+      "type": "task_loot",
+      "name": {
+        "text": "Catalyst Fragment Card"
+      },
+      "model": "the_vault:vault_catalyst_fragment#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:vault_catalyst_fragment"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Catalyst Fragment ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_grapes": {
+      "type": "task_loot",
+      "name": {
+        "text": "Juicy Grapes Card"
+      },
+      "model": "the_vault:grapes#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:grapes"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Juicy Grapes ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_lemon": {
+      "type": "task_loot",
+      "name": {
+        "text": "Bitter Lemon Card"
+      },
+      "model": "the_vault:bitter_lemon#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:bitter_lemon"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Bitter Lemon ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_mango": {
+      "type": "task_loot",
+      "name": {
+        "text": "Ripe Mango Card"
+      },
+      "model": "the_vault:mango#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mango"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Ripe Mango ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_orange": {
+      "type": "task_loot",
+      "name": {
+        "text": "Sour Orange Card"
+      },
+      "model": "the_vault:sour_orange#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:sour_orange"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Sour Orange ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_star_fruit": {
+      "type": "task_loot",
+      "name": {
+        "text": "Wild Star Fruit Card"
+      },
+      "model": "the_vault:star_fruit#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:star_fruit"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Star Fruit ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_inscription_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Inscription Piece Card"
+      },
+      "model": "the_vault:inscription_piece#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:inscription_piece"
+          }
+        }
+      ],
+      "task": "@medium",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Inscription Piece ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_chromatic_iron_ingot": {
+      "type": "task_loot",
+      "name": {
+        "text": "Chromatic Iron Ingot Card"
+      },
+      "model": "the_vault:chromatic_iron_ingot#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:chromatic_iron_ingot"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 4
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Chromatic Iron Ingot ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_faceted_focus": {
+      "type": "task_loot",
+      "name": {
+        "text": "Faceted Focus Card"
+      },
+      "model": "the_vault:faceted_focus#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:faceted_focus"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Faceted Focus ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+
     "wild_base": {
       "type": "dummy",
       "name": {
@@ -5259,7 +5693,7 @@
         "weight": 1.0
       },
       {
-        "value": "warp",
+        "value": "dash_warp",
         "weight": 1.0
       },
       {
@@ -5456,19 +5890,19 @@
     "resource": [
       {
         "value": "resource_gem_larimar",
-        "weight": 20.0
+        "weight": 60.0
       },
       {
         "value": "resource_gem_benitoite",
-        "weight": 20.0
+        "weight": 60.0
       },
       {
         "value": "resource_gem_alexandrite",
-        "weight": 15.0
+        "weight": 45.0
       },
       {
         "value": "resource_gem_wutodie",
-        "weight": 15.0
+        "weight": 45.0
       },
       {
         "value": "resource_gem_echo",
@@ -5476,59 +5910,59 @@
       },
       {
         "value": "resource_gem_painite",
-        "weight": 10.0
+        "weight": 30.0
       },
       {
         "value": "resource_gem_iskallium",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_gorginite",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_sparkletine",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_ashium",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_upaline",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_tubium",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_bomignite",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_petzanite",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_gem_xeenium",
-        "weight": 3.0
+        "weight": 9.0
       },
       {
         "value": "resource_bronze",
-        "weight": 28.0
+        "weight": 64.0
       },
       {
         "value": "resource_silver",
-        "weight": 16.0
+        "weight": 48.0
       },
       {
         "value": "resource_focus_waning",
-        "weight": 4.0
+        "weight": 6.0
       },
       {
         "value": "resource_focus_waxing",
-        "weight": 4.0
+        "weight": 6.0
       },
       {
         "value": "resource_focus_fundamental",
@@ -5536,31 +5970,63 @@
       },
       {
         "value": "resource_focus_chaotic",
-        "weight": 8.0
+        "weight": 18.0
       },
       {
         "value": "resource_vault_diamond",
-        "weight": 14.0
+        "weight": 42.0
       },
       {
-        "value": "resource_chromatic_iron",
-        "weight": 20.0
+        "value": "resource_chromatic_iron_ingot",
+        "weight": 66.0
       },
       {
         "value": "resource_mod_box",
-        "weight": 4.0
+        "weight": 12.0
       },
       {
         "value": "resource_carbon",
-        "weight": 22.0
+        "weight": 66.0
       },
       {
         "value": "resource_mystery_egg",
-        "weight": 4.0
+        "weight": 12.0
       },
       {
         "value": "resource_plating",
-        "weight": 22.0
+        "weight": 66.0
+      },
+      {
+        "value": "resource_catalyst_fragment",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_grapes",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_lemon",
+        "weight": 5.0
+      },
+      {
+        "value": "resource_mango",
+        "weight": 4.0
+      },
+      {
+        "value": "resource_orange",
+        "weight": 3.0
+      },
+      {
+        "value": "resource_star_fruit",
+        "weight": 1.0
+      },
+      {
+        "value": "resource_inscription_piece",
+        "weight": 10.0
+      },
+      {
+        "value": "resource_faceted_focus",
+        "weight": 8.0
       }
     ],
     "scaling": [

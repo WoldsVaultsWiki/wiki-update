@@ -870,46 +870,93 @@
         "radius"
       ]
     },
-    "Mana_Shield_Base": {
+    "Shield_Bash": {
       "description": [
-        {
-          "text": "Gives you a shield that ",
-          "color": "$text"
-        },
-        {
-          "text": "redirects a percentage",
-          "color": "$absorb"
-        },
-        {
-          "text": " of incoming damage to your ",
-          "color": "$text"
-        },
-        {
-          "text": "mana pool",
-          "color": "$manaCost"
-        },
-        {
-          "text": ".\n\n",
-          "color": "$text"
-        },
-        {
-          "text": "\u25d0 Toggle Ability ",
-          "color": "$castType"
-        }
+          {
+            "text": "Bash mobs with your shield, dealing ",
+            "color": "$text"
+          },
+          {
+            "text": "Thorns Damage",
+            "color": "$thornsDamage"
+          },
+          {
+            "text": " in front of you in a ",
+            "color": "$text"
+          },
+          {
+            "text": "line",
+            "color": "$radius"
+          },
+          {
+            "text": ".",
+            "color": "$text"
+          },
+          {
+            "text": "\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "\u25d0 Cast Ability",
+            "color": "$castType"
+          }
       ],
       "current": [
+        "manaCost",
         "cooldown",
-        "absorb",
-        "manaPerDamage"
+        "thornsDamage"
+
       ],
       "next": [
-        
+        "manaCost",
         "cooldown",
-        "absorb",
-        "manaPerDamage"
+        "thornsDamage"
       ]
     },
-    "Mana_Shield_Retribution": {
+    "Mana_Shield_Base": {
+      "description": [
+          {
+            "text": "Grants a ",
+            "color": "$text"
+          },
+          {
+            "text": "protective barrier",
+            "color": "$absorb"
+          },
+          {
+            "text": " for a ",
+            "color": "$text"
+          },
+          {
+            "text": "limited time",
+            "color": "$duration"
+          },
+          {
+            "text": ", absorbing all incoming damage until the shield is depleted, or the time runs out.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "\u25d0 Cast Ability",
+            "color": "$castType"
+          }
+      ],
+      "current": [
+        "manaCost",
+        "cooldown",
+        "healthPoints"
+
+      ],
+      "next": [
+        "manaCost",
+        "cooldown",
+        "healthPoints"
+      ]
+    },
+    "Retribution_Base": {
       "description": [
         {
           "text": "Gives you a mana shield that ",
@@ -957,20 +1004,76 @@
         }
       ],
       "current": [
-        "damage",
-        "manaPerDamage",
-        "absorb",
-        "cooldown",
-        "radius"
+        "thornsDamage",
+        "manaCost",
+        "cooldown"
 
       ],
-      "next": [
-        
-        "damage",
-        "manaPerDamage",
-        "absorb",
-        "cooldown",
-        "radius"
+      "next": [        
+        "thornsDamage",
+        "manaCost",
+        "cooldown"
+      ]
+    },
+    "Mana_Shield_Retribution": {
+      "description": [
+        {
+          "text": "Gives you a powerful aura of vengeance. When activated any incoming damage from mobs will build up ",
+          "color": "$text"
+        },
+        {
+          "text": "Retribution Stacks",
+          "color": "$qhighlight"
+        },
+        {
+          "text": ", and when the aura ",
+          "color": "$text"
+        },
+        {
+          "text": "expires",
+          "color": "$duration"
+        },
+        {
+          "text": " it will unleash a powerful blast in a spherical ",
+          "color": "$text"
+        },
+        {
+          "text": "radius",
+          "color": "$radius"
+        },
+        {
+          "text": ", dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Thorns Damage per stack",
+          "color": "$thornsDamage"
+        },
+        {
+          "text": " accumulated, to all mobs around you.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25d0 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "thornsDamage",
+        "radius",
+        "manaCost",
+        "cooldown"
+
+      ],
+      "next": [        
+        "thornsDamage",
+        "radius",
+        "manaCost",
+        "cooldown"
       ]
     },
     "Mana_Shield_Implode": {
@@ -1001,13 +1104,13 @@
         }
       ],
       "current": [
-        "damage",
+        "manaDamage",
         "radius",
         "cooldown"
 
       ],
       "next": [
-        "damage",
+        "manaDamage",
         "radius",
         "cooldown"
       ]
@@ -1620,7 +1723,6 @@
       "current": [
         "chilled",
         "duration",
-        "additionalManaPerHit",
         "manaCostPerSecond",
         "cooldown"
 
@@ -1629,7 +1731,6 @@
       "next": [
         "chilled",
         "duration",
-        "additionalManaPerHit",
         "manaCostPerSecond",
         "cooldown"
       ]
@@ -2322,28 +2423,44 @@
     "Javelin_Sight": {
       "description": [
         {
-          "text": "Summon a magical Javelin to hit your foes afar\n\n",
+          "text": "Shoot a magical ",
           "color": "$text"
         },
         {
-          "text": "Deals an amount of ",
+          "text": "Javelin",
+          "color": "$qhighlight"
+        },
+        {
+          "text": " that scans the area on impact in a ",
           "color": "$text"
         },
         {
-          "text": "damage ",
-          "color": "$damage"
-        },
-        {
-          "text": "based of your weapon damage and ",
-          "color": "$text"
-        },
-        {
-          "text": "scans the area in a radius ",
+          "text": "radius",
           "color": "$radius"
         },
         {
-          "text": "on impact, revealing chests and mobs\n\n",
+          "text": " revealing all ",
           "color": "$text"
+        },
+        {
+          "text": "chests",
+          "color": "$qhighlight"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "mobs",
+          "color": "$qhighlight"
+        },
+        {
+          "text": " for a ",
+          "color": "$text"
+        },
+        {
+          "text": "duration of time\n\n",
+          "color": "$duration"
         },
         {
           "text": "\u2734 Cast Ability ",
@@ -2351,16 +2468,15 @@
         }
       ],
       "current": [
-        "damage",
         "radius",
+        "duration",
         "cooldown",
         "manaCost"
 
       ],
       "next": [
-        
-        "damage",
         "radius",
+        "duration",
         "cooldown",
         "manaCost"
       ]
@@ -2508,14 +2624,6 @@
           "color": "$ability_power"
         },
         {
-          "text": " and gives you ",
-          "color": "$text"
-        },
-        {
-          "text": "durability resistance",
-          "color": "$durabilityWearReduction"
-        },
-        {
           "text": ". ",
           "color": "$text"
         },
@@ -2529,7 +2637,6 @@
         "ability_power",
         "additionalManaPerBolt",
         "manaCostPerSecond",
-        "durabilityWearReduction",
         "cooldown"
       ],
       "next": [
@@ -2538,7 +2645,6 @@
         "ability_power",
         "additionalManaPerBolt",
         "manaCostPerSecond",
-        "durabilityWearReduction",
         "cooldown"
       ]
     },
@@ -2599,16 +2705,8 @@
           "color": "$text"
         },
         {
-          "text": " thorns damage",
+          "text": " Thorns Damage",
           "color": "$damage"
-        },
-        {
-          "text": " and give you ",
-          "color": "$text"
-        },
-        {
-          "text": " durability resistance",
-          "color": "$durabilityWearReduction"
         },
         {
           "text": ".",
@@ -2620,14 +2718,12 @@
         }
       ],
       "current": [
-        "damage",
-        "durabilityWearReduction",
+        "additionalThornsDamage",
         "manaCostPerSecond",
         "cooldown"
       ],
       "next": [
-        "damage",
-        "durabilityWearReduction",
+        "additionalThornsDamage",
         "manaCostPerSecond",
         "cooldown"
       ]
@@ -2647,7 +2743,7 @@
           "color": "$text"
         },
         {
-          "text": " thorns damage",
+          "text": " Thorns Damage",
           "color": "$damage"
         },
         {
@@ -2659,23 +2755,7 @@
           "color": "$chains"
         },
         {
-          "text": "to hit additional targets. In addition ",
-          "color": "$text"
-        },
-        {
-          "text": "Quill",
-          "color": "$name"
-        },
-        {
-          "text": " also gives you a ",
-          "color": "$text"
-        },
-        {
-          "text": "durability resistance",
-          "color": "$durabilityWearReduction"
-        },
-        {
-          "text": " while active.",
+          "text": "to hit additional targets.",
           "color": "$text"
         },
         {
@@ -2684,17 +2764,15 @@
         }
       ],
       "current": [
-        "damage",
+        "additionalThornsDamage",
         "quillCount",
-        "durabilityWearReduction",
         "manaCostPerSecond",
         "additionalManaPerHit",
         "cooldown"
       ],
       "next": [
-        "damage",
+        "additionalThornsDamage",
         "quillCount",
-        "durabilityWearReduction",
         "manaCostPerSecond",
         "additionalManaPerHit",
         "cooldown"
@@ -2919,7 +2997,7 @@
         },
         {
           "text": "duration.",
-          "color": "$slowDuration"
+          "color": "$duration"
         },
         {
           "text": " Also has a ",
@@ -2927,7 +3005,7 @@
         },
         {
           "text": "chance",
-          "color": "$frostbiteChance"
+          "color": "$chance"
         },
         {
           "text": " to frostbite the mob for a ",

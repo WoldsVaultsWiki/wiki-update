@@ -292,7 +292,7 @@
     "value": {
       "template": "the_vault:vault/rooms/common/ore1",
       "palettes": [
-        "the_vault:generic/ore_placeholder_alternate_flesh",
+        "the_vault:generic/ore_placeholder_alternate_blood_moon",
         "the_vault:universal_flesh"
       ]
     }
@@ -302,7 +302,7 @@
     "value": {
       "template": "the_vault:vault/rooms/common/ore2",
       "palettes": [
-        "the_vault:generic/ore_placeholder_alternate_flesh",
+        "the_vault:generic/ore_placeholder_alternate_blood_moon",
         "the_vault:universal_flesh"
       ]
     }
@@ -312,7 +312,7 @@
     "value": {
       "template": "the_vault:vault/rooms/common/ore3",
       "palettes": [
-        "the_vault:generic/ore_placeholder_alternate_flesh",
+        "the_vault:generic/ore_placeholder_alternate_blood_moon",
         "the_vault:universal_flesh"
       ]
     }
@@ -322,7 +322,7 @@
     "value": {
       "template": "the_vault:vault/rooms/common/ore4",
       "palettes": [
-        "the_vault:generic/ore_placeholder_alternate_flesh",
+        "the_vault:generic/ore_placeholder_alternate_blood_moon",
         "the_vault:universal_flesh"
       ]
     }

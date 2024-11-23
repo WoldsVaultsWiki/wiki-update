@@ -10,7 +10,11 @@
         "the_vault:frail",
         "the_vault:infuriated_mobs",
         "the_vault:draining",
-        "the_vault:random_negative"
+        "the_vault:brutal_mobs",
+        "the_vault:grievous_wounds",
+        "the_vault:fading",
+        "the_vault:random_negative",
+        "the_vault:challenge_stack"
       ]
     },
     "GOOD": {
@@ -23,6 +27,8 @@
         "the_vault:plentiful",
         "the_vault:extended",
         "the_vault:xp_gain",
+        "the_vault:hoard",
+        "the_vault:treasure",
         "the_vault:soul_boost"
       ]
     },
@@ -33,9 +39,6 @@
         "the_vault:slowed",
         "the_vault:weakened",
         "the_vault:inert",
-        "the_vault:locked",
-        "the_vault:frenzy",
-        "the_vault:rotten",
         "the_vault:wounded",
         "the_vault:drained",
         "the_vault:minefield",

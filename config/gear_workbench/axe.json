@@ -763,23 +763,6 @@
       },
 
 
-      { "workbenchCraftIdentifier": "the_vault:crafted_soulbound_t0",
-        "modifierIdentifier": "the_vault:crafted_soulbound",
-        "modifierTier": 0,
-        "unlockCategory": "LEVEL",
-        "craftingCost": [
-          {
-            "AMOUNT": 32,
-            "ITEM": "the_vault:amplifying_focus",
-            "NBT": "{}"
-          },
-          {
-            "AMOUNT": 8,
-            "ITEM": "the_vault:vault_gold",
-            "NBT": "{}"
-          }
-        ]
-      },
       { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
         "modifierTier": 0,
@@ -831,6 +814,7 @@
           }
         ]
       },
+
       { "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_poison_cloud",
         "modifierTier": 0,
@@ -934,6 +918,7 @@
           }
         ]
       },
+
       { "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_fear_cloud",
         "modifierTier": 0,

@@ -166,6 +166,21 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_flesh.json"
     },
     {
+      "id": "the_vault:universal_blood",
+      "name": "Universal Blood",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_blood.json"
+    },
+    {
+      "id": "the_vault:universal_blood_ash",
+      "name": "Universal Blood Ash",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_blood_ash.json"
+    },
+    {
+      "id": "the_vault:universal_aurora_cave",
+      "name": "Universal Aurora Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_aurora_cave.json"
+    },
+    {
       "id": "the_vault:universal_wendarr",
       "name": "Universal Wendarr",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_wendarr.json"
@@ -486,6 +501,31 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_mobs.json"
     },
     {
+      "id": "the_vault:generic/spawners/challenge_xmark_mobs",
+      "name": "Challenge X-Mark Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_xmark_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/challenge_crystal_violet_mobs",
+      "name": "Challenge Crystal Violet Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_violet_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/challenge_crystal_blue_mobs",
+      "name": "Challenge Crystal Blue Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_blue_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/challenge_crystal_green_mobs",
+      "name": "Challenge Crystal Green Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_green_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/challenge_crystal_orange_mobs",
+      "name": "Challenge Crystal Orange Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_orange_mobs.json"
+    },
+    {
       "id": "the_vault:dragon/base",
       "name": "Base",
       "1.0": "config/the_vault/gen/1.0/palettes/dragon/base.json"
@@ -534,6 +574,36 @@
       "id": "the_vault:factory/base",
       "name": "Factory Base",
       "1.0": "config/the_vault/gen/1.0/palettes/factory/base.json"
+    },
+    {
+      "id": "the_vault:raid/base",
+      "name": "Raid Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/raid/base.json"
+    },
+    {
+      "id": "the_vault:raid/base_objective",
+      "name": "Base Raid Objective",
+      "1.0": "config/the_vault/gen/1.0/palettes/raid/base_objective.json"
+    },
+    {
+      "id": "the_vault:raid/infinite_objective",
+      "name": "Infinite Raid Objective",
+      "1.0": "config/the_vault/gen/1.0/palettes/raid/infinite_objective.json"
+    },
+    {
+      "id": "the_vault:raid/orcish",
+      "name": "Raid Orcish",
+      "1.0": "config/the_vault/gen/1.0/palettes/raid/orcish.json"
+    },
+    {
+      "id": "the_vault:raid/easter",
+      "name": "Raid Easter",
+      "1.0": "config/the_vault/gen/1.0/palettes/raid/easter.json"
+    },
+    {
+      "id": "the_vault:laboratory/base",
+      "name": "Laboratory Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/laboratory/base.json"
     },
     {
       "id": "the_vault:challenge_digsite/base",
@@ -601,9 +671,9 @@
       "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
     },
     {
-      "id": "the_vault:treasure_rooms/vendor_rooms",
+      "id": "the_vault:vendor_rooms/vendor_rooms",
       "name": "Vendor Rooms",
-      "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/vendor_rooms.json"
+      "1.0": "config/the_vault/gen/1.0/palettes/vendor_rooms/vendor_rooms.json"
     },
     {
       "id": "the_vault:treasure_rooms/treasure_chest",
@@ -759,6 +829,26 @@
       "id": "the_vault:raw/quarry/base",
       "name": "Quarry Base",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/quarry/base.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave",
+      "name": "Universal Cave Raw",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_granite",
+      "name": "Universal Cave Granite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_granite.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_diorite",
+      "name": "Universal Cave Diorite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_diorite.json"
+    },
+    {
+      "id": "the_vault:universal_raw_cave_andersite",
+      "name": "Universal Cave Andersite",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_raw_cave_andersite.json"
     },
     {
       "id": "the_vault:universal_end_void",
@@ -1814,6 +1904,26 @@
       "id": "the_vault:dungeon_rooms/antique_tags/dungeon_tags_zombie",
       "name": "Dungeon Tags Zombie",
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/antique_tags/dungeon_tags_zombie.json"
+    },
+    {
+      "id": "the_vault:special/boss/base",
+      "name": "Boss",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/base.json"
+    },
+    {
+      "id": "the_vault:special/boss/boss1",
+      "name": "Boss",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/boss1.json"
+    },
+    {
+      "id": "the_vault:special/boss/boss2",
+      "name": "Boss",
+      "1.0": "config/the_vault/gen/1.0/palettes/special/boss/boss2.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/plastic_mobs",
+      "name": "Plastic Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/plastic_mobs.json"
     }
   ]
 }

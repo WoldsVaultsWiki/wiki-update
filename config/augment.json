@@ -121,6 +121,9 @@
     "the_vault:classic_vault_flesh": {
       "the_vault:augment{theme:\"the_vault:classic_vault_flesh\"}": 5
     },
+    "the_vault:classic_vault_blood": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_blood\"}": 5
+    },
     "the_vault:raw_vault_cave_granite": {
       "minecraft:air": 1
     },
@@ -158,6 +161,7 @@
       "minecraft:air": 1
     },
     "the_vault:classic_vault_chaos": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_beach\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_blank\"}": 0,
       "the_vault:augment{theme:\"the_vault:classic_vault_blood_moon\"}": 5,
@@ -215,6 +219,15 @@
     },
     "the_vault:classic_vault_season_winter": {
       "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 5
+    },
+    "the_vault:classic_vault_aurora_cave": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 5
+    },
+    "the_vault:raid_vault_orcish": {
+      "the_vault:augment{theme:\"the_vault:raid_vault_orcish\"}": 0
+    },
+    "the_vault:raid_vault_easter": {
+      "the_vault:augment{theme:\"the_vault:raid_vault_easter\"}": 0
     },
     "the_vault:classic_vault_wendarr": {
       "the_vault:augment{theme:\"the_vault:classic_vault_wendarr\"}": 5

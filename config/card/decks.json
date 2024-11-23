@@ -3,6 +3,10 @@
     "starter": {
       "model": "the_vault:deck/starter_deck#inventory",
       "name": "Starter",
+      "essence": {
+        "min": 0,
+        "max": 0
+      },
       "layout": [
         {
           "value": [
@@ -17,6 +21,10 @@
     "large": {
       "model": "the_vault:deck/large#inventory",
       "name": "Large Deck",
+      "essence": {
+        "min": 1,
+        "max": 1
+      },
       "layout": [
         {
           "value": [
@@ -31,6 +39,10 @@
     "double": {
       "model": "the_vault:deck/double#inventory",
       "name": "Double Deck",
+      "essence": {
+        "min": 1,
+        "max": 1
+      },
       "layout": [
         {
           "value": [
@@ -45,6 +57,10 @@
     "merchant": {
       "model": "the_vault:deck/merchant#inventory",
       "name": "Merchant's Deck",
+      "essence": {
+        "min": 2,
+        "max": 2
+      },
       "layout": [
         {
           "value": [
@@ -61,6 +77,10 @@
     "expanded": {
       "model": "the_vault:deck/starter_deck#inventory",
       "name": "Expanded Deck",
+      "essence": {
+        "min": 2,
+        "max": 2
+      },
       "layout": [
         {
           "value": [
@@ -76,6 +96,10 @@
     "gdungeon": {
       "model": "the_vault:deck/starter_deck#inventory",
       "name": "The Edge Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
       "layout": [
         {
           "value": [
@@ -91,6 +115,10 @@
     "ldungeon": {
       "model": "the_vault:deck/starter_deck#inventory",
       "name": "The Shroom Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
       "layout": [
         {
           "value": [
@@ -106,6 +134,10 @@
     "odungeon": {
       "model": "the_vault:deck/starter_deck#inventory",
       "name": "The Anvil Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
       "layout": [
         {
           "value": [
@@ -121,6 +153,10 @@
     "treasure": {
       "model": "the_vault:deck/treasure#inventory",
       "name": "The Treasure Deck",
+      "essence": {
+        "min": 4,
+        "max": 4
+      },
       "layout": [
         {
           "value": [
@@ -136,6 +172,10 @@
     "black": {
       "model": "the_vault:deck/black#inventory",
       "name": "The Black Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
       "layout": [
         {
           "value": [
@@ -150,6 +190,10 @@
     "lost": {
       "model": "the_vault:deck/lost#inventory",
       "name": "The Lost Deck",
+      "essence": {
+        "min": 4,
+        "max": 4
+      },
       "layout": [
         {
           "value": [
@@ -164,6 +208,10 @@
     "champion": {
       "model": "the_vault:deck/champion#inventory",
       "name": "The Champion Deck",
+      "essence": {
+        "min": 2,
+        "max": 2
+      },
       "layout": [
         {
           "value": [
@@ -180,6 +228,10 @@
     "extended": {
       "model": "the_vault:deck/champion#inventory",
       "name": "The Champion Deck",
+      "essence": {
+        "min": 2,
+        "max": 2
+      },
       "layout": [
         {
           "value": [
@@ -188,6 +240,89 @@
             "X",
             "XOOO",
             "XOOX"
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "runic": {
+      "model": "the_vault:deck/champion#inventory",
+      "name": "The Runic Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
+      "layout": [
+        {
+          "value": [
+            "OOOXOXOOO",
+            "XXOXOXOXX",
+            "XXOXOXOXX",
+            "XXOXOXOXX",
+            "XXOXOXOXX",
+            "OXOXOXOXO"
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "bishop": {
+      "model": "the_vault:deck/champion#inventory",
+      "name": "The Bishop Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
+      "layout": [
+        {
+          "value": [
+            "OXOXOXOXO",
+            "XOXOXOXOX",
+            "OXOXOXOXO",
+            "XOXOXOXOX",
+            "OXOXOXOXO"
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "belt": {
+      "model": "the_vault:deck/champion#inventory",
+      "name": "The Belt Deck",
+      "essence": {
+        "min": 3,
+        "max": 3
+      },
+      "layout": [
+        {
+          "value": [
+            "OOOOOOOOO",
+            "OXXXXXXXO",
+            "OXXXXXXXO",
+            "OXXXXXXXO",
+            "OXXXXXXXO",
+            "OOOOOOOOO"
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "scam": {
+      "model": "the_vault:deck/champion#inventory",
+      "name": "The ?",
+      "essence": {
+        "min": 5,
+        "max": 5
+      },
+      "layout": [
+        {
+          "value": [
+            "OXXXXXXXX",
+            "XXXXXXXXX",
+            "XXXXXXXXX",
+            "XXXOXXXXX",
+            "XXXXXXXXX",
+            "XXXXXXXXO"
           ],
           "weight": 1.0
         }

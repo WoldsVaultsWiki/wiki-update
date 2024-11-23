@@ -56,7 +56,7 @@
     "the_vault:chromatic_powder": {
       "weight": 10,
       "name": "Chromatic Powder",
-      "effectText": "Reduces vault gear damage with 50%",
+      "effectText": "Reduces vault gear durability damage with 35%",
       "color": 16534066,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
@@ -64,7 +64,7 @@
       "maxUses": 30,
       "config": {
         "key": "the_vault:durability_wear_reduction",
-        "value": 0.5,
+        "value": 0.35,
         "curiosSlot": "red_trinket"
       }
     },
@@ -230,7 +230,7 @@
     "the_vault:idonas_blade": {
       "weight": 10,
       "name": "Idona's Pendant",
-      "effectText": "Increases your Soul Chance by 100% of your total Soul Chance",
+      "effectText": "Increases your Soul Quantity by 100% of your total Soul Quantity",
       "color": 16534066,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,

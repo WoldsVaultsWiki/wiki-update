@@ -1,124 +1,9 @@
 {
     "tile_processors": [
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=wooden_chest]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=gilded_chest]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=living_chest]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=ornate_chest]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=ore]",
-            "output": {
-                "minecraft:stone": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=coin_stacks]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=vendor_pedestal]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=pylon]",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=treasure_door]",
-            "output": {
-                "minecraft:stone": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:placeholder[type=dungeon_discoverable]",
-            "output": {
-                "minecraft:stone": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:wooden_chest",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:gilded_chest",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:living_chest",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:ornate_chest",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:coin_pile",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:modifier_discovery",
-            "output": {
-                "minecraft:stone": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "the_vault:enhancement_altar",
-            "output": {
-                "minecraft:stone": 1
-            }
-        },
+		{
+		  "type": "reference",
+		  "id": "the_vault:generic/treasure_door_placeholder"
+		},
 	    {
             "type": "weighted_target",
             "target": "minecraft:cobblestone",
@@ -675,80 +560,17 @@
             }
         },
         {
-            "type": "weighted_target",
-            "target": "minecraft:diamond_block",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "weighted_target",
-            "target": "ispawner:spawner",
-            "output": {
-                "minecraft:air": 1
-            }
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:xp_altar",
-                  "output": {
-                      "minecraft:air": 1
-                  }
-              }
-            ]
-        },
-        {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:blood_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-          },
-          {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:time_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-          },
-          {
-            "type": "leveled",
-            "levels": [
-              {
-                  "level": 0,
-                  "type": "weighted_target",
-                  "target": "the_vault:soul_altar",
-                  "output": {
-                    "minecraft:air": 1
-                  }
-              }
-            ]
-          },
-        
-        {
             "type": "reference",
             "id": "the_vault:generic/room_base"
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/spawners/cave_mobs"
+            "id": "the_vault:generic/spawners/plastic_mobs"
         },
+		{
+		  "type": "reference",
+		  "id": "the_vault:generic/common_elite_spawners"
+		},
         {
             "type": "template_stack_tile",
             "target": "@the_vault:vault_lootables",

@@ -156,6 +156,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_winter_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/aurora_cave_rooms",
+      "name": "Aurora Cave Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/aurora_cave_rooms.json"
+    },
+    {
       "id": "the_vault:vault/starts/plastic_starts",
       "name": "Plastic Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/plastic_starts.json"
@@ -326,6 +331,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/season_winter_starts.json"
     },
     {
+      "id": "the_vault:vault/starts/aurora_cave_starts",
+      "name": "Aurora Cave Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/aurora_cave_starts.json"
+    },
+    {
       "id": "the_vault:vault/portals/portals",
       "name": "Start Portals",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/portals/portals.json"
@@ -494,6 +504,11 @@
       "id": "the_vault:vault/tunnels/season_winter_tunnels",
       "name": "Winter Tunnels",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/season_winter_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/aurora_cave_tunnels",
+      "name": "Aurora Cave Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/aurora_cave_tunnels.json"
     },
     {
       "id": "the_vault:vault/altars/altars",
@@ -1031,14 +1046,44 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/floating1.json"
     },
     {
+      "id": "the_vault:vault/decor/crystal_caves/floating2",
+      "name": "Crystal Caves Floating 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/floating2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/floating3",
+      "name": "Crystal Caves Floating 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/floating3.json"
+    },
+    {
       "id": "the_vault:vault/decor/crystal_caves/hanging1",
       "name": "Crystal Caves Hanging 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/hanging1.json"
     },
     {
+      "id": "the_vault:vault/decor/crystal_caves/hanging2",
+      "name": "Crystal Caves Hanging 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/hanging2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/hanging3",
+      "name": "Crystal Caves Hanging 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/hanging3.json"
+    },
+    {
       "id": "the_vault:vault/decor/crystal_caves/standing1",
       "name": "Crystal Caves Standing 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/standing1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/standing2",
+      "name": "Crystal Caves Standing 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/standing2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/crystal_caves/standing3",
+      "name": "Crystal Caves Standing 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/crystal_caves/standing3.json"
     },
     {
       "id": "the_vault:vault/decor/crystal_caves/meteor1",
@@ -1134,6 +1179,71 @@
       "id": "the_vault:vault/rooms/challenge/factory",
       "name": "Factory",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/base_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/base_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/orcish_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/orcish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/easter_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/easter_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/base_objective_orcish_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/base_objective_orcish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/base_objective_easter_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/base_objective_easter_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/infinite_objective_orcish_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/infinite_objective_orcish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/raid/infinite_objective_easter_rooms",
+      "name": "Raid",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/raid/infinite_objective_easter_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/orcish_starts",
+      "name": "Orcish Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/orcish_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/orcish_tunnels",
+      "name": "Orcish Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/orcish_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/starts/easter_starts",
+      "name": "Easter Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/easter_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/easter_tunnels",
+      "name": "Easter Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/easter_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/laboratory",
+      "name": "Laboratory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/laboratory.json"
     },
     {
       "id": "the_vault:vault/rooms/challenge/village",
@@ -1726,9 +1836,9 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
     },
     {
-      "id": "the_vault:vault/treasure_rooms/vendor_rooms",
+      "id": "the_vault:vault/vendor_rooms/vendor_rooms",
       "name": "Vendor Rooms",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/vendor_rooms.json"
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/vendor_rooms/vendor_rooms.json"
     },
     {
       "id": "the_vault:arena/arena",
@@ -1854,6 +1964,11 @@
       "id": "the_vault:vault/rooms/season_winter_common_rooms",
       "name": "Winter Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_winter_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/aurora_cave_common_rooms",
+      "name": "Aurora Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/aurora_cave_common_rooms.json"
     },
     {
       "id": "the_vault:vault/decor/x-mark/redstone_spawner",
@@ -2489,6 +2604,91 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes4/structure4.json"
     },
     {
+      "id": "the_vault:vault/decor/highlighter/mushroom4/structure1",
+      "name": "Highlighter Mushroom4 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mushroom4/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure1",
+      "name": "Highlighter Pirate1 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate1/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure2",
+      "name": "Highlighter Pirate1 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate1/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure3",
+      "name": "Highlighter Pirate1 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate1/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/structure4",
+      "name": "Highlighter Pirate1 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate1/structure4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate1/bridge1",
+      "name": "Highlighter Pirate1 Bridge 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate1/bridge1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure1",
+      "name": "Highlighter Pirate2 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate2/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure2",
+      "name": "Highlighter Pirate2 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate2/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure3",
+      "name": "Highlighter Pirate2 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate2/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate2/structure5",
+      "name": "Highlighter Pirate2 Structure 5",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate2/structure5.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure1",
+      "name": "Highlighter Pirate3 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate3/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure2",
+      "name": "Highlighter Pirate3 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate3/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure3",
+      "name": "Highlighter Pirate3 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate3/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate3/structure4",
+      "name": "Highlighter Pirate3 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate3/structure4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure1",
+      "name": "Highlighter Pirate4 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate4/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure2",
+      "name": "Highlighter Pirate4 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate4/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/pirate4/structure3",
+      "name": "Highlighter Pirate4 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/pirate4/structure3.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/library",
       "name": "Library",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/library.json"
@@ -2584,44 +2784,64 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/diamond_caves_regular.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb1",
-      "name": "Catacomb 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb1.json"
+      "id": "the_vault:vault/decor/village/village1/corner_nw",
+      "name": "Village1 Catacomb NW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village1/corner_nw.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb2",
-      "name": "Catacomb 2",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb2.json"
+      "id": "the_vault:vault/decor/village/village1/corner_ne",
+      "name": "Village1 Catacomb NE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village1/corner_ne.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb3",
-      "name": "Catacomb 3",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb3.json"
+      "id": "the_vault:vault/decor/village/village1/corner_sw",
+      "name": "Village1 Catacomb SW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village1/corner_sw.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb4",
-      "name": "Catacomb 4",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb4.json"
+      "id": "the_vault:vault/decor/village/village1/corner_se",
+      "name": "Village1 Catacomb SE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village1/corner_se.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb5",
-      "name": "Catacomb 5",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb5.json"
+      "id": "the_vault:vault/decor/village/village2/corner_nw",
+      "name": "Village2 Catacomb NW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village2/corner_nw.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb6",
-      "name": "Catacomb 6",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb6.json"
+      "id": "the_vault:vault/decor/village/village2/corner_ne",
+      "name": "Village2 Catacomb NE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village2/corner_ne.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb7",
-      "name": "Catacomb 7",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb7.json"
+      "id": "the_vault:vault/decor/village/village2/corner_sw",
+      "name": "Village2 Catacomb SW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village2/corner_sw.json"
     },
     {
-      "id": "the_vault:vault/decor/village/catacomb8",
-      "name": "Catacomb 8",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb8.json"
+      "id": "the_vault:vault/decor/village/village2/corner_se",
+      "name": "Village2 Catacomb SE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village2/corner_se.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_nw",
+      "name": "Village3 Catacomb NW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village3/corner_nw.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_ne",
+      "name": "Village3 Catacomb NE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village3/corner_ne.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_sw",
+      "name": "Village3 Catacomb SW",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village3/corner_sw.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/village3/corner_se",
+      "name": "Village3 Catacomb SE",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/village3/corner_se.json"
     },
     {
       "id": "the_vault:vault/rooms/white_common_rooms",
@@ -2751,6 +2971,41 @@
       "id": "the_vault:vault/tunnels/flesh_tunnels",
       "name": "Flesh Tunnels",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/flesh_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/blood_common_rooms",
+      "name": "Blood Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/blood_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/blood_rooms",
+      "name": "Blood Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/blood_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/blood_starts",
+      "name": "Blood Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/blood_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/blood_tunnels",
+      "name": "Blood Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/blood_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/blood_ash_rooms",
+      "name": "Blood Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/blood_ash_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/blood_ash_starts",
+      "name": "Blood Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/blood_ash_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/blood_ash_tunnels",
+      "name": "Blood Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/blood_ash_tunnels.json"
     },
     {
       "id": "the_vault:vault/tunnels/wendarr_tunnels",
@@ -3168,6 +3423,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/flesh_common_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/aurora_cave_common_rooms",
+      "name": "Chaos Aurora Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/aurora_cave_common_rooms.json"
+    },
+    {
       "id": "the_vault:vault/rooms/chaos/raw_cave_granite_common_rooms",
       "name": "Chaos Raw Cave Granite Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/raw_cave_granite_common_rooms.json"
@@ -3391,6 +3651,81 @@
       "id": "the_vault:vault/rooms/special/boss",
       "name": "Boss Room",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/special/boss.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb1",
+      "name": "Catacomb 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb2",
+      "name": "Catacomb 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb3",
+      "name": "Catacomb 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb4",
+      "name": "Catacomb 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb5",
+      "name": "Catacomb 5",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb5.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb6",
+      "name": "Catacomb 6",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb6.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb7",
+      "name": "Catacomb 7",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb7.json"
+    },
+    {
+      "id": "the_vault:vault/decor/village/catacomb8",
+      "name": "Catacomb 8",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/village/catacomb8.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos_cake_rooms",
+      "name": "Chaos Cake Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_cake_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/chaos_cake_starts",
+      "name": "Chaos Cake Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_cake_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/chaos_cake_tunnels",
+      "name": "Chaos Cake Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_cake_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_raw_common_rooms",
+      "name": "Cave Raw Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_raw_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_granite_common_rooms",
+      "name": "Cave Granite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_granite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_diorite_common_rooms",
+      "name": "Cave Diorite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_diorite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/cave_andersite_common_rooms",
+      "name": "Cave Andersite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_andersite_common_rooms.json"
     }
   ]
 }

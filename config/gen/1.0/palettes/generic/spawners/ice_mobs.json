@@ -64,7 +64,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t1_stray_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:t2_stray_egg\", Count: 5}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_winterwalker_egg\", Count: 2}, {id: \"the_vault:t2_winterwalker_egg\", Count: 6} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t1_stray_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:t2_stray_egg\", Count: 5}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_winterwalker_egg\", Count: 2}, {id: \"the_vault:t2_winterwalker_egg\", Count: 6} ] } }": 1
                     }
                 },
                 {
@@ -72,7 +72,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t1_stray_egg\", Count: 3}, {id: \"the_vault:vault_fighter_1_egg\", Count: 3}, {id: \"the_vault:t2_stray_egg\", Count: 7}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 9}, {id: \"the_vault:vault_fighter_4_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 1}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_winterwalker_egg\", Count: 6}, {id: \"the_vault:t3_winterwalker_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t1_stray_egg\", Count: 3}, {id: \"the_vault:vault_fighter_1_egg\", Count: 3}, {id: \"the_vault:t2_stray_egg\", Count: 7}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 9}, {id: \"the_vault:vault_fighter_4_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 1}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_winterwalker_egg\", Count: 6}, {id: \"the_vault:t3_winterwalker_egg\", Count: 2} ] } }": 1
                     }
                 },
                 {
@@ -80,7 +80,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 9}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 7}, {id: \"the_vault:vault_fighter_4_egg\", Count: 3}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 1}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_winterwalker_egg\", Count: 4}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 9}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 7}, {id: \"the_vault:vault_fighter_4_egg\", Count: 3}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 1}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t2_winterwalker_egg\", Count: 4}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4} ] } }": 1
                     }
                 },
                 {
@@ -88,7 +88,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_4_egg\", Count: 5}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 6}, {id: \"the_vault:t4_winterwalker_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_4_egg\", Count: 5}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 6}, {id: \"the_vault:t4_winterwalker_egg\", Count: 2} ] } }": 1
                     }
                 },
                 {
@@ -96,7 +96,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4}, {id: \"the_vault:t4_winterwalker_egg\", Count: 4}, {id: \"the_vault:t5_winterwalker_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_2_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4}, {id: \"the_vault:t4_winterwalker_egg\", Count: 4}, {id: \"the_vault:t5_winterwalker_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -104,7 +104,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_tusklin\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4}, {id: \"the_vault:t4_winterwalker_egg\", Count: 4}, {id: \"the_vault:t5_winterwalker_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:winter_wolf_egg\", Count: 10}, {id: \"the_vault:t2_stray_egg\", Count: 8}, {id: \"the_vault:t3_stray_egg\", Count: 1}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"rottencreatures:glacial_hunter_spawn_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_winterwalker_egg\", Count: 4}, {id: \"the_vault:t4_winterwalker_egg\", Count: 4}, {id: \"the_vault:t5_winterwalker_egg\", Count: 2} ] } }": 1
                     }
                 }
             ]
@@ -212,7 +212,6 @@
                         {
                           "elements": {
                             "the_vault:t1_stray": 9,
-                            "alexsmobs:tusklin": 2,
                             "the_vault:t2_stray": 4
                           },
                           "weight": 1
@@ -227,7 +226,6 @@
                         {
                           "elements": {
                             "the_vault:t1_stray": 6,
-                            "alexsmobs:tusklin": 3,
                             "the_vault:t2_stray": 6
                           },
                           "weight": 1
@@ -242,8 +240,7 @@
                         {
                           "elements": {
                             "the_vault:t3_stray": 1,
-                            "the_vault:t2_stray": 10,
-                            "alexsmobs:tusklin": 3
+                            "the_vault:t2_stray": 10
                           },
                           "weight": 1
                         }
@@ -257,8 +254,7 @@
                         {
                           "elements": {
                             "the_vault:t3_stray": 1,
-                            "the_vault:t2_stray": 9,
-                            "alexsmobs:tusklin": 3
+                            "the_vault:t2_stray": 9
                           },
                           "weight": 1
                         }
@@ -272,8 +268,7 @@
                         {
                           "elements": {
                             "the_vault:t3_stray": 1,
-                            "the_vault:t2_stray": 8,
-                            "alexsmobs:tusklin": 2
+                            "the_vault:t2_stray": 8
                           },
                           "weight": 1
                         }
@@ -287,8 +282,7 @@
                         {
                           "elements": {
                             "the_vault:t3_stray": 2,
-                            "the_vault:t2_stray": 7,
-                            "alexsmobs:tusklin": 2
+                            "the_vault:t2_stray": 7
                           },
                           "weight": 1
                         }
@@ -302,8 +296,7 @@
                         {
                           "elements": {
                             "the_vault:t3_stray": 3,
-                            "the_vault:t2_stray": 6,
-                            "alexsmobs:tusklin": 2
+                            "the_vault:t2_stray": 6
                           },
                           "weight": 1
                         }

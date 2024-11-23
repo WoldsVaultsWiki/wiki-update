@@ -10,6 +10,10 @@
         },
         {
             "type": "reference",
+            "id": "the_vault:x-mark/trap_spawners"
+        },
+        {
+            "type": "reference",
             "id": "the_vault:generic/treasure"
         },
         {

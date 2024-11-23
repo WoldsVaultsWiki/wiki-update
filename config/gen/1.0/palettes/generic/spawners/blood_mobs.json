@@ -8,7 +8,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 10}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 1} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_0_egg\", Count: 10}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 10}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:blood_horde_t1\"}}} ] } }": 1
           }
         },
         {
@@ -16,7 +16,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_0_egg\", Count: 9}, {id: \"the_vault:vault_fighter_1_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 1} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_0_egg\", Count: 9}, {id: \"the_vault:vault_fighter_1_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 3}, {id: \"ispawner:spawn_egg\", Count: 3, tag: {EntityTag:{id:\"the_vault:blood_horde_t1\"}}}, {id: \"ispawner:spawn_egg\", Count: 1, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}} ] } }": 1
           }
         },
         {
@@ -24,7 +24,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_0_egg\", Count: 8}, {id: \"the_vault:vault_fighter_1_egg\", Count: 2}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 4}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_0_egg\", Count: 8}, {id: \"the_vault:vault_fighter_1_egg\", Count: 2}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t1\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}} ] } }": 1
           }
         },
         {
@@ -32,7 +32,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_0_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 4} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_0_egg\", Count: 5}, {id: \"the_vault:vault_fighter_1_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t1\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}} ] } }": 1
           }
         },
         {
@@ -40,7 +40,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_0_egg\", Count: 2}, {id: \"the_vault:vault_fighter_1_egg\", Count: 8}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t0_miner_zombie_egg\", Count: 2}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 5} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_0_egg\", Count: 2}, {id: \"the_vault:vault_fighter_1_egg\", Count: 8}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t0_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 7}, {id: \"ispawner:spawn_egg\", Count: 1, tag: {EntityTag:{id:\"the_vault:blood_horde_t1\"}}}, {id: \"ispawner:spawn_egg\", Count: 3, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}} ] } }": 1
           }
         },
         {
@@ -48,7 +48,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_1_egg\", Count: 8}, {id: \"the_vault:vault_fighter_2_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 6}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 1} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_1_egg\", Count: 8}, {id: \"the_vault:vault_fighter_2_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 3}, {id: \"ispawner:spawn_egg\", Count: 3, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}}, {id: \"ispawner:spawn_egg\", Count: 1, tag: {EntityTag:{id:\"the_vault:blood_horde_t3\"}}} ] } }": 1
           }
         },
         {
@@ -56,7 +56,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_1_egg\", Count: 7}, {id: \"the_vault:vault_fighter_2_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 4}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 3} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_1_egg\", Count: 7}, {id: \"the_vault:vault_fighter_2_egg\", Count: 3}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 5}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 5}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t3\"}}} ] } }": 1
           }
         },
         {
@@ -64,7 +64,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 2}, {id: \"the_vault:blood_slime_egg\", Count: 8}, {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 7}, {id: \"the_vault:t1_miner_zombie_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 2}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 5}, {id: \"the_vault:vault_fighter_3_egg\", Count: 1}, {id: \"the_vault:t1_blood_skeleton_egg\", Count: 3}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 7}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t2\"}}}, {id: \"ispawner:spawn_egg\", Count: 6, tag: {EntityTag:{id:\"the_vault:blood_horde_t3\"}}} ] } }": 1
           }
         },
         {
@@ -72,7 +72,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 4}, {id: \"the_vault:blood_slime_egg\", Count: 16}, {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 13}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 1}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 4}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 6} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_1_egg\", Count: 10}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 13}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 6}, {id: \"ispawner:spawn_egg\", Count: 6, tag: {EntityTag:{id:\"the_vault:blood_horde_t3\"}}}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t4\"}}} ] } }": 1
           }
         },
         {
@@ -80,7 +80,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 4}, {id: \"the_vault:blood_slime_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 16}, {id: \"the_vault:vault_fighter_4_egg\", Count: 4}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 10}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 10}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 1}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 3}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 4}, {id: \"the_vault:t2_miner_zombie_egg\", Count: 4} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_2_egg\", Count: 16}, {id: \"the_vault:vault_fighter_4_egg\", Count: 4}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t2_blood_skeleton_egg\", Count: 10}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 10}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:blood_horde_t3\"}}}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:blood_horde_t4\"}}} ] } }": 1
           }
         },
         {
@@ -88,7 +88,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 4}, {id: \"the_vault:blood_slime_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 13}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 6}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 1}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 6}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 1} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_2_egg\", Count: 14}, {id: \"the_vault:vault_fighter_4_egg\", Count: 6}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 2}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 13}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 6}, {id: \"ispawner:spawn_egg\", Count: 7, tag: {EntityTag:{id:\"the_vault:blood_horde_t4\"}}}, {id: \"ispawner:spawn_egg\", Count: 1, tag: {EntityTag:{id:\"the_vault:blood_horde_t5\"}}} ] } }": 1
           }
         },
         {
@@ -96,7 +96,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 4}, {id: \"the_vault:blood_slime_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 6}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 10}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t5_blood_skeleton_egg\", Count: 1}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 1}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 6}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 6}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 2} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_2_egg\", Count: 10}, {id: \"the_vault:vault_fighter_4_egg\", Count: 10}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 6}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 10}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t5_blood_skeleton_egg\", Count: 1}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:blood_horde_t4\"}}}, {id: \"ispawner:spawn_egg\", Count: 4, tag: {EntityTag:{id:\"the_vault:blood_horde_t5\"}}} ] } }": 1
           }
         },
         {
@@ -104,7 +104,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:standard}",
           "output": {
-            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:blood_silverfish_egg\", Count: 4}, {id: \"the_vault:blood_slime_egg\", Count: 16}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 8}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t5_blood_skeleton_egg\", Count: 2}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 1}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 5}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 5}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 2} ] } }": 1
+            "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"the_vault:t3_piglin_egg\", Count: 2}, {id: \"the_vault:vault_fighter_3_egg\", Count: 8}, {id: \"the_vault:t3_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t4_blood_skeleton_egg\", Count: 8}, {id: \"the_vault:t5_blood_skeleton_egg\", Count: 2}, {id: \"ispawner:spawn_egg\", Count: 2, tag: {EntityTag:{id:\"the_vault:blood_horde_t4\"}}}, {id: \"ispawner:spawn_egg\", Count: 6, tag: {EntityTag:{id:\"the_vault:blood_horde_t5\"}}} ] } }": 1
           }
         }
       ]
@@ -119,7 +119,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_zombie": 10
+                "the_vault:blood_tank": 10
               },
               "weight": 1
             }
@@ -132,7 +132,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_zombie": 10,
+                "the_vault:blood_tank": 10,
                 "the_vault:t3_piglin": 1
               },
               "weight": 1
@@ -151,8 +151,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_skeleton_t0": 2,
-                "the_vault:blood_slime": 2
+                "the_vault:blood_skeleton_t0": 2
               },
               "weight": 1
             }
@@ -166,7 +165,6 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t0": 5,
-                "the_vault:blood_slime": 6,
                 "the_vault:blood_skeleton_t1": 2
               },
               "weight": 1
@@ -181,7 +179,6 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t0": 3,
-                "the_vault:blood_slime": 4,
                 "the_vault:blood_skeleton_t1": 3
               },
               "weight": 1
@@ -196,7 +193,6 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t0": 1,
-                "the_vault:blood_slime": 6,
                 "the_vault:blood_skeleton_t1": 6
               },
               "weight": 1
@@ -211,7 +207,6 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t1": 4,
-                "the_vault:blood_slime": 4,
                 "the_vault:blood_skeleton_t2": 1
               },
               "weight": 1
@@ -226,7 +221,6 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t1": 3,
-                "the_vault:blood_slime": 4,
                 "the_vault:blood_skeleton_t2": 2
               },
               "weight": 1
@@ -241,10 +235,8 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t1": 6,
-                "the_vault:blood_slime": 21,
                 "the_vault:blood_skeleton_t2": 14,
-                "the_vault:blood_skeleton_t3": 2,
-                "alexsmobs:rocky_roller": 1
+                "the_vault:blood_skeleton_t3": 2
               },
               "weight": 1
             }
@@ -257,10 +249,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_slime": 19,
                 "the_vault:blood_skeleton_t2": 18,
-                "the_vault:blood_skeleton_t3": 2,
-                "alexsmobs:rocky_roller": 1
+                "the_vault:blood_skeleton_t3": 2
               },
               "weight": 1
             }
@@ -273,11 +263,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_slime": 19,
                 "the_vault:blood_skeleton_t2": 9,
                 "the_vault:blood_skeleton_t3": 9,
-                "the_vault:blood_skeleton_t4": 1,
-                "alexsmobs:rocky_roller": 1
+                "the_vault:blood_skeleton_t4": 1
               },
               "weight": 1
             }
@@ -290,11 +278,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_slime": 19,
                 "the_vault:blood_skeleton_t3": 13,
                 "the_vault:blood_skeleton_t4": 5,
-                "the_vault:blood_skeleton_t5": 2,
-                "alexsmobs:rocky_roller": 1
+                "the_vault:blood_skeleton_t5": 2
               },
               "weight": 1
             }
@@ -307,11 +293,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_slime": 19,
                 "the_vault:blood_skeleton_t3": 8,
                 "the_vault:blood_skeleton_t4": 9,
-                "the_vault:blood_skeleton_t5": 3,
-                "alexsmobs:rocky_roller": 1
+                "the_vault:blood_skeleton_t5": 3
               },
               "weight": 1
             }
@@ -329,7 +313,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12
+                "the_vault:blood_horde_t1": 12
               },
               "weight": 1
             }
@@ -342,7 +326,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12
+                "the_vault:blood_horde_t1": 12
               },
               "weight": 1
             }
@@ -355,7 +339,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12
+                "the_vault:blood_horde_t1": 12
               },
               "weight": 1
             }
@@ -368,7 +352,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12
+                "the_vault:blood_horde_t1": 12
               },
               "weight": 1
             }
@@ -381,7 +365,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12
+                "the_vault:blood_horde_t1": 12
               },
               "weight": 1
             }
@@ -394,8 +378,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 38,
-                "the_vault:miner_zombie_t1": 4
+                "the_vault:blood_horde_t1": 38,
+                "the_vault:blood_horde_t2": 4
               },
               "weight": 1
             }
@@ -408,8 +392,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 30,
-                "the_vault:miner_zombie_t1": 15
+                "the_vault:blood_horde_t1": 30,
+                "the_vault:blood_horde_t2": 15
               },
               "weight": 1
             }
@@ -422,8 +406,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t0": 12,
-                "the_vault:miner_zombie_t1": 34
+                "the_vault:blood_horde_t1": 12,
+                "the_vault:blood_horde_t2": 34
               },
               "weight": 1
             }
@@ -436,8 +420,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t2": 4,
-                "the_vault:miner_zombie_t1": 38
+                "the_vault:blood_horde_t3": 4,
+                "the_vault:blood_horde_t2": 38
               },
               "weight": 1
             }
@@ -450,8 +434,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t2": 15,
-                "the_vault:miner_zombie_t1": 30
+                "the_vault:blood_horde_t3": 15,
+                "the_vault:blood_horde_t2": 30
               },
               "weight": 1
             }
@@ -464,9 +448,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t1": 20,
-                "the_vault:miner_zombie_t2": 20,
-                "the_vault:miner_zombie_t3": 10
+                "the_vault:blood_horde_t2": 20,
+                "the_vault:blood_horde_t3": 20,
+                "the_vault:blood_horde_t4": 10
               },
               "weight": 1
             }
@@ -479,9 +463,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:miner_zombie_t4": 5,
-                "the_vault:miner_zombie_t2": 20,
-                "the_vault:miner_zombie_t3": 20
+                "the_vault:blood_horde_t5": 5,
+                "the_vault:blood_horde_t3": 20,
+                "the_vault:blood_horde_t4": 20
               },
               "weight": 1
             }
