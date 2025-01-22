@@ -8,6 +8,14 @@
       }
     },
     {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_jgrade",
+      "name": "Zombie Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_dungeon_jgrade.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/generic/common/3x3/standing1",
       "name": "Standing1 Common 3x3 Generic Decor",
       "1.0": {
@@ -1760,6 +1768,14 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave1",
+      "name": "Pirate Caves 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/crystal_caves1",
       "name": "Crystal Caves 1",
       "1.0": {
@@ -1872,11 +1888,27 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/omega/hellish_digsite",
+      "name": "Hellish Digsite 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/hellish_digsite.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/challenge/challenge_digsite1",
       "name": "Challenge Digsite 1",
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/challenge_digsite1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/playzone1",
+      "name": "Play Zone 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/playzone1.nbt"
       }
     },
     {
@@ -1925,6 +1957,30 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/omega_digsite2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/iskallian_garden",
+      "name": "Woldian Garden",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/iskallian_garden.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/comet_observatory",
+      "name": "Comet Observatory",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/comet_observatory1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/arcade",
+      "name": "Arcade",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/arcade.nbt"
       }
     },
     {
@@ -9373,6 +9429,14 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/raw/chromatic_caves/spawner_tree2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/raw/larimar_cave",
+      "name": "Larimar Cave 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/raw/larimar_cave.nbt"
       }
     },
     {

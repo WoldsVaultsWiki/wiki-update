@@ -2,7 +2,55 @@
   "POOL": [
     {
       "value": {
+        "id": "cloudstorage:spawn_egg_bloviator",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "cloudstorage:spawn_egg_badloon",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
         "id": "minecraft:blaze_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "thermal:basalz_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "quark:wraith_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "thermal:blizz_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 10
+    },
+    {
+      "value": {
+        "id": "thermal:blitz_spawn_egg",
         "amountMin": 1,
         "amountMax": 1
       },
@@ -235,6 +283,14 @@
     {
       "value": {
         "id": "cagerium:wither_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "cagerium:ender_dragon_spawn_egg",
         "amountMin": 1,
         "amountMax": 1
       },

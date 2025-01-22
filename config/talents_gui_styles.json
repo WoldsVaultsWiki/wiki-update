@@ -109,8 +109,8 @@
       "icon": "the_vault:gui/skills/toxic_reaction"
     },
     "Lucky_Hit": {
-      "x": 140,
-      "y": 270
+      "x": 0,
+      "y": 260
     },
     "Fatal_Strike": {
       "x": 0,
@@ -137,36 +137,48 @@
       "icon": "the_vault:gui/skills/cleave"
     },
     "Masteries": {
-      "x": 0,
-      "y": 270
+      "x": 140,
+      "y": 260
     },
-    "Horde_Mastery": {
-      "x": 0,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/horde_mastery"
-    },
-    "Champion_Mastery": {
+    "Arthropod_Mastery": {
       "x": 70,
       "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/champion_mastery"
-    },
-    "Assassin_Mastery": {
-      "x": 0,
-      "y": 50,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/assassin_mastery"
     },
-    "Dungeon_Mastery": {
+    "Undead_Mastery": {
+      "x": 0,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/undead_mastery"
+    },
+    "Illager_Mastery": {
+      "x": 0,
+      "y": 50,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/dweller_mastery"
+    },
+    "Nether_Mastery": {
+      "x": 0,
+      "y": 100,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/nether_mastery"
+    },
+    "Champion_Mastery": {
+      "x": 70,
+      "y": 100,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/champion_mastery"
+    },
+    "Tank_Mastery": {
       "x": 70,
       "y": 50,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/dungeon_mastery"
+      "icon": "the_vault:gui/skills/tank_mastery"
     },
     "Javelin": {
       "x": 280,
-      "y": 270
+      "y": 260
     },
     "Javelin_Throw_Power": {
       "x": 0,
@@ -218,7 +230,7 @@
     },
     "Frenzy": {
       "x": 210,
-      "y": 150,
+      "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/frenzy"
     },
@@ -258,6 +270,5 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/bloodthirst"
     }
-
   }
 }

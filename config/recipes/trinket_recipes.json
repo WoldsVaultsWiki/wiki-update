@@ -1,6 +1,7 @@
 {
   "trinketRecipes": [
-    { "trinket": "the_vault:carapace",
+    {
+      "trinket": "the_vault:carapace",
       "id": "the_vault:carapace",
       "output": {
         "AMOUNT": 1,
@@ -30,7 +31,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:cat_in_a_jar",
+    {
+      "trinket": "the_vault:cat_in_a_jar",
       "id": "the_vault:cat_in_a_jar",
       "output": {
         "AMOUNT": 1,
@@ -60,7 +62,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:centipede_feet",
+    {
+      "trinket": "the_vault:centipede_feet",
       "id": "the_vault:centipede_feet",
       "output": {
         "AMOUNT": 1,
@@ -90,7 +93,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:chromatic_feather",
+    {
+      "trinket": "the_vault:chromatic_feather",
       "id": "the_vault:chromatic_feather",
       "output": {
         "AMOUNT": 1,
@@ -120,7 +124,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:chromatic_powder",
+    {
+      "trinket": "the_vault:chromatic_powder",
       "id": "the_vault:chromatic_powder",
       "output": {
         "AMOUNT": 1,
@@ -150,7 +155,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:crystal_ball",
+    {
+      "trinket": "the_vault:crystal_ball",
       "id": "the_vault:crystal_ball",
       "output": {
         "AMOUNT": 1,
@@ -180,7 +186,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:elven_socks",
+    {
+      "trinket": "the_vault:elven_socks",
       "id": "the_vault:elven_socks",
       "output": {
         "AMOUNT": 1,
@@ -210,7 +217,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:giants_heart",
+    {
+      "trinket": "the_vault:giants_heart",
       "id": "the_vault:giants_heart",
       "output": {
         "AMOUNT": 1,
@@ -240,7 +248,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:gluttony_pendant",
+    {
+      "trinket": "the_vault:gluttony_pendant",
       "id": "the_vault:gluttony_pendant",
       "output": {
         "AMOUNT": 1,
@@ -270,7 +279,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:golden_burger",
+    {
+      "trinket": "the_vault:golden_burger",
       "id": "the_vault:golden_burger",
       "output": {
         "AMOUNT": 1,
@@ -300,7 +310,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:high_heels",
+    {
+      "trinket": "the_vault:high_heels",
       "id": "the_vault:high_heels",
       "output": {
         "AMOUNT": 1,
@@ -330,7 +341,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:idonas_blade",
+    {
+      "trinket": "the_vault:idonas_blade",
       "id": "the_vault:idonas_blade",
       "output": {
         "AMOUNT": 1,
@@ -360,7 +372,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:lucky_goose",
+    {
+      "trinket": "the_vault:lucky_goose",
       "id": "the_vault:lucky_goose",
       "output": {
         "AMOUNT": 1,
@@ -390,7 +403,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:night_vision_goggles",
+    {
+      "trinket": "the_vault:night_vision_goggles",
       "id": "the_vault:night_vision_goggles",
       "output": {
         "AMOUNT": 1,
@@ -420,7 +434,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:phylactery",
+    {
+      "trinket": "the_vault:phylactery",
       "id": "the_vault:phylactery",
       "output": {
         "AMOUNT": 1,
@@ -450,7 +465,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:tenos_charm",
+    {
+      "trinket": "the_vault:tenos_charm",
       "id": "the_vault:tenos_charm",
       "output": {
         "AMOUNT": 1,
@@ -480,7 +496,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:velaras_petal",
+    {
+      "trinket": "the_vault:velaras_petal",
       "id": "the_vault:velaras_petal",
       "output": {
         "AMOUNT": 1,
@@ -510,7 +527,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:wendarrs_hourglass",
+    {
+      "trinket": "the_vault:wendarrs_hourglass",
       "id": "the_vault:wendarrs_hourglass",
       "output": {
         "AMOUNT": 1,
@@ -540,7 +558,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:ender_anchor",
+    {
+      "trinket": "the_vault:ender_anchor",
       "id": "the_vault:ender_anchor",
       "output": {
         "AMOUNT": 1,
@@ -570,7 +589,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:clover",
+    {
+      "trinket": "the_vault:clover",
       "id": "the_vault:clover",
       "output": {
         "AMOUNT": 1,
@@ -600,7 +620,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:cufflinks",
+    {
+      "trinket": "the_vault:cufflinks",
       "id": "the_vault:cufflinks",
       "output": {
         "AMOUNT": 1,
@@ -630,7 +651,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:spellbook",
+    {
+      "trinket": "the_vault:spellbook",
       "id": "the_vault:spellbook",
       "output": {
         "AMOUNT": 1,
@@ -660,7 +682,8 @@
         }
       ]
     },
-    { "trinket": "the_vault:stone_of_jordan",
+    {
+      "trinket": "the_vault:stone_of_jordan",
       "id": "the_vault:stone_of_jordan",
       "output": {
         "AMOUNT": 1,
@@ -690,8 +713,71 @@
         }
       ]
     },
-    { "trinket": "the_vault:wings",
+    {
+      "trinket": "the_vault:wings",
       "id": "the_vault:wings",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "trinket": "the_vault:miners_headlamp",
+      "id": "the_vault:miners_headlamp",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "trinket": "the_vault:running_shoes",
+      "id": "the_vault:running_shoes",
       "output": {
         "AMOUNT": 1,
         "ITEM": "the_vault:trinket",

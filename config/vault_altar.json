@@ -10,6 +10,200 @@
       "output": "the_vault:vault_crystal"
     },
     {
+      "input": "woldsvaults:greedy_vault_rock",
+      "output": "the_vault:vault_crystal"
+    },
+    {
+      "input": "the_vault:crystal_seal_trial_chamber",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "empty",
+              "objective_probability": 0.0
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:trial",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_trial"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "woldsvaults:tome_of_tenos",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "zealot",
+              "objective_probability": 0.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              }
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:tenos_hunter",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_tenos_normal"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 0,
+              "volume": 50
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "woldsvaults:idona_dagger",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "zealot",
+              "objective_probability": 0.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              }
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:idona_hunter",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_idona_normal"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 0,
+              "volume": 50
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "woldsvaults:velara_apple",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "zealot",
+              "objective_probability": 0.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              }
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:velara_hunter",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_velara_normal"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 0,
+              "volume": 50
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "woldsvaults:wendarr_gem",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "zealot",
+              "objective_probability": 0.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              }
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:wendarr_hunter",
+                  "size": 1
+                }
+              ]
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_wendarr_normal"
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 0,
+              "volume": 50
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
       "input": "the_vault:crystal_seal_cake",
       "output": {
         "id": "the_vault:vault_crystal",
@@ -61,7 +255,7 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 1,
+              "exhausted": 0,
               "volume": 0
             },
             "Version": 3
@@ -84,6 +278,48 @@
                   "size": 1
                 }
               ]
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0
+            },
+            "Version": 3
+          }
+        }
+      }
+    },
+    {
+      "input": "woldsvaults:uber_chaos_catalyst",
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "children": [
+                {
+                  "id": "the_vault:unhinged_default",
+                  "type": "pool"
+                }
+              ],
+              "type": "compound"
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0,
+              "List": [
+                {
+                  "id": "the_vault:unhinged",
+                  "size": 1
+                }
+              ]
+            },
+            "Model": {
+              "type": "unhinged"
+            },
+            "Theme": {
+              "type": "value",
+              "id": "the_vault:classic_vault_chaos"
             },
             "Properties": {
               "type": "capacity",
@@ -134,6 +370,9 @@
         "id": "the_vault:vault_crystal",
         "nbt": {
           "CrystalData": {
+            "Objective": {
+              "type": "herald"
+            },
             "Modifiers": {
               "type": "default",
               "RandomModifiers": 0,
@@ -143,9 +382,6 @@
                   "size": 1
                 }
               ]
-            },
-            "Objective": {
-              "type": "herald"
             },
             "Layout": {
               "type": "herald"
@@ -187,6 +423,13 @@
             },
             "Modifiers": {
               "type": "paradox"
+            },
+            "Time": {
+              "type": "value",
+              "roll": {
+                "type": "constant",
+                "count": 108000
+              }
             },
             "Properties": {
               "type": "capacity",

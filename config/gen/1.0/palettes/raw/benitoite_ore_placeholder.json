@@ -1,0 +1,21 @@
+{
+  "tile_processors": [
+    {
+      "type": "placeholder",
+      "target": "ORE",
+      "levels": [
+        {
+          "level": 0,
+          "probability": 0.125,
+          "success": {
+            "the_vault:ore_benitoite[type=vault_stone,generated=true]": 1,
+            "the_vault:ore_larimar[type=vault_stone,generated=true]": 3
+          },
+          "failure": {
+            "minecraft:deepslate": 1
+          }
+        }
+      ]
+    }
+  ]
+}

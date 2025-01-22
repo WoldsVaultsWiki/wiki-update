@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/raw/larimar_cave",
+      "palettes": [
+        "the_vault:raw/chromatic_caves/base_larimar"
+      ]
+    }
+  }
+]

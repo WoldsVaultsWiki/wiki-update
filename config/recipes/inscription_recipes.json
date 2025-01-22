@@ -1,6 +1,30 @@
 {
   "inscriptionRecipes": [
-    
+    {
+      "id": "the_vault:inscription_playzone",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:playzone\", data:{color:7012096,model:20}, display:{Name:'{\"text\":\"Playzone Inscription\",\"color\":\"#6AFF00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:wooden_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 16,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        }
+      ]
+    },
     {
       "id": "the_vault:inscription_mushroom",
       "output": {
@@ -91,7 +115,6 @@
         }
       ]
     },
-    
     {
       "id": "the_vault:inscription_library",
       "output": {
@@ -348,6 +371,186 @@
         {
           "AMOUNT": 16,
           "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:digsite",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:omega_digsite\", data:{color:7012096,model:6}, display:{Name:'{\"text\":\"Digsite Inscription\",\"color\":\"#6AFF00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 48,
+          "ITEM": "the_vault:gem_echo",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:wold_star_chunk",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:pirate_cave",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:pirate_cave\", data:{color:7012096,model:17}, display:{Name:'{\"text\":\"Pirate Cave Inscription\",\"color\":\"#F09E00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:gilded_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:gem_painite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 16,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:raid",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:raid\", data:{color:7012096,model:99}, display:{Name:'{\"text\":\"Raid Room Inscription\",\"color\":\"#F09E00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:gem_painite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 8,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 8,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:laboratory",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:laboratory\", data:{color:7012096,model:100}, display:{Name:'{\"text\":\"Laboratory Inscription\",\"color\":\"#F09E00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:gem_painite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:gem_wutodie",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 8,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:iskallian_garden",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:iskallian_garden\", data:{color:7012096,model:16}, display:{Name:'{\"text\":\"Woldian Garden Inscription\",\"color\":\"#6AFF00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_echo",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:mystic_pear",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:arcade",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:inscription",
+        "NBT": "{pool:\"the_vault:arcade\", data:{color:7012096,model:18}, display:{Name:'{\"text\":\"Arcade Inscription\",\"color\":\"#6AFF00\"}' }}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gilded_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:ornate_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:living_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:wooden_chest_scroll",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 12,
+          "ITEM": "the_vault:bounty_pearl",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 12,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:inscription_piece",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_echo",
           "NBT": "{}"
         }
       ]

@@ -1,0 +1,14 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/challenge/pirate_cave1",
+      "palettes": [
+        "the_vault:pirate_caves/base",
+        "the_vault:pirate_caves/spawner_settings",
+        "the_vault:generic/gate_placeholder",
+        "the_vault:nonparadox/pirate_cave/tenos"
+      ]
+    }
+  }
+]

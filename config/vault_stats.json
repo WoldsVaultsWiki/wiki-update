@@ -207,13 +207,27 @@
     "the_vault:t1_zombie": 128.0,
     "the_vault:t2_zombie": 256.0,
     "the_vault:t3_zombie": 256.0
-    
   },
-  "completion" : {
+  "completion": {
     "boss": {
       "BAILED": 0,
       "FAILED": 0,
       "COMPLETED": 16000
+    },
+    "enchanted_elixir": {
+      "BAILED": 0,
+      "FAILED": 0,
+      "COMPLETED": 36000
+    },
+    "haunted_braziers": {
+      "BAILED": 0,
+      "FAILED": 0,
+      "COMPLETED": 14000
+    },
+    "unhinged_scavenger": {
+      "BAILED": 0,
+      "FAILED": 0,
+      "COMPLETED": 48000
     },
     "scavenger": {
       "BAILED": 0,
@@ -234,6 +248,11 @@
       "BAILED": 0,
       "FAILED": 0,
       "COMPLETED": 400
+    },
+    "zealot": {
+      "BAILED": 0,
+      "FAILED": 0,
+      "COMPLETED": 24000
     },
     "elixir": {
       "BAILED": 0,

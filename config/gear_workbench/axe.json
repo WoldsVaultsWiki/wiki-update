@@ -8,7 +8,8 @@
   ],
   "craftableModifiers": {
     "PREFIX": [
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t0",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -25,7 +26,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t1",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -42,7 +44,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t2",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 2,
         "unlockCategory": "LEVEL",
@@ -59,7 +62,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t3",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -76,7 +80,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t4",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t4",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -93,7 +98,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t5",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t5",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 5,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -110,7 +116,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t6",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t6",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 6,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -127,7 +134,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t7",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_damage_t7",
         "modifierIdentifier": "the_vault:crafted_attack_damage",
         "modifierTier": 7,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -144,8 +152,44 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_aoe_t0",
+        "modifierIdentifier": "the_vault:crafted_on_hit_aoe",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_aoe_t1",
+        "modifierIdentifier": "the_vault:crafted_on_hit_aoe",
+        "modifierTier": 1,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t0",
         "modifierIdentifier": "the_vault:crafted_on_hit_chain",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -162,7 +206,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t1",
         "modifierIdentifier": "the_vault:crafted_on_hit_chain",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -179,7 +224,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_chain_t2",
         "modifierIdentifier": "the_vault:crafted_on_hit_chain",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -196,8 +242,8 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t0",
         "modifierIdentifier": "the_vault:crafted_soul_chance",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -214,7 +260,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t1",
         "modifierIdentifier": "the_vault:crafted_soul_chance",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -231,7 +278,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t2",
         "modifierIdentifier": "the_vault:crafted_soul_chance",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -248,7 +296,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_soul_chance_t3",
         "modifierIdentifier": "the_vault:crafted_soul_chance",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -265,8 +314,8 @@
           }
         ]
       },
-     
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t0",
         "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -283,7 +332,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t1",
         "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -300,7 +350,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t2",
         "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -317,7 +368,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t3",
         "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -334,7 +386,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t0",
         "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -351,7 +404,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t1",
         "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -368,7 +422,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t2",
         "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -385,7 +440,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t3",
         "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -402,7 +458,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t0",
         "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -419,7 +476,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t1",
         "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -436,7 +494,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t2",
         "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -453,7 +512,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t3",
         "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -470,7 +530,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t0",
         "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -487,7 +548,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t1",
         "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -504,7 +566,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t2",
         "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -521,7 +584,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t3",
         "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -538,7 +602,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t0",
         "modifierIdentifier": "the_vault:crafted_damage_tank",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -555,7 +620,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t1",
         "modifierIdentifier": "the_vault:crafted_damage_tank",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -572,7 +638,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t2",
         "modifierIdentifier": "the_vault:crafted_damage_tank",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -589,7 +656,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t3",
         "modifierIdentifier": "the_vault:crafted_damage_tank",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -606,7 +674,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t0",
         "modifierIdentifier": "the_vault:crafted_damage_dweller",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -623,7 +692,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t1",
         "modifierIdentifier": "the_vault:crafted_damage_dweller",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -640,7 +710,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t2",
         "modifierIdentifier": "the_vault:crafted_damage_dweller",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -657,7 +728,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t3",
         "modifierIdentifier": "the_vault:crafted_damage_dweller",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -676,7 +748,8 @@
       }
     ],
     "SUFFIX": [
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_durability_t0",
         "modifierIdentifier": "the_vault:crafted_durability",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -693,7 +766,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_durability_t1",
         "modifierIdentifier": "the_vault:crafted_durability",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -710,7 +784,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_durability_t2",
         "modifierIdentifier": "the_vault:crafted_durability",
         "modifierTier": 2,
         "unlockCategory": "LEVEL",
@@ -727,7 +802,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_durability_t3",
         "modifierIdentifier": "the_vault:crafted_durability",
         "modifierTier": 3,
         "unlockCategory": "LEVEL",
@@ -744,7 +820,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t4",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_durability_t4",
         "modifierIdentifier": "the_vault:crafted_durability",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -761,9 +838,80 @@
           }
         ]
       },
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_soulbound_t0",
+        "modifierIdentifier": "the_vault:crafted_soulbound",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_bleed_cloud_t0",
+        "modifierIdentifier": "the_vault:crafted_bleed_cloud",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_bleed_cloud_t1",
+        "modifierIdentifier": "the_vault:crafted_bleed_cloud",
+        "modifierTier": 1,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 24,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 24,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_bleed_cloud_t2",
+        "modifierIdentifier": "the_vault:crafted_bleed_cloud",
+        "modifierTier": 2,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 48,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 48,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -780,7 +928,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t1",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -797,7 +946,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -814,8 +964,8 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_poison_cloud",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -832,7 +982,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t1",
         "modifierIdentifier": "the_vault:crafted_poison_cloud",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -849,7 +1000,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_poison_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_poison_cloud",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -866,8 +1018,8 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_slowness_cloud",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -884,7 +1036,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t1",
         "modifierIdentifier": "the_vault:crafted_slowness_cloud",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -901,7 +1054,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_slowness_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_slowness_cloud",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -918,8 +1072,8 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_fear_cloud",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -936,7 +1090,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t1",
         "modifierIdentifier": "the_vault:crafted_fear_cloud",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -953,7 +1108,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_fear_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_fear_cloud",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -970,8 +1126,8 @@
           }
         ]
       },
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_chilling_cloud",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -988,7 +1144,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t1",
         "modifierIdentifier": "the_vault:crafted_chilling_cloud",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1005,7 +1162,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_chill_cloud_t2",
         "modifierIdentifier": "the_vault:crafted_chilling_cloud",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1022,10 +1180,8 @@
           }
         ]
       },
-
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t0",
         "modifierIdentifier": "the_vault:crafted_attack_speed_percent",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -1042,7 +1198,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t1",
         "modifierIdentifier": "the_vault:crafted_attack_speed_percent",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -1059,7 +1216,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t2",
         "modifierIdentifier": "the_vault:crafted_attack_speed_percent",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1076,7 +1234,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_speed_percent_t3",
         "modifierIdentifier": "the_vault:crafted_attack_speed_percent",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1093,10 +1252,8 @@
           }
         ]
       },
-
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t0",
         "modifierIdentifier": "the_vault:crafted_attack_range",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -1113,7 +1270,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t1",
         "modifierIdentifier": "the_vault:crafted_attack_range",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -1130,7 +1288,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t2",
         "modifierIdentifier": "the_vault:crafted_attack_range",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1147,7 +1306,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_attack_range_t3",
         "modifierIdentifier": "the_vault:crafted_attack_range",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1164,11 +1324,8 @@
           }
         ]
       },
-
-
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t0",
         "modifierIdentifier": "the_vault:crafted_on_hit_stun",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -1185,7 +1342,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t1",
         "modifierIdentifier": "the_vault:crafted_on_hit_stun",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -1202,7 +1360,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t2",
         "modifierIdentifier": "the_vault:crafted_on_hit_stun",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1219,7 +1378,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t3",
         "modifierIdentifier": "the_vault:crafted_on_hit_stun",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1236,7 +1396,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t4",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_stun_t4",
         "modifierIdentifier": "the_vault:crafted_on_hit_stun",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1253,9 +1414,8 @@
           }
         ]
       },
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t0",
         "modifierIdentifier": "the_vault:crafted_on_hit_shock",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -1272,7 +1432,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t1",
         "modifierIdentifier": "the_vault:crafted_on_hit_shock",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -1289,7 +1450,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t2",
         "modifierIdentifier": "the_vault:crafted_on_hit_shock",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1306,7 +1468,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t3",
         "modifierIdentifier": "the_vault:crafted_on_hit_shock",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1323,7 +1486,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t4",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_hit_shock_t4",
         "modifierIdentifier": "the_vault:crafted_on_hit_shock",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1340,10 +1504,8 @@
           }
         ]
       },
-
-
-
-      { "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t0",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t0",
         "modifierIdentifier": "the_vault:crafted_lucky_hit_chance",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
@@ -1360,7 +1522,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t1",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t1",
         "modifierIdentifier": "the_vault:crafted_lucky_hit_chance",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
@@ -1377,7 +1540,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t2",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t2",
         "modifierIdentifier": "the_vault:crafted_lucky_hit_chance",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
@@ -1394,7 +1558,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t3",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_lucky_hit_chance_t3",
         "modifierIdentifier": "the_vault:crafted_lucky_hit_chance",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",

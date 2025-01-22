@@ -1,0 +1,12 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/omega/playzone1",
+      "palettes": [
+        "the_vault:playzone/base",
+        "the_vault:paradox/playzone/idona"
+      ]
+    }
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "tile_processors": [
+    {
+      "type": "weighted_target",
+      "target": "minecraft:pink_wool",
+      "output": {
+        "minecraft:blue_wool": 9
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:magenta_terracotta",
+      "output": {
+        "minecraft:blue_terracotta": 9
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:light_blue_concrete",
+      "output": {
+        "the_vault:tenos_light_smooth_brick": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "chipped:green_wool_11",
+      "output": {
+        "chipped:light_blue_wool_11": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "chipped:green_wool_12",
+      "output": {
+        "chipped:light_blue_wool_12": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/gate_placeholder"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

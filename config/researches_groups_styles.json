@@ -1,10 +1,40 @@
 {
   "groupStyles": {
+    "Omega": {
+      "group": "Omega",
+      "headerColor": -8598175,
+      "headerTextColor": -1,
+      "x": 180,
+      "y": 415,
+      "boxWidth": 170,
+      "boxHeight": 135,
+      "icon": "the_vault:gui/research_groups/omega"
+    },
+    "Addons": {
+      "group": "Addons",
+      "headerColor": -3224324,
+      "headerTextColor": -1,
+      "x": 550,
+      "y": -25,
+      "boxWidth": 170,
+      "boxHeight": 175,
+      "icon": "the_vault:gui/research_groups/addons"
+    },
+    "Logistics": {
+      "group": "Logistics",
+      "headerColor": -22258712,
+      "headerTextColor": -1,
+      "x": -10,
+      "y": -25,
+      "boxWidth": 170,
+      "boxHeight": 105,
+      "icon": "the_vault:gui/research_groups/logistics"
+    },
     "Storage": {
       "group": "Storage",
       "headerColor": -10758712,
       "headerTextColor": -1,
-      "x": -10,
+      "x": -200,
       "y": -25,
       "boxWidth": 170,
       "boxHeight": 105,
@@ -17,15 +47,15 @@
       "x": -10,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 140,
       "icon": "the_vault:gui/research_groups/handling"
     },
     "BigToys": {
       "group": "BigToys",
-      "headerColor": -16776961,
+      "headerColor": -44776961,
       "headerTextColor": -1,
       "x": -10,
-      "y": 215,
+      "y": 245,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/big_toys"
@@ -47,7 +77,7 @@
       "x": 370,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 140,
       "icon": "the_vault:gui/research_groups/base"
     },
     "Production": {
@@ -55,7 +85,7 @@
       "headerColor": -11298849,
       "headerTextColor": -1,
       "x": 180,
-      "y": 215,
+      "y": 255,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/farming"
@@ -67,7 +97,7 @@
       "x": 180,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {
@@ -85,7 +115,7 @@
       "headerColor": -14336,
       "headerTextColor": -1,
       "x": 370,
-      "y": 215,
+      "y": 245,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/bottle"

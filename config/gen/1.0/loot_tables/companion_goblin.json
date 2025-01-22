@@ -7,8 +7,8 @@
         "max": 1
       },
       "pool": [
-
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 16,
@@ -21,7 +21,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -35,7 +35,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -49,7 +49,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -63,7 +63,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -77,7 +77,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -91,7 +91,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -105,7 +105,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -119,7 +119,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -133,7 +133,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
@@ -147,8 +147,8 @@
         "max": 1
       },
       "pool": [
-
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 5,
@@ -168,7 +168,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             }
@@ -183,11 +183,9 @@
         "max": 1
       },
       "pool": [
-
-        { "weight": 1,
-          "pool": [
-            
-          ]
+        {
+          "weight": 1,
+          "pool": []
         }
       ]
     },
@@ -198,8 +196,8 @@
         "max": 3
       },
       "pool": [
-
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 1,
@@ -245,8 +243,8 @@
         "max": 1
       },
       "pool": [
-
-        { "weight": 1,
+        {
+          "weight": 1,
           "pool": [
             {
               "weight": 40,
@@ -336,7 +334,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {

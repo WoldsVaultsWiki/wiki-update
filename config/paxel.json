@@ -6,28 +6,28 @@
         "item": "minecraft:gravel",
         "amount": 1
       },
-      "probability": 1.0 
+      "probability": 1.0
     },
     "minecraft:gravel": {
       "item": {
         "item": "minecraft:sand",
         "amount": 1
       },
-      "probability": 1.0 
+      "probability": 1.0
     },
     "minecraft:bricks": {
       "item": {
         "item": "minecraft:brick",
         "amount": 2
       },
-      "probability": 1.0 
+      "probability": 1.0
     },
     "minecraft:nether_bricks": {
       "item": {
         "item": "minecraft:nether_brick",
         "amount": 2
       },
-      "probability": 1.0 
+      "probability": 1.0
     },
     "minecraft:nether_wart_block": {
       "item": {
@@ -217,7 +217,7 @@
       "LEVEL_DELTA_PER_SOCKET": 3,
       "TIER_BASE_DURABILITY": 4000,
       "BASE_REPAIR_SLOTS": 2
-    }, 
+    },
     "the_vault:black_chromatic_pickaxe": {
       "STURDINESS_DECREMENT_PER_LEVEL": 4,
       "LEVEL_DELTA_PER_SOCKET": 4,
@@ -236,7 +236,6 @@
       "TIER_BASE_DURABILITY": 10000,
       "BASE_REPAIR_SLOTS": 6
     }
-    
   },
   "UPGRADES": {
     "DURABILITY": {
@@ -324,7 +323,7 @@
       "MIN_YIELD": 1,
       "MAX_YIELD": 5,
       "MAX_VALUE": 10000,
-      "COLOR": "#FFFFFFFF", 
+      "COLOR": "#FFFFFFFF",
       "TOOLTIP_HINT": "Makes the pickaxe mine in a 5x5 area"
     },
     "SMELTING": {

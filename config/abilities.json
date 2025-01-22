@@ -4,6 +4,338 @@
     "skills": [
       {
         "type": "specialized",
+        "id": "Colossus",
+        "name": "Colossus",
+        "maxLearnableTier": 2,
+        "specializations": [
+          {
+            "type": "tiered",
+            "id": "Colossus_Base",
+            "name": "Colossus",
+            "maxLearnableTier": 2,
+            "tiers": [
+              {
+                "type": "colossus",
+                "durationTicks": 300,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.4,
+                "additionalResistance": 0.2,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 400,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.6,
+                "additionalResistance": 0.3,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 440,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.6,
+                "additionalResistance": 0.32,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 460,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.6,
+                "additionalResistance": 0.34,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 480,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.6,
+                "additionalResistance": 0.36,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 500,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.6,
+                "additionalResistance": 0.38,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 520,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.62,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 540,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.64,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 560,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.66,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 580,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.68,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 600,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 2000,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 620,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1940,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 640,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1900,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 660,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1860,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 680,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1820,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "colossus",
+                "durationTicks": 700,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1780,
+                "size": 1.7,
+                "additionalResistance": 0.4,
+                "unlockLevel": 0
+              }
+            ]
+          },
+          {
+            "type": "tiered",
+            "id": "Sneaky_Getaway",
+            "name": "Sneaky Getaway",
+            "maxLearnableTier": 2,
+            "tiers": [
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 60,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.5,
+                "speedPercentAdded": 0.4,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 120,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.6,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 140,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.62,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 160,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.64,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 180,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.66,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 200,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.68,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 220,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.7,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 240,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.72,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 260,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.74,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 280,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.76,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 300,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.78,
+                "unlockLevel": 0
+              },
+              {
+                "type": "sneaky_getaway",
+                "durationTicks": 320,
+                "manaCost": 25.0,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "cooldownTicks": 1000,
+                "size": 0.4,
+                "speedPercentAdded": 0.8,
+                "unlockLevel": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "specialized",
         "id": "Heal",
         "name": "Heal",
         "maxLearnableLevel": 8,
@@ -13,7 +345,6 @@
             "id": "Heal_Base",
             "name": "Heal",
             "maxLearnableTier": 8,
-
             "tiers": [
               {
                 "type": "heal",
@@ -418,7 +749,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 1.0,
                 "manaCost": 6.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -449,7 +780,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 2.0,
                 "manaCost": 7.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -480,7 +811,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 3.0,
                 "manaCost": 8.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -511,7 +842,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 3.5,
                 "manaCost": 9.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -542,7 +873,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 4.0,
                 "manaCost": 10.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -572,7 +903,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 4.5,
                 "manaCost": 11.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -602,7 +933,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 5.0,
                 "manaCost": 12.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -632,7 +963,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 5.5,
                 "manaCost": 13.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -663,7 +994,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 6.0,
                 "manaCost": 14.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -694,7 +1025,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 6.5,
                 "manaCost": 15.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -725,7 +1056,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 7.0,
                 "manaCost": 16.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -756,7 +1087,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 7.5,
                 "manaCost": 17.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -787,7 +1118,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 8.0,
                 "manaCost": 18.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -818,7 +1149,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 8.5,
                 "manaCost": 19.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -849,7 +1180,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 9.0,
                 "manaCost": 20.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -880,7 +1211,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 9.5,
                 "manaCost": 21.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -911,7 +1242,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 10.0,
                 "manaCost": 22.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -942,7 +1273,7 @@
                   "minecraft:weakness",
                   "minecraft:wither"
                 ],
-                "flatLifeHealed": 0.0,
+                "flatLifeHealed": 10.5,
                 "manaCost": 23.0,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
@@ -1038,8 +1369,6 @@
                 "cooldownTicks": 140,
                 "unlockLevel": 0
               },
-
-
               {
                 "type": "dash",
                 "extraDistance": 9,
@@ -1217,9 +1546,7 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 180,
                 "unlockLevel": 0
-              }
-
-            ,
+              },
               {
                 "type": "dash_damage",
                 "attackDamagePercentPerDash": 2.25,
@@ -1400,8 +1727,6 @@
                 "cooldownTicks": 100,
                 "unlockLevel": 0
               },
-
-
               {
                 "type": "dash_warp",
                 "projectileLaunchForce": 2.4,
@@ -2095,9 +2420,7 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0
-              }
-
-            ,
+              },
               {
                 "type": "nova_dot",
                 "durationSeconds": 8,
@@ -2954,6 +3277,194 @@
                 "regretPointCost": 1,
                 "cooldownTicks": 200,
                 "unlockLevel": 0
+              }
+            ]
+          },
+          {
+            "type": "tiered",
+            "id": "Levitate",
+            "name": "Levitate",
+            "maxLearnableTier": 5,
+            "tiers": [
+              {
+                "type": "levitate",
+                "levitateStrength": 1,
+                "manaCostPerSecond": 12.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_1"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 3,
+                "manaCostPerSecond": 14.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_2"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 5,
+                "manaCostPerSecond": 16.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_3"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 7,
+                "manaCostPerSecond": 18.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_4"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 9,
+                "manaCostPerSecond": 20.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_5"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 11,
+                "manaCostPerSecond": 22.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_6"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 13,
+                "manaCostPerSecond": 24.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_7"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 15,
+                "manaCostPerSecond": 26.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_8"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 17,
+                "manaCostPerSecond": 28.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_9"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 19,
+                "manaCostPerSecond": 30.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_10"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 21,
+                "manaCostPerSecond": 32.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_11"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 23,
+                "manaCostPerSecond": 34.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_12"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 25,
+                "manaCostPerSecond": 36.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_13"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 27,
+                "manaCostPerSecond": 38.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_14"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 29,
+                "manaCostPerSecond": 40.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_15"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 31,
+                "manaCostPerSecond": 42.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_16"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 33,
+                "manaCostPerSecond": 44.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_17"
+              },
+              {
+                "type": "levitate",
+                "levitateStrength": 35,
+                "manaCostPerSecond": 46.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "levitate_18"
               }
             ]
           }
@@ -4823,7 +5334,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 8"
               },
               {
                 "type": "vein_miner",
@@ -4831,7 +5343,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 16"
               },
               {
                 "type": "vein_miner",
@@ -4839,7 +5352,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 32"
               },
               {
                 "type": "vein_miner",
@@ -4847,7 +5361,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 64"
               },
               {
                 "type": "vein_miner",
@@ -4855,7 +5370,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 96"
               },
               {
                 "type": "vein_miner",
@@ -4863,7 +5379,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 128"
               },
               {
                 "type": "vein_miner",
@@ -4871,7 +5388,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 160"
               },
               {
                 "type": "vein_miner",
@@ -4879,7 +5397,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 192"
               },
               {
                 "type": "vein_miner",
@@ -4887,7 +5406,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 224"
               },
               {
                 "type": "vein_miner",
@@ -4895,7 +5415,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 256"
               },
               {
                 "type": "vein_miner",
@@ -4903,7 +5424,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 288"
               },
               {
                 "type": "vein_miner",
@@ -4911,7 +5433,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 320"
               },
               {
                 "type": "vein_miner",
@@ -4919,7 +5442,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 352"
               },
               {
                 "type": "vein_miner",
@@ -4927,7 +5451,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "vein miner: 352"
               }
             ]
           },
@@ -5144,27 +5669,21 @@
             "tiers": [
               {
                 "type": "vein_miner_void",
-                "blockLimit": 2,
+                "blockLimit": 6,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 6"
               },
               {
                 "type": "vein_miner_void",
-                "blockLimit": 4,
+                "blockLimit": 10,
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
-              },
-              {
-                "type": "vein_miner_void",
-                "blockLimit": 8,
-                "learnPointCost": 1,
-                "regretPointCost": 1,
-                "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 10"
               },
               {
                 "type": "vein_miner_void",
@@ -5172,7 +5691,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 16"
               },
               {
                 "type": "vein_miner_void",
@@ -5180,7 +5700,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 24"
               },
               {
                 "type": "vein_miner_void",
@@ -5188,7 +5709,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 32"
               },
               {
                 "type": "vein_miner_void",
@@ -5196,7 +5718,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 40"
               },
               {
                 "type": "vein_miner_void",
@@ -5204,7 +5727,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 48"
               },
               {
                 "type": "vein_miner_void",
@@ -5212,7 +5736,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 56"
               },
               {
                 "type": "vein_miner_void",
@@ -5220,7 +5745,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 64"
               },
               {
                 "type": "vein_miner_void",
@@ -5228,7 +5754,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 72"
               },
               {
                 "type": "vein_miner_void",
@@ -5236,7 +5763,8 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 80"
               },
               {
                 "type": "vein_miner_void",
@@ -5244,7 +5772,136 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
-                "unlockLevel": 0
+                "unlockLevel": 0,
+                "id": "void miner: 88"
+              }
+            ]
+          },
+          {
+            "type": "tiered",
+            "id": "Vein_Miner_Chain",
+            "name": "Chain Miner",
+            "maxLearnableTier": 4,
+            "tiers": [
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 4,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 4 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 2,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (2)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 20,
+                "range": 3,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 20 (3)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 12,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 12 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 16,
+                "range": 4,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 16 (4)"
+              },
+              {
+                "type": "vein_miner_chain",
+                "blockLimit": 8,
+                "range": 5,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 0,
+                "unlockLevel": 0,
+                "id": "chain miner: 8 (5)"
               }
             ]
           }
@@ -5561,7 +6218,7 @@
                 "cooldownTicks": 12000,
                 "unlockLevel": 0,
                 "id": "hunter_lvl12"
-              }              
+              }
             ]
           },
           {
@@ -6049,7 +6706,7 @@
                 "manaCost": 30.0,
                 "unlockLevel": 0,
                 "id": "mana_shield_8"
-              },              
+              },
               {
                 "type": "mana_shield",
                 "durationTicks": 100,
@@ -6159,7 +6816,7 @@
                 "manaCost": 30.0,
                 "unlockLevel": 0,
                 "id": "mana_shield_18"
-              }              
+              }
             ]
           }
         ]
@@ -6507,7 +7164,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 8,
                 "damagePerStack": 0.06,
                 "stackage": {
@@ -6527,7 +7184,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 9,
                 "damagePerStack": 0.07,
                 "stackage": {
@@ -6547,7 +7204,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 10,
                 "damagePerStack": 0.08,
                 "stackage": {
@@ -6567,7 +7224,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 11,
                 "damagePerStack": 0.09,
                 "stackage": {
@@ -6587,7 +7244,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 12,
                 "damagePerStack": 0.1,
                 "stackage": {
@@ -6607,7 +7264,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 13,
                 "damagePerStack": 0.11,
                 "stackage": {
@@ -6627,7 +7284,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 14,
                 "damagePerStack": 0.12,
                 "stackage": {
@@ -6647,7 +7304,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 15,
                 "damagePerStack": 0.13,
                 "stackage": {
@@ -6667,7 +7324,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 16,
                 "damagePerStack": 0.14,
                 "stackage": {
@@ -6687,7 +7344,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 17,
                 "damagePerStack": 0.15,
                 "stackage": {
@@ -6707,7 +7364,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 18,
                 "damagePerStack": 0.16,
                 "stackage": {
@@ -6727,7 +7384,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 19,
                 "damagePerStack": 0.17,
                 "stackage": {
@@ -6747,7 +7404,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 20,
                 "damagePerStack": 0.18,
                 "stackage": {
@@ -6767,7 +7424,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 21,
                 "damagePerStack": 0.19,
                 "stackage": {
@@ -6787,7 +7444,7 @@
               {
                 "type": "shield_bash_retribution",
                 "manaCost": 40,
-"chargeTime": 200,
+                "chargeTime": 200,
                 "damageRadius": 22,
                 "damagePerStack": 0.2,
                 "stackage": {
@@ -12445,7 +13102,6 @@
               }
             ]
           }
-          
         ]
       },
       {

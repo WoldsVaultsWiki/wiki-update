@@ -7,8 +7,20 @@
         "max": 9
       },
       "pool": [
-        { "weight": 70,
+        {
+          "weight": 70,
           "pool": [
+            {
+              "weight": 3,
+              "item": {
+                "id": "woldsvaults:vaultar_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
             {
               "weight": 7,
               "item": {
@@ -17,7 +29,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -28,7 +40,7 @@
                   "type": "uniform",
                   "min": 16,
                   "max": 64
-                  }
+                }
               }
             },
             {
@@ -39,13 +51,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
-            
           ]
         },
-        { "weight": 20,
+        {
+          "weight": 20,
           "pool": [
             {
               "weight": 7,
@@ -55,23 +67,24 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 8,
+        {
+          "weight": 8,
           "pool": [
             {
-                "weight": 8,
-                "item": {
-                  "id": "minecraft:nether_star",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
+              "weight": 8,
+              "item": {
+                "id": "minecraft:nether_star",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
+              }
             },
             {
               "weight": 8,
@@ -81,7 +94,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -92,7 +105,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -103,23 +116,24 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 2,
+        {
+          "weight": 2,
           "pool": [
             {
-                "weight": 10,
-                "item": {
-                  "id": "minecraft:elytra",
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
+              "weight": 10,
+              "item": {
+                "id": "minecraft:elytra",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
+              }
             },
             {
               "weight": 10,
@@ -129,7 +143,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -140,7 +154,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -151,7 +165,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]

@@ -1,5 +1,81 @@
 {
   "data": {
+    "Colossus_Base": {
+      "description": [
+        {
+          "text": "Makes you considerably bigger, giving you ",
+          "color": "$text"
+        },
+        {
+          "text": "knockback immunity ",
+          "color": "$knockback"
+        },
+        {
+          "text": "and a boost in ",
+          "color": "$text"
+        },
+        {
+          "text": "resistance",
+          "color": "$radius"
+        },
+        {
+          "text": " for a limited duration\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "additionalResistance",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ],
+      "next": [
+        "additionalResistance",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ]
+    },
+    "Sneaky_Getaway": {
+      "description": [
+        {
+          "text": "Makes you considerably smaller and increases your",
+          "color": "$text"
+        },
+        {
+          "text": "movement speed",
+          "color": "$speed"
+        },
+        {
+          "text": "for a limited duration, allowing for a quick and sneaky getaway\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u2734 Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "speed",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ],
+      "next": [
+        "speed",
+        "size",
+        "cooldown",
+        "manaCost",
+        "duration"
+      ]
+    },
     "Dash_Base": {
       "description": [
         {
@@ -25,7 +101,32 @@
         "distance"
       ],
       "next": [
-        
+        "cooldown",
+        "manaCost",
+        "distance"
+      ]
+    },
+    "Dash_Hop": {
+      "description": [
+        {
+          "text": "Massively reduces your dash ",
+          "color": "$text"
+        },
+        {
+          "text": "distance",
+          "color": "$distance"
+        },
+        {
+          "text": " but heavily decreases mana cost and cooldown!\n\n",
+          "color": "$text"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "distance"
+      ],
+      "next": [
         "cooldown",
         "manaCost",
         "distance"
@@ -57,7 +158,6 @@
         "damage"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "distance",
@@ -101,7 +201,6 @@
         "force"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "force"
@@ -140,7 +239,6 @@
         "damage"
       ],
       "next": [
-        
         "cooldown",
         "duration",
         "damage"
@@ -204,7 +302,6 @@
         "rangeVertical"
       ],
       "next": [
-        
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -270,7 +367,6 @@
         "chance"
       ],
       "next": [
-        
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -328,7 +424,6 @@
         "rangeVertical"
       ],
       "next": [
-        
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -381,7 +476,6 @@
         "rangeVertical"
       ],
       "next": [
-        
         "manaCost",
         "delay",
         "rangeHorizontal",
@@ -413,7 +507,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration"
@@ -452,7 +545,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration"
@@ -483,7 +575,6 @@
         "heal"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "heal"
@@ -492,7 +583,7 @@
     "Heal_Cleanse": {
       "description": [
         {
-          "text": "Changes Heal to instead Cleanse any negative effect affecting you.\n\n",
+          "text": "Changes Heal to Cleanse any negative effect affecting you, heal is reduced by 50%.\n\n",
           "color": "$text"
         },
         {
@@ -505,7 +596,6 @@
         "manaCost"
       ],
       "next": [
-        
         "cooldown",
         "manaCost"
       ]
@@ -536,7 +626,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "heal",
@@ -617,7 +706,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -658,7 +746,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -699,7 +786,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -740,7 +826,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -781,7 +866,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -822,7 +906,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -863,7 +946,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -872,40 +954,39 @@
     },
     "Shield_Bash": {
       "description": [
-          {
-            "text": "Bash mobs with your shield, dealing ",
-            "color": "$text"
-          },
-          {
-            "text": "Thorns Damage",
-            "color": "$thornsDamage"
-          },
-          {
-            "text": " in front of you in a ",
-            "color": "$text"
-          },
-          {
-            "text": "line",
-            "color": "$radius"
-          },
-          {
-            "text": ".",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "\u25d0 Cast Ability",
-            "color": "$castType"
-          }
+        {
+          "text": "Bash mobs with your shield, dealing ",
+          "color": "$text"
+        },
+        {
+          "text": "Thorns Damage",
+          "color": "$thornsDamage"
+        },
+        {
+          "text": " in front of you in a ",
+          "color": "$text"
+        },
+        {
+          "text": "line",
+          "color": "$radius"
+        },
+        {
+          "text": ".",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25d0 Cast Ability",
+          "color": "$castType"
+        }
       ],
       "current": [
         "manaCost",
         "cooldown",
         "thornsDamage"
-
       ],
       "next": [
         "manaCost",
@@ -915,40 +996,39 @@
     },
     "Mana_Shield_Base": {
       "description": [
-          {
-            "text": "Grants a ",
-            "color": "$text"
-          },
-          {
-            "text": "protective barrier",
-            "color": "$absorb"
-          },
-          {
-            "text": " for a ",
-            "color": "$text"
-          },
-          {
-            "text": "limited time",
-            "color": "$duration"
-          },
-          {
-            "text": ", absorbing all incoming damage until the shield is depleted, or the time runs out.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "\u25d0 Cast Ability",
-            "color": "$castType"
-          }
+        {
+          "text": "Grants a ",
+          "color": "$text"
+        },
+        {
+          "text": "protective barrier",
+          "color": "$absorb"
+        },
+        {
+          "text": " for a ",
+          "color": "$text"
+        },
+        {
+          "text": "limited time",
+          "color": "$duration"
+        },
+        {
+          "text": ", absorbing all incoming damage until the shield is depleted, or the time runs out.",
+          "color": "$text"
+        },
+        {
+          "text": "\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25d0 Cast Ability",
+          "color": "$castType"
+        }
       ],
       "current": [
         "manaCost",
         "cooldown",
         "healthPoints"
-
       ],
       "next": [
         "manaCost",
@@ -1007,9 +1087,8 @@
         "thornsDamage",
         "manaCost",
         "cooldown"
-
       ],
-      "next": [        
+      "next": [
         "thornsDamage",
         "manaCost",
         "cooldown"
@@ -1067,9 +1146,8 @@
         "radius",
         "manaCost",
         "cooldown"
-
       ],
-      "next": [        
+      "next": [
         "thornsDamage",
         "radius",
         "manaCost",
@@ -1107,7 +1185,6 @@
         "manaDamage",
         "radius",
         "cooldown"
-
       ],
       "next": [
         "manaDamage",
@@ -1167,7 +1244,6 @@
         "radius"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "rangeVertical",
@@ -1195,10 +1271,29 @@
         "rangeVertical"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "rangeVertical"
+      ]
+    },
+    "Levitate": {
+      "description": [
+        {
+          "text": "Changes Mega Jump into an on-demand levitation effect.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25cf Hold Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCostPerSecond",
+        "levitateSpeed"
+      ],
+      "next": [
+        "manaCostPerSecond",
+        "levitateSpeed"
       ]
     },
     "Nova_Base": {
@@ -1243,7 +1338,6 @@
         "ability_power"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1293,7 +1387,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1351,7 +1444,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1383,7 +1475,6 @@
         "damage"
       ],
       "next": [
-        
         "cooldown",
         "manaCostPerSecond",
         "damage"
@@ -1414,7 +1505,6 @@
         "chains"
       ],
       "next": [
-        
         "cooldown",
         "manaCostPerSecond",
         "chains"
@@ -1445,7 +1535,6 @@
         "leech"
       ],
       "next": [
-        
         "cooldown",
         "manaCostPerSecond",
         "leech"
@@ -1494,7 +1583,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "damageReduction",
@@ -1556,7 +1644,6 @@
         "duration",
         "cooldown",
         "manaCost"
-        
       ],
       "next": [
         "damageReduction",
@@ -1647,7 +1734,6 @@
         "duration"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "eternals",
@@ -1682,15 +1768,12 @@
         "radius",
         "cooldown",
         "manaCostPerSecond"
-
       ],
       "next": [
-        
         "speed",
         "radius",
         "cooldown",
         "manaCostPerSecond"
-
       ]
     },
     "Empower_Ice_Armor": {
@@ -1723,14 +1806,14 @@
       "current": [
         "chilled",
         "duration",
+        "additionalManaPerHit",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "chilled",
         "duration",
+        "additionalManaPerHit",
         "manaCostPerSecond",
         "cooldown"
       ]
@@ -1766,8 +1849,6 @@
         "radius",
         "manaCostPerSecond",
         "cooldown"
-
-
       ],
       "next": [
         "radius",
@@ -1834,7 +1915,6 @@
         "vulnerable"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1885,7 +1965,6 @@
         "distance"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1945,7 +2024,6 @@
         "ability_power"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "radius",
@@ -1989,7 +2067,6 @@
         "heal"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -2032,7 +2109,6 @@
         "manaRegen"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -2088,7 +2164,6 @@
         "delay"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -2132,7 +2207,6 @@
         "damage"
       ],
       "next": [
-        
         "cooldown",
         "manaCost",
         "duration",
@@ -2163,7 +2237,6 @@
         "blocks"
       ],
       "next": [
-        
         "blocks"
       ]
     },
@@ -2199,7 +2272,6 @@
         "unbreaking"
       ],
       "next": [
-        
         "blocks",
         "unbreaking"
       ]
@@ -2236,7 +2308,6 @@
         "fortune"
       ],
       "next": [
-        
         "blocks",
         "fortune"
       ]
@@ -2272,8 +2343,43 @@
         "blocks"
       ],
       "next": [
-        
         "blocks"
+      ]
+    },
+    "Vein_Miner_Chain": {
+      "description": [
+        {
+          "text": "Changes Vein Miner to mine blocks that are ",
+          "color": "$text"
+        },
+        {
+          "text": "further apart",
+          "color": "$distance"
+        },
+        {
+          "text": " at the cost of number of",
+          "color": "$text"
+        },
+        {
+          "text": " blocks mined",
+          "color": "$blocks"
+        },
+        {
+          "text": ".\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "\u25cf Hold Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "blocks",
+        "distance"
+      ],
+      "next": [
+        "blocks",
+        "distance"
       ]
     },
     "Javelin_Base": {
@@ -2312,10 +2418,8 @@
         "knockback",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "damage",
         "knockback",
         "cooldown",
@@ -2358,10 +2462,8 @@
         "piercing",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "damage",
         "piercing",
         "cooldown",
@@ -2409,10 +2511,8 @@
         "numberOfBounces",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "damage",
         "numberOfJavelins",
         "numberOfBounces",
@@ -2472,7 +2572,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "radius",
@@ -2525,7 +2624,6 @@
         }
       ],
       "current": [
-
         "ability_power",
         "damageInterval",
         "radius",
@@ -2534,8 +2632,6 @@
         "cooldown"
       ],
       "next": [
-        
-
         "ability_power",
         "damageInterval",
         "radius",
@@ -2588,7 +2684,6 @@
         }
       ],
       "current": [
-
         "ability_power",
         "damageInterval",
         "radius",
@@ -2596,8 +2691,6 @@
         "cooldown"
       ],
       "next": [
-        
-
         "ability_power",
         "damageInterval",
         "radius",
@@ -2624,6 +2717,14 @@
           "color": "$ability_power"
         },
         {
+          "text": " and gives you ",
+          "color": "$text"
+        },
+        {
+          "text": "durability resistance",
+          "color": "$durabilityWearReduction"
+        },
+        {
           "text": ". ",
           "color": "$text"
         },
@@ -2633,15 +2734,12 @@
         }
       ],
       "current": [
-
         "ability_power",
         "additionalManaPerBolt",
         "manaCostPerSecond",
         "cooldown"
       ],
       "next": [
-        
-
         "ability_power",
         "additionalManaPerBolt",
         "manaCostPerSecond",
@@ -2676,14 +2774,12 @@
         }
       ],
       "current": [
-
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
         "cooldown"
       ],
       "next": [
-        
         "stunChance",
         "manaCostPerSecond",
         "additionalManaPerHit",
@@ -2806,10 +2902,8 @@
         "radius",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "ability_power",
         "radius",
         "cooldown",
@@ -2865,10 +2959,8 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "ability_power",
         "radius",
         "duration",
@@ -2919,7 +3011,6 @@
         "ability_power",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "ability_power",
@@ -2973,10 +3064,8 @@
         "stormInterval",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "ability_power",
         "radius",
         "duration",
@@ -3033,10 +3122,8 @@
         "frostbiteDuration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "radius",
         "duration",
         "stormInterval",
@@ -3098,10 +3185,8 @@
         "stacksUsedPerHit",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "radius",
         "duration",
         "attackDamagePerStack",
@@ -3162,10 +3247,8 @@
         "stacksUsedPerHit",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "radius",
         "duration",
         "abilityPowerPerStack",
@@ -3226,10 +3309,8 @@
         "stacksUsedPerHit",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
-        
         "radius",
         "duration",
         "luckyHitPerStack",
@@ -3271,7 +3352,6 @@
         "duration",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "throwPower",
@@ -3330,7 +3410,6 @@
         "glacialChance",
         "cooldown",
         "manaCost"
-
       ],
       "next": [
         "throwPower",

@@ -1,0 +1,30 @@
+{
+    "OUTPUTS": {
+        "the_vault:augment": {
+            "mainOutput": {
+                "chance": 1.0,
+                "stack": {
+                    "item": "woldsvaults:augment_piece"
+                },
+                "minCount": 0,
+                "maxCount": 4
+            },
+            "extraOutput1": {
+                "chance": 0.2,
+                "stack": {
+                    "item": "the_vault:knowledge_star_essence"
+                },
+                "minCount": 1,
+                "maxCount": 8
+            },
+            "extraOutput2": {
+                "chance": 0.0,
+                "stack": {
+                    "item": "minecraft:air"
+                },
+                "minCount": 1,
+                "maxCount": 1
+            }
+        }
+    }
+}

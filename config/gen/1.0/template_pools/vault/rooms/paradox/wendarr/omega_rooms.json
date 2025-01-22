@@ -34,5 +34,17 @@
   {
     "weight": 7,
     "reference": "the_vault:vault/rooms/paradox/wendarr/omega/library"
+  },
+  {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/paradox/wendarr/omega/playzone"
+  },
+  {
+    "weight": 3,
+    "reference": "the_vault:vault/rooms/paradox/wendarr/omega/arcade"
+  },
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/paradox/wendarr/omega/iskallian_garden"
   }
 ]

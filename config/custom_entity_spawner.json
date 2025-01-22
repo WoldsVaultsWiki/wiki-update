@@ -1,5 +1,367 @@
 {
   "spawnerGroups": {
+    "champion_vex": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "minecraft:vex",
+              "nbt": "{champion:true}",
+              "randomMotion": true
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "all_ghosts": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "quark:wraith",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 12
+          },
+          {
+            "value": {
+              "type": "woldsvaults:black_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 8
+          },
+          {
+            "value": {
+              "type": "woldsvaults:blue_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 8
+          },
+          {
+            "value": {
+              "type": "woldsvaults:brown_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 6
+          },
+          {
+            "value": {
+              "type": "woldsvaults:dark_blue_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 6
+          },
+          {
+            "value": {
+              "type": "woldsvaults:dark_gray_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 10
+          },
+          {
+            "value": {
+              "type": "woldsvaults:dark_red_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 6
+          },
+          {
+            "value": {
+              "type": "woldsvaults:green_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 8
+          },
+          {
+            "value": {
+              "type": "woldsvaults:purple_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "woldsvaults:red_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 6
+          },
+          {
+            "value": {
+              "type": "woldsvaults:yellow_ghost",
+              "nbt": "{}",
+              "randomMotion": true
+            },
+            "weight": 8
+          }
+        ]
+      }
+    ],
+    "burning": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "thermal:fire_grenade",
+              "randomMotion": true
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "type": "thermal:fire_tnt",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "thermal:fire_grenade",
+              "randomMotion": false
+            },
+            "weight": 3
+          },
+          {
+            "value": {
+              "type": "thermal:fire_tnt",
+              "randomMotion": false
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "fungal": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "the_vault:levishroom",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:deathcap",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:bunfungus",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:mushroom_t5",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:mushroom_t4",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:smolcap",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "archers_paradox:spore_arrow",
+              "randomMotion": true
+            },
+            "weight": 4
+          }
+        ]
+      }
+    ],
+    "electric": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "thermal:blitz",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "thermal:lightning_tnt",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:guster",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "cloudstorage:bloviator",
+              "randomMotion": true
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "frosty": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "thermal:ice_grenade",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "archers_paradox:frost_arrow",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:winter_wolf",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "thermal:blizz",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:shiver",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "the_vault:elite_stray",
+              "randomMotion": true
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "the_vault:t1_stray",
+              "randomMotion": true
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "auxiliaryblocks:snowdood",
+              "randomMotion": true
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "safari": [
+      {
+        "minLevel": 0,
+        "blockCheckRadius": 20,
+        "entities": [
+          {
+            "value": {
+              "type": "alexsmobs:dropbear",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:tiger",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:alligator_snapping_turtle",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:centipede_head",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:crocodile",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:komodo_dragon",
+              "randomMotion": false
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "alexsmobs:elephant",
+              "randomMotion": false
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
     "shulkerbullet": [
       {
         "minLevel": 0,

@@ -11,7 +11,7 @@ credentials = AuthCredentials(user_file='Attackeight')
 # gg.wiki.gg is our sandbox wiki that anyone may edit for any reason to test scripts
 # so while you are testing your code, you can leave this as-is and view changes at gg.wiki.gg
 # then change it to your wiki afterwards
-site = WikiggClient('vaulthunters', credentials=credentials)
+site = WikiggClient('woldsvaultmc', credentials=credentials)
 summary = 'Update Loot tables from config (bot update)'
 
 # this file contains locations for any configs not locateed in the config/ root directory

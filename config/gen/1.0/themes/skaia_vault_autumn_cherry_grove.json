@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "vhapi:autumn_cherry_grove_starts",
+  "rooms": "vhapi:autumn_cherry_grove_rooms",
+  "tunnels": "vhapi:autumn_cherry_grove_tunnels",
+  "ambient_light": 0.125,
+  "fog_color": 16754366,
+  "grass_color": 16752440,
+  "foliage_color": 16748617,
+  "water_color": 16742949,
+  "water_fog_color": 16753764,
+  "particle": "supplementaries:sugar",
+  "particle_probability": 0.0005
+}

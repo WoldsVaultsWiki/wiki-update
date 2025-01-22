@@ -209,6 +209,111 @@
           "NBT": "{}"
         }
       ]
+    },
+    {
+      "proficiencyType": "SWORD",
+      "id": "the_vault:battlestaff",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:battlestaff",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "FOCUS",
+      "id": "the_vault:loot_sack",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:loot_sack",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "FOCUS",
+      "id": "the_vault:plushie",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:plushie",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "AXE",
+      "id": "the_vault:trident",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trident",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "proficiencyType": "SWORD",
+      "id": "the_vault:rang",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:rang",
+        "NBT": "{Damage:0}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 3,
+          "ITEM": "the_vault:vault_alloy",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }

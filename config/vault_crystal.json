@@ -1,7 +1,7 @@
 {
   "MODIFIER_STABILITY": {
     "instabilityPerCraft": 0.05,
-    "exhaustProbability":0.25,
+    "exhaustProbability": 0.25,
     "curseColor": "#9C6E3B"
   },
   "MOTES": {
@@ -120,6 +120,10 @@
         "level": 20,
         "pool": [
           {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
+          {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
           },
@@ -227,11 +231,11 @@
             "value": "the_vault:classic_vault_gingerbread",
             "weight": 0
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_egg",
             "weight": 5
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_pastel",
             "weight": 5
           },
@@ -241,7 +245,7 @@
           },
           {
             "value": "the_vault:classic_vault_flesh",
-            "weight": 0
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_blood",
@@ -272,6 +276,10 @@
       {
         "level": 30,
         "pool": [
+          {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
           {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
@@ -392,11 +400,11 @@
             "value": "the_vault:classic_vault_gingerbread",
             "weight": 0
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_egg",
             "weight": 5
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_pastel",
             "weight": 5
           },
@@ -406,11 +414,172 @@
           },
           {
             "value": "the_vault:classic_vault_flesh",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_season_spring",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_season_summer",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_season_fall",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_season_winter",
+            "weight": 38
+          }
+        ]
+      },
+      {
+        "level": 50,
+        "pool": [
+          {
+            "value": "the_vault:classic_vault_dark_cavern",
+            "weight": 9
+          },
+          {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_sweet",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_ice",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_ice_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_cave",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_deepslate",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_geode",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_wasteland",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_lush_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_living_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_desert",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_sandy_cave",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_beach",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_flooded",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_haunted",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_shipwreck",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_sea_floor",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_mushroom",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_fairy_ring",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_poison",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_mesa",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_deep_mesa",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_nether_crimson",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_warped",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_blackstone",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_soul",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_end_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_factory_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_festive",
             "weight": 0
           },
           {
-            "value": "the_vault:classic_vault_blood",
+            "value": "the_vault:classic_vault_gingerbread",
+            "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_easter_egg",
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_easter_pastel",
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_blood_moon",
             "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_flesh",
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_season_spring",
@@ -591,7 +760,6 @@
       "pool": [
         {
           "value": {
-
             "type": "circle",
             "tunnel_span": 1,
             "radius": 4
@@ -1097,6 +1265,382 @@
           "weight": 40
         }
       ]
+    },
+    {
+      "level": 100,
+      "pool": [
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 12
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 8
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "spiral",
+            "tunnel_span": 1,
+            "half_length": 4,
+            "rotation": "CLOCKWISE_90"
+          },
+          "weight": 0
+        },
+        {
+          "value": {
+            "type": "infinite",
+            "tunnel_span": 1
+          },
+          "weight": 0
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -12,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": -12
+              },
+              {
+                "x": -12,
+                "z": -12
+              }
+            ]
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -8,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": -8
+              },
+              {
+                "x": -8,
+                "z": -8
+              }
+            ]
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -12,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": -12
+              }
+            ]
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -8,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": -8
+              }
+            ]
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "type": "infinite",
+            "tunnel_span": 1
+          },
+          "weight": 40
+        }
+      ]
+    },
+    {
+      "level": 150,
+      "pool": [
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 12
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 16
+          },
+          "weight": 60
+        },
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 8
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "spiral",
+            "tunnel_span": 1,
+            "half_length": 4,
+            "rotation": "CLOCKWISE_90"
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "type": "infinite",
+            "tunnel_span": 1
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -12,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": -12
+              },
+              {
+                "x": -12,
+                "z": -12
+              }
+            ]
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -8,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": -8
+              },
+              {
+                "x": -8,
+                "z": -8
+              }
+            ]
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -12,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": 12
+              },
+              {
+                "x": 12,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": -12
+              }
+            ]
+          },
+          "weight": 100
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -8,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": 8
+              },
+              {
+                "x": 8,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": -8
+              }
+            ]
+          },
+          "weight": 40
+        }
+      ]
+    },
+    {
+      "level": 200,
+      "pool": [
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 16
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "type": "circle",
+            "tunnel_span": 1,
+            "radius": 12
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "type": "spiral",
+            "tunnel_span": 1,
+            "half_length": 4,
+            "rotation": "CLOCKWISE_90"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "type": "infinite",
+            "tunnel_span": 1
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -14,
+                "z": 14
+              },
+              {
+                "x": 14,
+                "z": 14
+              },
+              {
+                "x": 14,
+                "z": -14
+              },
+              {
+                "x": -14,
+                "z": -14
+              }
+            ]
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "type": "polygon",
+            "tunnel_span": 1,
+            "vertices": [
+              {
+                "x": -16,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": 16
+              },
+              {
+                "x": 16,
+                "z": 0
+              },
+              {
+                "x": 0,
+                "z": -16
+              }
+            ]
+          },
+          "weight": 80
+        }
+      ]
     }
   ],
   "OBJECTIVES": {
@@ -1130,7 +1674,7 @@
               "target": {
                 "type": "uniform",
                 "min": 3,
-                "max": 3
+                "max": 5
               }
             },
             "weight": 4
@@ -1437,6 +1981,113 @@
         ]
       }
     ],
+    "the_vault:unhinged_default": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 5
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "haunted_braziers",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 10
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "enchanted_elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "unhinged_scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "brutal_bosses",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "ballistic_bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
     "the_vault:ascension": [
       {
         "level": 0,
@@ -1454,6 +2105,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 1
           }
         ]
       }
@@ -1479,6 +2137,225 @@
     ]
   },
   "SEALS": {
+    "the_vault:crystal_seal_spirits": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 20,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 7
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 50,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 7
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 70,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 5,
+            "max": 8
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 6,
+            "max": 10
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      }
+    ],
+    "woldsvaults:crystal_seal_warrior": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "offering_boss",
+          "objective_probability": 0.0
+        }
+      }
+    ],
+    "woldsvaults:crystal_seal_zealot": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "zealot",
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          }
+        }
+      }
+    ],
+    "the_vault:crystal_seal_doomsayer": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "ballistic_bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
+    "the_vault:crystal_seal_prophet": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
     "the_vault:crystal_seal_executioner": [
       {
         "level": 0,
@@ -1691,6 +2568,218 @@
         }
       }
     ],
+    "the_vault:crystal_seal_titan": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 1,
+            "max": 3
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 10,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 2,
+            "max": 4
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 40,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 60,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      }
+    ],
     "the_vault:crystal_seal_herald": [
       {
         "level": 100,
@@ -1724,6 +2813,38 @@
             "type": "constant",
             "count": 96000
           }
+        }
+      }
+    ],
+    "the_vault:crystal_seal_enchanter": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 30,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 65,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.3
         }
       }
     ],
@@ -1768,11 +2889,11 @@
         "objective": {
           "type": "monolith",
           "objective_probability": 1.0,
-            "target": {
-              "type": "uniform",
-              "min": 3,
-              "max": 3
-            }
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 3
+          }
         }
       },
       {
@@ -1783,11 +2904,11 @@
         "objective": {
           "type": "monolith",
           "objective_probability": 1.0,
-            "target": {
-              "type": "uniform",
-              "min": 3,
-              "max": 3
-            }
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 3
+          }
         }
       },
       {
@@ -1798,11 +2919,26 @@
         "objective": {
           "type": "monolith",
           "objective_probability": 1.0,
-            "target": {
-              "type": "uniform",
-              "min": 4,
-              "max": 4
-            }
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 4
+          }
+        }
+      },
+      {
+        "level": 70,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 4
+          }
         }
       },
       {
@@ -1813,11 +2949,11 @@
         "objective": {
           "type": "monolith",
           "objective_probability": 1.0,
-            "target": {
-              "type": "uniform",
-              "min": 5,
-              "max": 5
-            }
+          "target": {
+            "type": "uniform",
+            "min": 5,
+            "max": 5
+          }
         }
       }
     ],
@@ -1843,15 +2979,33 @@
         }
       }
     ],
-    "the_vault:crystal_seal_prophet": [
+    "the_vault:crystal_seal_unhinged": [
       {
         "level": 0,
         "input": [
           "the_vault:vault_crystal"
         ],
         "objective": {
-          "type": "bingo",
+          "type": "unhinged_scavenger",
           "objective_probability": 1.0
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_chaos"
+        }
+      },
+      {
+        "level": 30,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "unhinged_scavenger",
+          "objective_probability": 0.75
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_chaos"
         }
       }
     ],
@@ -1871,10 +3025,6 @@
           "tunnel_span": 1,
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
-        },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
         },
         "modifiers": {
           "type": "default",
@@ -1897,10 +3047,6 @@
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
         },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
-        },
         "modifiers": {
           "type": "default",
           "random_modifiers": false
@@ -1921,10 +3067,6 @@
           "tunnel_span": 1,
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
-        },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
         },
         "modifiers": {
           "type": "default",
@@ -2082,106 +3224,706 @@
   },
   "PROPERTIES": {
     "the_vault:default": [
-      {"level":1,"value":{"type":"capacity","volume":1}},
-      {"level":2,"value":{"type":"capacity","volume":2}},
-      {"level":3,"value":{"type":"capacity","volume":3}},
-      {"level":4,"value":{"type":"capacity","volume":4}},
-      {"level":5,"value":{"type":"capacity","volume":5}},
-      {"level":6,"value":{"type":"capacity","volume":6}},
-      {"level":7,"value":{"type":"capacity","volume":7}},
-      {"level":8,"value":{"type":"capacity","volume":8}},
-      {"level":9,"value":{"type":"capacity","volume":9}},
-      {"level":10,"value":{"type":"capacity","volume":10}},
-      {"level":11,"value":{"type":"capacity","volume":11}},
-      {"level":12,"value":{"type":"capacity","volume":12}},
-      {"level":13,"value":{"type":"capacity","volume":13}},
-      {"level":14,"value":{"type":"capacity","volume":14}},
-      {"level":15,"value":{"type":"capacity","volume":15}},
-      {"level":16,"value":{"type":"capacity","volume":16}},
-      {"level":17,"value":{"type":"capacity","volume":17}},
-      {"level":18,"value":{"type":"capacity","volume":18}},
-      {"level":19,"value":{"type":"capacity","volume":19}},
-      {"level":20,"value":{"type":"capacity","volume":20}},
-      {"level":21,"value":{"type":"capacity","volume":21}},
-      {"level":22,"value":{"type":"capacity","volume":22}},
-      {"level":23,"value":{"type":"capacity","volume":23}},
-      {"level":24,"value":{"type":"capacity","volume":24}},
-      {"level":25,"value":{"type":"capacity","volume":25}},
-      {"level":26,"value":{"type":"capacity","volume":26}},
-      {"level":27,"value":{"type":"capacity","volume":27}},
-      {"level":28,"value":{"type":"capacity","volume":28}},
-      {"level":29,"value":{"type":"capacity","volume":29}},
-      {"level":30,"value":{"type":"capacity","volume":30}},
-      {"level":31,"value":{"type":"capacity","volume":31}},
-      {"level":32,"value":{"type":"capacity","volume":32}},
-      {"level":33,"value":{"type":"capacity","volume":33}},
-      {"level":34,"value":{"type":"capacity","volume":34}},
-      {"level":35,"value":{"type":"capacity","volume":35}},
-      {"level":36,"value":{"type":"capacity","volume":36}},
-      {"level":37,"value":{"type":"capacity","volume":37}},
-      {"level":38,"value":{"type":"capacity","volume":38}},
-      {"level":39,"value":{"type":"capacity","volume":39}},
-      {"level":40,"value":{"type":"capacity","volume":40}},
-      {"level":41,"value":{"type":"capacity","volume":41}},
-      {"level":42,"value":{"type":"capacity","volume":42}},
-      {"level":43,"value":{"type":"capacity","volume":43}},
-      {"level":44,"value":{"type":"capacity","volume":44}},
-      {"level":45,"value":{"type":"capacity","volume":45}},
-      {"level":46,"value":{"type":"capacity","volume":46}},
-      {"level":47,"value":{"type":"capacity","volume":47}},
-      {"level":48,"value":{"type":"capacity","volume":48}},
-      {"level":49,"value":{"type":"capacity","volume":49}},
-      {"level":50,"value":{"type":"capacity","volume":50}},
-      {"level":51,"value":{"type":"capacity","volume":51}},
-      {"level":52,"value":{"type":"capacity","volume":52}},
-      {"level":53,"value":{"type":"capacity","volume":53}},
-      {"level":54,"value":{"type":"capacity","volume":54}},
-      {"level":55,"value":{"type":"capacity","volume":55}},
-      {"level":56,"value":{"type":"capacity","volume":56}},
-      {"level":57,"value":{"type":"capacity","volume":57}},
-      {"level":58,"value":{"type":"capacity","volume":58}},
-      {"level":59,"value":{"type":"capacity","volume":59}},
-      {"level":60,"value":{"type":"capacity","volume":60}},
-      {"level":61,"value":{"type":"capacity","volume":61}},
-      {"level":62,"value":{"type":"capacity","volume":62}},
-      {"level":63,"value":{"type":"capacity","volume":63}},
-      {"level":64,"value":{"type":"capacity","volume":64}},
-      {"level":65,"value":{"type":"capacity","volume":65}},
-      {"level":66,"value":{"type":"capacity","volume":66}},
-      {"level":67,"value":{"type":"capacity","volume":67}},
-      {"level":68,"value":{"type":"capacity","volume":68}},
-      {"level":69,"value":{"type":"capacity","volume":69}},
-      {"level":70,"value":{"type":"capacity","volume":70}},
-      {"level":71,"value":{"type":"capacity","volume":71}},
-      {"level":72,"value":{"type":"capacity","volume":72}},
-      {"level":73,"value":{"type":"capacity","volume":73}},
-      {"level":74,"value":{"type":"capacity","volume":74}},
-      {"level":75,"value":{"type":"capacity","volume":75}},
-      {"level":76,"value":{"type":"capacity","volume":76}},
-      {"level":77,"value":{"type":"capacity","volume":77}},
-      {"level":78,"value":{"type":"capacity","volume":78}},
-      {"level":79,"value":{"type":"capacity","volume":79}},
-      {"level":80,"value":{"type":"capacity","volume":80}},
-      {"level":81,"value":{"type":"capacity","volume":81}},
-      {"level":82,"value":{"type":"capacity","volume":82}},
-      {"level":83,"value":{"type":"capacity","volume":83}},
-      {"level":84,"value":{"type":"capacity","volume":84}},
-      {"level":85,"value":{"type":"capacity","volume":85}},
-      {"level":86,"value":{"type":"capacity","volume":86}},
-      {"level":87,"value":{"type":"capacity","volume":87}},
-      {"level":88,"value":{"type":"capacity","volume":88}},
-      {"level":89,"value":{"type":"capacity","volume":89}},
-      {"level":90,"value":{"type":"capacity","volume":90}},
-      {"level":91,"value":{"type":"capacity","volume":91}},
-      {"level":92,"value":{"type":"capacity","volume":92}},
-      {"level":93,"value":{"type":"capacity","volume":93}},
-      {"level":94,"value":{"type":"capacity","volume":94}},
-      {"level":95,"value":{"type":"capacity","volume":95}},
-      {"level":96,"value":{"type":"capacity","volume":96}},
-      {"level":97,"value":{"type":"capacity","volume":97}},
-      {"level":98,"value":{"type":"capacity","volume":98}},
-      {"level":99,"value":{"type":"capacity","volume":99}},
-      {"level":100,"value":{"type":"capacity","volume":100}}
-    ]    
+      {
+        "level": 1,
+        "value": {
+          "type": "capacity",
+          "volume": 1
+        }
+      },
+      {
+        "level": 2,
+        "value": {
+          "type": "capacity",
+          "volume": 2
+        }
+      },
+      {
+        "level": 3,
+        "value": {
+          "type": "capacity",
+          "volume": 3
+        }
+      },
+      {
+        "level": 4,
+        "value": {
+          "type": "capacity",
+          "volume": 4
+        }
+      },
+      {
+        "level": 5,
+        "value": {
+          "type": "capacity",
+          "volume": 5
+        }
+      },
+      {
+        "level": 6,
+        "value": {
+          "type": "capacity",
+          "volume": 6
+        }
+      },
+      {
+        "level": 7,
+        "value": {
+          "type": "capacity",
+          "volume": 7
+        }
+      },
+      {
+        "level": 8,
+        "value": {
+          "type": "capacity",
+          "volume": 8
+        }
+      },
+      {
+        "level": 9,
+        "value": {
+          "type": "capacity",
+          "volume": 9
+        }
+      },
+      {
+        "level": 10,
+        "value": {
+          "type": "capacity",
+          "volume": 10
+        }
+      },
+      {
+        "level": 11,
+        "value": {
+          "type": "capacity",
+          "volume": 11
+        }
+      },
+      {
+        "level": 12,
+        "value": {
+          "type": "capacity",
+          "volume": 12
+        }
+      },
+      {
+        "level": 13,
+        "value": {
+          "type": "capacity",
+          "volume": 13
+        }
+      },
+      {
+        "level": 14,
+        "value": {
+          "type": "capacity",
+          "volume": 14
+        }
+      },
+      {
+        "level": 15,
+        "value": {
+          "type": "capacity",
+          "volume": 15
+        }
+      },
+      {
+        "level": 16,
+        "value": {
+          "type": "capacity",
+          "volume": 16
+        }
+      },
+      {
+        "level": 17,
+        "value": {
+          "type": "capacity",
+          "volume": 17
+        }
+      },
+      {
+        "level": 18,
+        "value": {
+          "type": "capacity",
+          "volume": 18
+        }
+      },
+      {
+        "level": 19,
+        "value": {
+          "type": "capacity",
+          "volume": 19
+        }
+      },
+      {
+        "level": 20,
+        "value": {
+          "type": "capacity",
+          "volume": 20
+        }
+      },
+      {
+        "level": 21,
+        "value": {
+          "type": "capacity",
+          "volume": 21
+        }
+      },
+      {
+        "level": 22,
+        "value": {
+          "type": "capacity",
+          "volume": 22
+        }
+      },
+      {
+        "level": 23,
+        "value": {
+          "type": "capacity",
+          "volume": 23
+        }
+      },
+      {
+        "level": 24,
+        "value": {
+          "type": "capacity",
+          "volume": 24
+        }
+      },
+      {
+        "level": 25,
+        "value": {
+          "type": "capacity",
+          "volume": 25
+        }
+      },
+      {
+        "level": 26,
+        "value": {
+          "type": "capacity",
+          "volume": 26
+        }
+      },
+      {
+        "level": 27,
+        "value": {
+          "type": "capacity",
+          "volume": 27
+        }
+      },
+      {
+        "level": 28,
+        "value": {
+          "type": "capacity",
+          "volume": 28
+        }
+      },
+      {
+        "level": 29,
+        "value": {
+          "type": "capacity",
+          "volume": 29
+        }
+      },
+      {
+        "level": 30,
+        "value": {
+          "type": "capacity",
+          "volume": 30
+        }
+      },
+      {
+        "level": 31,
+        "value": {
+          "type": "capacity",
+          "volume": 31
+        }
+      },
+      {
+        "level": 32,
+        "value": {
+          "type": "capacity",
+          "volume": 32
+        }
+      },
+      {
+        "level": 33,
+        "value": {
+          "type": "capacity",
+          "volume": 33
+        }
+      },
+      {
+        "level": 34,
+        "value": {
+          "type": "capacity",
+          "volume": 34
+        }
+      },
+      {
+        "level": 35,
+        "value": {
+          "type": "capacity",
+          "volume": 35
+        }
+      },
+      {
+        "level": 36,
+        "value": {
+          "type": "capacity",
+          "volume": 36
+        }
+      },
+      {
+        "level": 37,
+        "value": {
+          "type": "capacity",
+          "volume": 37
+        }
+      },
+      {
+        "level": 38,
+        "value": {
+          "type": "capacity",
+          "volume": 38
+        }
+      },
+      {
+        "level": 39,
+        "value": {
+          "type": "capacity",
+          "volume": 39
+        }
+      },
+      {
+        "level": 40,
+        "value": {
+          "type": "capacity",
+          "volume": 40
+        }
+      },
+      {
+        "level": 41,
+        "value": {
+          "type": "capacity",
+          "volume": 41
+        }
+      },
+      {
+        "level": 42,
+        "value": {
+          "type": "capacity",
+          "volume": 42
+        }
+      },
+      {
+        "level": 43,
+        "value": {
+          "type": "capacity",
+          "volume": 43
+        }
+      },
+      {
+        "level": 44,
+        "value": {
+          "type": "capacity",
+          "volume": 44
+        }
+      },
+      {
+        "level": 45,
+        "value": {
+          "type": "capacity",
+          "volume": 45
+        }
+      },
+      {
+        "level": 46,
+        "value": {
+          "type": "capacity",
+          "volume": 46
+        }
+      },
+      {
+        "level": 47,
+        "value": {
+          "type": "capacity",
+          "volume": 47
+        }
+      },
+      {
+        "level": 48,
+        "value": {
+          "type": "capacity",
+          "volume": 48
+        }
+      },
+      {
+        "level": 49,
+        "value": {
+          "type": "capacity",
+          "volume": 49
+        }
+      },
+      {
+        "level": 50,
+        "value": {
+          "type": "capacity",
+          "volume": 50
+        }
+      },
+      {
+        "level": 51,
+        "value": {
+          "type": "capacity",
+          "volume": 51
+        }
+      },
+      {
+        "level": 52,
+        "value": {
+          "type": "capacity",
+          "volume": 52
+        }
+      },
+      {
+        "level": 53,
+        "value": {
+          "type": "capacity",
+          "volume": 53
+        }
+      },
+      {
+        "level": 54,
+        "value": {
+          "type": "capacity",
+          "volume": 54
+        }
+      },
+      {
+        "level": 55,
+        "value": {
+          "type": "capacity",
+          "volume": 55
+        }
+      },
+      {
+        "level": 56,
+        "value": {
+          "type": "capacity",
+          "volume": 56
+        }
+      },
+      {
+        "level": 57,
+        "value": {
+          "type": "capacity",
+          "volume": 57
+        }
+      },
+      {
+        "level": 58,
+        "value": {
+          "type": "capacity",
+          "volume": 58
+        }
+      },
+      {
+        "level": 59,
+        "value": {
+          "type": "capacity",
+          "volume": 59
+        }
+      },
+      {
+        "level": 60,
+        "value": {
+          "type": "capacity",
+          "volume": 60
+        }
+      },
+      {
+        "level": 61,
+        "value": {
+          "type": "capacity",
+          "volume": 61
+        }
+      },
+      {
+        "level": 62,
+        "value": {
+          "type": "capacity",
+          "volume": 62
+        }
+      },
+      {
+        "level": 63,
+        "value": {
+          "type": "capacity",
+          "volume": 63
+        }
+      },
+      {
+        "level": 64,
+        "value": {
+          "type": "capacity",
+          "volume": 64
+        }
+      },
+      {
+        "level": 65,
+        "value": {
+          "type": "capacity",
+          "volume": 65
+        }
+      },
+      {
+        "level": 66,
+        "value": {
+          "type": "capacity",
+          "volume": 66
+        }
+      },
+      {
+        "level": 67,
+        "value": {
+          "type": "capacity",
+          "volume": 67
+        }
+      },
+      {
+        "level": 68,
+        "value": {
+          "type": "capacity",
+          "volume": 68
+        }
+      },
+      {
+        "level": 69,
+        "value": {
+          "type": "capacity",
+          "volume": 69
+        }
+      },
+      {
+        "level": 70,
+        "value": {
+          "type": "capacity",
+          "volume": 70
+        }
+      },
+      {
+        "level": 71,
+        "value": {
+          "type": "capacity",
+          "volume": 71
+        }
+      },
+      {
+        "level": 72,
+        "value": {
+          "type": "capacity",
+          "volume": 72
+        }
+      },
+      {
+        "level": 73,
+        "value": {
+          "type": "capacity",
+          "volume": 73
+        }
+      },
+      {
+        "level": 74,
+        "value": {
+          "type": "capacity",
+          "volume": 74
+        }
+      },
+      {
+        "level": 75,
+        "value": {
+          "type": "capacity",
+          "volume": 75
+        }
+      },
+      {
+        "level": 76,
+        "value": {
+          "type": "capacity",
+          "volume": 76
+        }
+      },
+      {
+        "level": 77,
+        "value": {
+          "type": "capacity",
+          "volume": 77
+        }
+      },
+      {
+        "level": 78,
+        "value": {
+          "type": "capacity",
+          "volume": 78
+        }
+      },
+      {
+        "level": 79,
+        "value": {
+          "type": "capacity",
+          "volume": 79
+        }
+      },
+      {
+        "level": 80,
+        "value": {
+          "type": "capacity",
+          "volume": 80
+        }
+      },
+      {
+        "level": 81,
+        "value": {
+          "type": "capacity",
+          "volume": 81
+        }
+      },
+      {
+        "level": 82,
+        "value": {
+          "type": "capacity",
+          "volume": 82
+        }
+      },
+      {
+        "level": 83,
+        "value": {
+          "type": "capacity",
+          "volume": 83
+        }
+      },
+      {
+        "level": 84,
+        "value": {
+          "type": "capacity",
+          "volume": 84
+        }
+      },
+      {
+        "level": 85,
+        "value": {
+          "type": "capacity",
+          "volume": 85
+        }
+      },
+      {
+        "level": 86,
+        "value": {
+          "type": "capacity",
+          "volume": 86
+        }
+      },
+      {
+        "level": 87,
+        "value": {
+          "type": "capacity",
+          "volume": 87
+        }
+      },
+      {
+        "level": 88,
+        "value": {
+          "type": "capacity",
+          "volume": 88
+        }
+      },
+      {
+        "level": 89,
+        "value": {
+          "type": "capacity",
+          "volume": 89
+        }
+      },
+      {
+        "level": 90,
+        "value": {
+          "type": "capacity",
+          "volume": 90
+        }
+      },
+      {
+        "level": 91,
+        "value": {
+          "type": "capacity",
+          "volume": 91
+        }
+      },
+      {
+        "level": 92,
+        "value": {
+          "type": "capacity",
+          "volume": 92
+        }
+      },
+      {
+        "level": 93,
+        "value": {
+          "type": "capacity",
+          "volume": 93
+        }
+      },
+      {
+        "level": 94,
+        "value": {
+          "type": "capacity",
+          "volume": 94
+        }
+      },
+      {
+        "level": 95,
+        "value": {
+          "type": "capacity",
+          "volume": 95
+        }
+      },
+      {
+        "level": 96,
+        "value": {
+          "type": "capacity",
+          "volume": 96
+        }
+      },
+      {
+        "level": 97,
+        "value": {
+          "type": "capacity",
+          "volume": 97
+        }
+      },
+      {
+        "level": 98,
+        "value": {
+          "type": "capacity",
+          "volume": 98
+        }
+      },
+      {
+        "level": 99,
+        "value": {
+          "type": "capacity",
+          "volume": 99
+        }
+      },
+      {
+        "level": 100,
+        "value": {
+          "type": "capacity",
+          "volume": 100
+        }
+      }
+    ]
   }
 }

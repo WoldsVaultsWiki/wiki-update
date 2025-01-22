@@ -163,10 +163,7 @@
       "the_vault:blood_horde_t3",
       "the_vault:blood_horde_t4",
       "the_vault:blood_horde_t5",
-      "the_vault:t1_plastic_zombie",
-      "the_vault:t2_plastic_zombie",
-      "the_vault:t3_plastic_zombie",
-      "the_vault:t4_plastic_zombie"
+      "grimoireofgaia:goblin_feral"
     ],
     "the_vault:assassin": [
       "the_vault:deep_dark_silverfish",
@@ -230,7 +227,13 @@
       "the_vault:t5_cave_skeleton",
       "the_vault:overgrown_woodman_t0",
       "the_vault:overgrown_woodman_t1",
-      "the_vault:overgrown_woodman_t2"
+      "the_vault:overgrown_woodman_t2",
+      "tropicraft:tropicreeper",
+      "tropicraft:tropiskelly",
+      "tropicraft:tropi_spider",
+      "tropicraft:ashen",
+      "grimoireofgaia:harpy",
+      "grimoireofgaia:bone_knight"
     ],
     "the_vault:tank": [
       "the_vault:shiver",
@@ -246,6 +249,10 @@
       "rottencreatures:mummy",
       "rottencreatures:glacial_hunter",
       "the_vault:blood_tank",
+      "tropicraft:eih",
+      "grimoireofgaia:cobble_golem",
+      "grimoireofgaia:cobblestone_golem",
+      "grimoireofgaia:flesh_lich",
       "the_vault:overgrown_tank"
     ],
     "the_vault:guardian": [
@@ -325,4 +332,3 @@
     ]
   }
 }
-

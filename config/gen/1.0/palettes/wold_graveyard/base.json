@@ -1,0 +1,32 @@
+{
+  "tile_processors": [
+    {
+      "type": "weighted_target",
+      "target": "minecraft:player_head",
+      "output": {
+        "minecraft:player_head[SkullOwner=\"iwolfking\"]": 1,
+        "minecraft:player_head[SkullOwner=\"caigan\"]": 1,
+        "minecraft:player_head[SkullOwner=\"Inflectus\"]": 1,
+        "minecraft:player_head[SkullOwner=\"Joseph_Franci\"]": 1,
+        "minecraft:player_head[SkullOwner=\"Jen_Jenn\"]": 1,
+        "minecraft:player_head[SkullOwner=\"Qwart22\"]": 1,
+        "minecraft:player_head[SkullOwner=\"MonstaKilla2001\"]": 1,
+        "minecraft:player_head[SkullOwner=\"vanele\"]": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:wold_graveyard/spawner_settings"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/challenge_elite_spawners"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/room_base"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

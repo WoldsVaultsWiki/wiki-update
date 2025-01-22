@@ -1,0 +1,14 @@
+[
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/raw/chromatic_caves_regular"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/raw/benitoite_caves"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/raw/painite_caves"
+  }
+]

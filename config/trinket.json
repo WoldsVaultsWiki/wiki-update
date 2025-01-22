@@ -206,7 +206,6 @@
         "curiosSlot": "blue_trinket"
       }
     },
-    
     "the_vault:high_heels": {
       "weight": 10,
       "name": "The Frog",
@@ -358,11 +357,41 @@
       "name": "Wings",
       "effectText": "Gives the player elytra",
       "color": 3304444,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 30,
+      "minUses": 20,
+      "maxUses": 30,
+      "config": {
+        "curiosSlot": "blue_trinket"
+      }
+    },
+    "the_vault:miners_headlamp": {
+      "weight": 10,
+      "name": "Miner's Headlamp",
+      "effectText": "Grants night vision, +25% Copiously",
+      "color": 16534066,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
       "minUses": 20,
       "maxUses": 30,
       "config": {
+        "effect": "minecraft:night_vision",
+        "addedAmplifier": 1,
+        "curiosSlot": "red_trinket"
+      }
+    },
+    "the_vault:running_shoes": {
+      "weight": 10,
+      "name": "Running Shoes",
+      "effectText": "Parkour uses no energy",
+      "color": 3304444,
+      "minCraftedUses": 12,
+      "maxCraftedUses": 12,
+      "minUses": 20,
+      "maxUses": 30,
+      "config": {
+        "effect": "parcool:inexhaustible",
+        "addedAmplifier": 1,
         "curiosSlot": "blue_trinket"
       }
     }

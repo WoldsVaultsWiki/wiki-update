@@ -18,7 +18,7 @@
         },
         {
           "value": {
-              "rewardPool": "common",
+            "rewardPool": "common",
             "value": "minecraft:ancient_debris",
             "amount": {
               "min": 2,

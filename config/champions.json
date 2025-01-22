@@ -20,7 +20,8 @@
     "minecraft:silverfish": -10.0,
     "rottencreatures:zombie_lackey": -10.0,
     "rottencreatures:skeleton_lackey": -10.0,
-    "alexsmobs:catfish": -10.0
+    "alexsmobs:catfish": -10.0,
+    "woldsvaults:purple_ghost": 1.0
   },
   "defaultAttributeOverrides": [
     {
@@ -45,6 +46,18 @@
     }
   ],
   "entityAttributeOverrides": {
+    "woldsvaults:purple_ghost": [
+      {
+        "NAME": "minecraft:generic.max_health",
+        "VALUE": 5.0,
+        "OPERATOR": "multiply"
+      },
+      {
+        "NAME": "minecraft:generic.attack_damage",
+        "VALUE": 2.0,
+        "OPERATOR": "multiply"
+      }
+    ],
     "@the_vault:horde": [
       {
         "NAME": "minecraft:generic.max_health",
@@ -76,6 +89,28 @@
       {
         "NAME": "minecraft:generic.attack_damage",
         "VALUE": 2.0,
+        "OPERATOR": "multiply"
+      },
+      {
+        "NAME": "the_vault:generic.crit_chance",
+        "VALUE": 0.3,
+        "OPERATOR": "set"
+      },
+      {
+        "NAME": "minecraft:generic.knockback_resistance",
+        "VALUE": 0.8,
+        "OPERATOR": "set"
+      }
+    ],
+    "minecraft:vex": [
+      {
+        "NAME": "minecraft:generic.max_health",
+        "VALUE": 20.0,
+        "OPERATOR": "multiply"
+      },
+      {
+        "NAME": "minecraft:generic.attack_damage",
+        "VALUE": 3.0,
         "OPERATOR": "multiply"
       },
       {

@@ -1,0 +1,532 @@
+{
+  "entries": [
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 1,
+        "max": 2
+      },
+      "pool": [
+        {
+          "weight": 80,
+          "pool": [
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:gem_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:mystery_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 15,
+              "item": {
+                "id": "the_vault:mystery_egg",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:eternal_soul",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 15,
+              "item": {
+                "id": "the_vault:vault_silver",
+                "count": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 8
+                }
+              }
+            },
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:knowledge_star_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 8,
+                  "max": 16
+                }
+              }
+            },
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:vault_diamond",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 15,
+              "item": {
+                "id": "the_vault:sweet_kiwi",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 15,
+              "item": {
+                "id": "the_vault:amplifying_focus",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chromatic_steel_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_alexandrite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_wutodie",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_painite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_benitoite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:gem_larimar",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 16,
+          "pool": [
+            {
+              "weight": 15,
+              "item": {
+                "id": "the_vault:nullifying_focus",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_gorginite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_iskallium",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_sparkletine",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_tubium",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_ashium",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_upaline",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_bomignite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_petzanite",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:gem_xenium",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 6,
+              "item": {
+                "id": "the_vault:gem_black_opal",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:gem_echo",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:vault_gold",
+                "count": {
+                  "type": "uniform",
+                  "min": 3,
+                  "max": 5
+                }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:grapes",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:trident",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:battlestaff",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:magnet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:focus",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_treasure"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

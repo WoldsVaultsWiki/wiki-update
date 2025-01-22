@@ -164,6 +164,17 @@
             {
               "weight": 8,
               "item": {
+                "id": "the_vault:unidentified_relic_fragment",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
                 "id": "the_vault:bitter_lemon",
                 "count": {
                   "type": "uniform",
@@ -280,6 +291,17 @@
               "weight": 8,
               "item": {
                 "id": "the_vault:vault_silver",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:relic_booster_pack",
                 "count": {
                   "type": "uniform",
                   "min": 1,

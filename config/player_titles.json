@@ -13,6 +13,19 @@
         },
         "cost": 1
       },
+      "high_priest": {
+        "display": {
+          "TAB_LIST": {
+            "text": "High Priest ",
+            "color": "#ff9900"
+          },
+          "CHAT": {
+            "text": "High Priest ",
+            "color": "#ff9900"
+          }
+        },
+        "cost": 1
+      },
       "lord": {
         "display": {
           "TAB_LIST": {
@@ -530,6 +543,19 @@
           "CHAT": {
             "text": " of the Ancients",
             "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "of_yoge": {
+        "display": {
+          "TAB_LIST": {
+            "text": " of Yoge",
+            "color": "#ff9900"
+          },
+          "CHAT": {
+            "text": " of Yoge",
+            "color": "#ff9900"
           }
         },
         "cost": 1

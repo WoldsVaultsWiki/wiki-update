@@ -65,7 +65,7 @@
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.45,
+            "costReduction": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -109,7 +109,7 @@
             "type": "creative_flight",
             "learnPointCost": 1,
             "regretPointCost": 0,
-            "unlockLevel": 50
+            "unlockLevel": 0
           }
         ]
       },
@@ -144,6 +144,15 @@
             "abandonedPenaltyReduction": 0.9376,
             "maxActive": 2,
             "unlockLevel": 0
+          },
+          {
+            "type": "bounty_hunter",
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "waitingPeriodReduction": 5400,
+            "abandonedPenaltyReduction": 0.9376,
+            "maxActive": 3,
+            "unlockLevel": 75
           }
         ]
       },
@@ -186,7 +195,7 @@
           },
           {
             "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction",
+            "attribute": "the_vault:durability_wear_reduction_cap",
             "value": 0.25,
             "learnPointCost": 1,
             "regretPointCost": 0,
@@ -219,6 +228,20 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "divine",
+            "affinityIncrease": 0.4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 50
+          },
+          {
+            "type": "divine",
+            "affinityIncrease": 0.5,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 100
           }
         ]
       },
@@ -244,6 +267,20 @@
           {
             "type": "trinketer",
             "damageAvoidanceChance": 0.3,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "trinketer",
+            "damageAvoidanceChance": 0.4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "trinketer",
+            "damageAvoidanceChance": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -275,6 +312,34 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "mystic",
+            "additionalCrystalVolume": 40,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 75
+          },
+          {
+            "type": "mystic",
+            "additionalCrystalVolume": 50,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 100
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Craftsman",
+        "name": "Craftsman",
+        "tiers": [
+          {
+            "type": "craftsman",
+            "craftsmanLevel": 1,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
           }
         ]
       },
@@ -285,14 +350,21 @@
         "tiers": [
           {
             "type": "infuser",
-            "negativeModifierRemovalChance": 0.2,
+            "negativeModifierRemovalChance": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "infuser",
-            "negativeModifierRemovalChance": 0.4,
+            "negativeModifierRemovalChance": 0.3,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "infuser",
+            "negativeModifierRemovalChance": 0.45,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -303,6 +375,13 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "infuser",
+            "negativeModifierRemovalChance": 0.75,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 75
           }
         ]
       },
@@ -313,21 +392,42 @@
         "tiers": [
           {
             "type": "experience",
-            "increasedExpPercentage": 10.0,
+            "increasedExpPercentage": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "experience",
-            "increasedExpPercentage": 20.0,
+            "increasedExpPercentage": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "experience",
-            "increasedExpPercentage": 30.0,
+            "increasedExpPercentage": 0.45,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "experience",
+            "increasedExpPercentage": 0.6,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "experience",
+            "increasedExpPercentage": 0.8,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "experience",
+            "increasedExpPercentage": 1.0,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -362,7 +462,7 @@
         "tiers": [
           {
             "type": "jeweler",
-            "additionalIdentifiedJewels": 1,
+            "additionalIdentifiedJewels": 0,
             "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0

@@ -13,9 +13,9 @@
       "gearRarityCost": {
         "SCRAPPY": 0,
         "COMMON": 0,
-        "RARE": 1,
-        "EPIC": 2,
-        "OMEGA": 3,
+        "RARE": 0,
+        "EPIC": 0,
+        "OMEGA": 0,
         "UNIQUE": 0
       },
       "toolMaterialCost": {
@@ -30,8 +30,14 @@
       "itemCost": [
         [
           {
+            "item": "sophisticatedbackpacks:backpack"
+          },
+          1
+        ],
+        [
+          {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -51,6 +57,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -105,6 +117,18 @@
             "item": "the_vault:key_xenium"
           },
           5
+        ],
+        [
+          {
+            "item": "scannable:scanner"
+          },
+          16
+        ],
+        [
+          {
+            "item": "the_vault:mystic_pear"
+          },
+          8
         ]
       ],
       "trinketCost": 10
@@ -115,10 +139,10 @@
       "count": 0.05,
       "gearRarityCost": {
         "SCRAPPY": 0,
-        "COMMON": 1,
-        "RARE": 2,
-        "EPIC": 4,
-        "OMEGA": 5,
+        "COMMON": 0,
+        "RARE": 0,
+        "EPIC": 0,
+        "OMEGA": 0,
         "UNIQUE": 0
       },
       "toolMaterialCost": {
@@ -133,8 +157,14 @@
       "itemCost": [
         [
           {
+            "item": "sophisticatedbackpacks:backpack"
+          },
+          1
+        ],
+        [
+          {
             "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+          },
           1
         ],
         [
@@ -154,6 +184,12 @@
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
           6
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          12
         ],
         [
           {
@@ -208,6 +244,18 @@
             "item": "the_vault:key_xenium"
           },
           6
+        ],
+        [
+          {
+            "item": "scannable:scanner"
+          },
+          16
+        ],
+        [
+          {
+            "item": "the_vault:mystic_pear"
+          },
+          8
         ]
       ],
       "trinketCost": 10
@@ -218,10 +266,10 @@
       "count": 0.1,
       "gearRarityCost": {
         "SCRAPPY": 0,
-        "COMMON": 2,
-        "RARE": 4,
-        "EPIC": 8,
-        "OMEGA": 12,
+        "COMMON": 0,
+        "RARE": 0,
+        "EPIC": 0,
+        "OMEGA": 0,
         "UNIQUE": 0
       },
       "toolMaterialCost": {
@@ -236,27 +284,39 @@
       "itemCost": [
         [
           {
-            "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+            "item": "sophisticatedbackpacks:backpack"
+          },
           1
         ],
         [
           {
-            "item": "sophisticatedbackpacks:gold_backpack"
+            "item": "sophisticatedbackpacks:iron_backpack"
           },
           2
         ],
         [
           {
-            "item": "sophisticatedbackpacks:diamond_backpack"
+            "item": "sophisticatedbackpacks:gold_backpack"
           },
           4
         ],
         [
           {
+            "item": "sophisticatedbackpacks:diamond_backpack"
+          },
+          8
+        ],
+        [
+          {
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
-          6
+          12
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          24
         ],
         [
           {
@@ -311,9 +371,21 @@
             "item": "the_vault:key_xenium"
           },
           7
+        ],
+        [
+          {
+            "item": "scannable:scanner"
+          },
+          16
+        ],
+        [
+          {
+            "item": "the_vault:mystic_pear"
+          },
+          8
         ]
       ],
-      "trinketCost": 12
+      "trinketCost": 16
     },
     {
       "minLevel": 50,
@@ -321,45 +393,57 @@
       "count": 0.2,
       "gearRarityCost": {
         "SCRAPPY": 0,
-        "COMMON": 2,
-        "RARE": 5,
-        "EPIC": 9,
-        "OMEGA": 14,
+        "COMMON": 0,
+        "RARE": 0,
+        "EPIC": 0,
+        "OMEGA": 0,
         "UNIQUE": 0
       },
       "toolMaterialCost": {
         "CHROMATIC_IRON_INGOT": 0,
         "CHROMATIC_STEEL_INGOT": 0,
-        "VAULTERITE_INGOT": 2,
-        "VAULT_ALLOY": 6,
-        "BLACK_CHROMATIC_STEEL_INGOT": 12,
-        "ECHOING_INGOT": 24,
-        "OMEGA_POG": 48
+        "VAULTERITE_INGOT": 4,
+        "VAULT_ALLOY": 12,
+        "BLACK_CHROMATIC_STEEL_INGOT": 20,
+        "ECHOING_INGOT": 36,
+        "OMEGA_POG": 54
       },
       "itemCost": [
         [
           {
-            "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+            "item": "sophisticatedbackpacks:backpack"
+          },
           1
         ],
         [
           {
-            "item": "sophisticatedbackpacks:gold_backpack"
+            "item": "sophisticatedbackpacks:iron_backpack"
           },
           2
         ],
         [
           {
-            "item": "sophisticatedbackpacks:diamond_backpack"
+            "item": "sophisticatedbackpacks:gold_backpack"
           },
           4
         ],
         [
           {
+            "item": "sophisticatedbackpacks:diamond_backpack"
+          },
+          8
+        ],
+        [
+          {
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
-          6
+          12
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          24
         ],
         [
           {
@@ -419,10 +503,22 @@
           {
             "item": "the_vault:card_deck"
           },
+          16
+        ],
+        [
+          {
+            "item": "scannable:scanner"
+          },
+          16
+        ],
+        [
+          {
+            "item": "the_vault:mystic_pear"
+          },
           8
         ]
       ],
-      "trinketCost": 14
+      "trinketCost": 16
     },
     {
       "minLevel": 65,
@@ -430,45 +526,57 @@
       "count": 0.2,
       "gearRarityCost": {
         "SCRAPPY": 0,
-        "COMMON": 2,
-        "RARE": 8,
-        "EPIC": 13,
-        "OMEGA": 18,
+        "COMMON": 0,
+        "RARE": 0,
+        "EPIC": 0,
+        "OMEGA": 0,
         "UNIQUE": 0
       },
       "toolMaterialCost": {
         "CHROMATIC_IRON_INGOT": 0,
         "CHROMATIC_STEEL_INGOT": 0,
-        "VAULTERITE_INGOT": 2,
-        "VAULT_ALLOY": 6,
-        "BLACK_CHROMATIC_STEEL_INGOT": 12,
-        "ECHOING_INGOT": 24,
-        "OMEGA_POG": 48
+        "VAULTERITE_INGOT": 4,
+        "VAULT_ALLOY": 12,
+        "BLACK_CHROMATIC_STEEL_INGOT": 24,
+        "ECHOING_INGOT": 32,
+        "OMEGA_POG": 64
       },
       "itemCost": [
         [
           {
-            "item": "sophisticatedbackpacks:iron_backpack"
-          }, 
+            "item": "sophisticatedbackpacks:backpack"
+          },
           1
         ],
         [
           {
-            "item": "sophisticatedbackpacks:gold_backpack"
+            "item": "sophisticatedbackpacks:iron_backpack"
           },
           2
         ],
         [
           {
-            "item": "sophisticatedbackpacks:diamond_backpack"
+            "item": "sophisticatedbackpacks:gold_backpack"
           },
           4
         ],
         [
           {
+            "item": "sophisticatedbackpacks:diamond_backpack"
+          },
+          8
+        ],
+        [
+          {
             "item": "sophisticatedbackpacks:netherite_backpack"
           },
-          6
+          12
+        ],
+        [
+          {
+            "item": "woldsvaults:xl_backpack"
+          },
+          24
         ],
         [
           {
@@ -523,9 +631,27 @@
             "item": "the_vault:key_xenium"
           },
           8
+        ],
+        [
+          {
+            "item": "the_vault:card_deck"
+          },
+          16
+        ],
+        [
+          {
+            "item": "scannable:scanner"
+          },
+          16
+        ],
+        [
+          {
+            "item": "the_vault:mystic_pear"
+          },
+          8
         ]
       ],
-      "trinketCost": 14
+      "trinketCost": 16
     }
   ]
 }

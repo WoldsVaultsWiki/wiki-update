@@ -14,7 +14,7 @@
           },
           "boss": [
             {
-              "id": "the_vault:blaze_boss",
+              "id": "the_vault:boogieman_boss",
               "BaseTraits": [
                 "fireball_ranged_attack",
                 "evoker_fangs",

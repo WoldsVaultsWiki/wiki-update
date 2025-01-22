@@ -7,210 +7,211 @@
         "max": 12
       },
       "pool": [
-        { "weight": 70,
+        {
+          "weight": 70,
           "pool": [
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:vault_essence",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 6
+                "id": "the_vault:vault_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 6
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:chromatic_iron_ingot",
-              "count": {
-                "type": "uniform",
-                "min": 4,
-                "max": 12
+                "id": "the_vault:chromatic_iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 12
                 }
               }
             },
             {
               "weight": 24,
               "item": {
-              "id": "the_vault:wild_focus",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:wild_focus",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 24,
               "item": {
-              "id": "the_vault:amplifying_focus",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:amplifying_focus",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:vault_plating",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 6
+                "id": "the_vault:vault_plating",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 6
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:vault_meat",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 6
+                "id": "the_vault:vault_meat",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 6
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:carbon",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 4
+                "id": "the_vault:carbon",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 4
                 }
               }
             },
             {
               "weight": 24,
               "item": {
-              "id": "the_vault:regret_chunk",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:regret_chunk",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 32,
               "item": {
-              "id": "the_vault:vault_diamond",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "the_vault:vault_diamond",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 32,
               "item": {
-              "id": "the_vault:magnetite",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 6
+                "id": "the_vault:magnetite",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 6
                 }
               }
             },
             {
               "weight": 32,
               "item": {
-              "id": "the_vault:skill_essence",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+                "id": "the_vault:skill_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
             {
               "weight": 32,
               "item": {
-              "id": "the_vault:knowledge_star_essence",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+                "id": "the_vault:knowledge_star_essence",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:vault_bronze",
-              "count": {
-                "type": "uniform",
-                "min": 16,
-                "max": 64
+                "id": "the_vault:vault_bronze",
+                "count": {
+                  "type": "uniform",
+                  "min": 16,
+                  "max": 64
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "the_vault:driftwood",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 8
+                "id": "the_vault:driftwood",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 8
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "minecraft:netherite_ingot",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 1
+                "id": "minecraft:netherite_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "minecraft:netherite_scrap",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+                "id": "minecraft:netherite_scrap",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
             {
               "weight": 64,
               "item": {
-              "id": "minecraft:diamond",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
+                "id": "minecraft:diamond",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                 }
               }
             },
             {
               "weight": 32,
               "item": {
-              "id": "the_vault:vault_nugget",
-              "count": {
-                "type": "uniform",
-                "min": 2,
-                "max": 6
+                "id": "the_vault:vault_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 6
                 }
               }
             }
-            
-           ]
+          ]
         },
-        { "weight": 20,
+        {
+          "weight": 20,
           "pool": [
             {
               "weight": 16,
@@ -223,7 +224,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -237,7 +238,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -251,7 +252,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -265,7 +266,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -279,7 +280,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -293,7 +294,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -307,7 +308,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -321,7 +322,18 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
+              }
+            },
+            {
+              "weight": 16,
+              "item": {
+                "id": "the_vault:unidentified_relic_fragment",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
               }
             },
             {
@@ -332,7 +344,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -343,7 +355,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -354,7 +366,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -365,7 +377,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             },
             {
@@ -376,12 +388,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 8,
+        {
+          "weight": 8,
           "pool": [
             {
               "weight": 16,
@@ -391,7 +404,7 @@
                   "type": "uniform",
                   "min": 2,
                   "max": 6
-                  }
+                }
               }
             },
             {
@@ -402,12 +415,13 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]
         },
-        { "weight": 2,
+        {
+          "weight": 2,
           "pool": [
             {
               "weight": 9,
@@ -417,7 +431,7 @@
                   "type": "uniform",
                   "min": 2,
                   "max": 6
-                  }
+                }
               }
             },
             {
@@ -428,7 +442,7 @@
                   "type": "uniform",
                   "min": 1,
                   "max": 1
-                  }
+                }
               }
             }
           ]

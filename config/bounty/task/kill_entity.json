@@ -270,7 +270,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -284,7 +286,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -298,7 +302,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -428,7 +434,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -442,7 +450,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -456,7 +466,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },

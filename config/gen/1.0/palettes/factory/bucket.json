@@ -1,63 +1,152 @@
 {
-    "tile_processors": [
-      {
-        "type": "leveled",
-        "levels": [
-          {
-            "level": 0,
-            "type": "weighted_target",
-            "target": "minecraft:lime_glazed_terracotta",
-            "output": {
-              "minecraft:netherite_block": 1,
-              "minecraft:magma_block": 20,
-              "minecraft:shroomlight": 10,
-              "minecraft:ancient_debris": 5
-            }
-          },
-          {
-            "level": 25,
-            "type": "weighted_target",
-            "target": "minecraft:lime_glazed_terracotta",
-            "output": {
-              "minecraft:netherite_block": 1,
-              "minecraft:magma_block": 20,
-              "minecraft:shroomlight": 10,
-              "minecraft:ancient_debris": 5
-            }
-          },
-          {
-            "level": 50,
-            "type": "weighted_target",
-            "target": "minecraft:lime_glazed_terracotta",
-            "output": {
-              "minecraft:netherite_block": 1,
-              "minecraft:magma_block": 20,
-              "minecraft:shroomlight": 10,
-              "minecraft:ancient_debris": 5
-            }
-          },
-          {
-            "level": 75,
-            "type": "weighted_target",
-            "target": "minecraft:lime_glazed_terracotta",
-            "output": {
-              "minecraft:netherite_block": 1,
-              "minecraft:magma_block": 18,
-              "minecraft:shroomlight": 8,
-              "minecraft:ancient_debris": 5
-            }
+  "tile_processors": [
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "minecraft:lime_glazed_terracotta",
+          "output": {
+            "minecraft:netherite_block": 1,
+            "minecraft:magma_block": 18,
+            "minecraft:shroomlight_1": 10,
+            "minecraft:sponge_1": 2,
+            "minecraft:glowstone_1": 8,
+            "minecraft:amethyst_block_1": 4,
+            "minecraft:slime_block_1": 2,
+            "the_vault:vault_diamond_block": 5,
+            "the_vault:vault_essence_1": 10,
+            "the_vault:magic_silk_block": 7,
+            "the_vault:vault_plating_block": 35,
+            "the_vault:vault_plating_block_1": 1,
+            "the_vault:carbon_block": 35,
+            "the_vault:chromatic_gold_block": 10,
+            "the_vault:chromatic_iron_block": 25,
+            "the_vault:chromatic_steel_block": 30,
+            "compressium:emerald_1": 2,
+            "compressium:gold_1": 3,
+            "compressium:iron_2": 2,
+            "compressium:diamond_1": 1,
+            "compressium:copper_2": 3,
+            "compressium:lapis_1": 2,
+            "compressium:redstone_1": 2
           }
-        ]
-      },
-      {
-        "type": "reference",
-        "id": "the_vault:generic/challenge_elite_spawners"
-      },
-      {
-        "type": "reference",
-        "id": "the_vault:generic/room_base"
-      }
-    ],
-    "entity_processors": [],
-    "decorators": []
-  }
+        },
+        {
+          "level": 25,
+          "type": "weighted_target",
+          "target": "minecraft:lime_glazed_terracotta",
+          "output": {
+            "minecraft:netherite_block": 1,
+            "minecraft:magma_block": 18,
+            "minecraft:shroomlight_1": 10,
+            "minecraft:sponge_1": 2,
+            "minecraft:glowstone_1": 8,
+            "minecraft:amethyst_block_1": 4,
+            "minecraft:slime_block_1": 2,
+            "the_vault:vault_essence_2": 1,
+            "the_vault:vault_diamond_block": 5,
+            "the_vault:vault_essence_1": 10,
+            "the_vault:magic_silk_block": 7,
+            "the_vault:magic_silk_block_1": 1,
+            "the_vault:ancient_copper_block_1": 8,
+            "the_vault:vault_plating_block": 40,
+            "the_vault:vault_plating_block_1": 1,
+            "the_vault:chromatic_gold_block": 10,
+            "the_vault:chromatic_iron_block": 25,
+            "the_vault:chromatic_steel_block": 30,
+            "the_vault:black_chromatic_steel_block": 1,
+            "compressium:emerald_1": 2,
+            "compressium:gold_1": 3,
+            "compressium:iron_2": 2,
+            "compressium:diamond_1": 1,
+            "compressium:copper_2": 3,
+            "compressium:lapis_1": 2,
+            "compressium:redstone_1": 2
+          }
+        },
+        {
+          "level": 50,
+          "type": "weighted_target",
+          "target": "minecraft:lime_glazed_terracotta",
+          "output": {
+            "minecraft:netherite_block": 1,
+            "minecraft:magma_block": 18,
+            "minecraft:shroomlight_1": 10,
+            "minecraft:sponge_1": 2,
+            "minecraft:glowstone_1": 8,
+            "minecraft:amethyst_block_1": 4,
+            "minecraft:slime_block_1": 2,
+            "the_vault:vault_essence_2": 1,
+            "the_vault:vault_diamond_block": 5,
+            "the_vault:vault_essence_1": 10,
+            "the_vault:magic_silk_block": 7,
+            "the_vault:magic_silk_block_1": 1,
+            "the_vault:vault_stone_2": 12,
+            "the_vault:ancient_copper_block_1": 8,
+            "the_vault:vault_plating_block": 40,
+            "the_vault:vault_plating_block_1": 1,
+            "the_vault:carbon_block": 40,
+            "the_vault:gilded_block_1": 8,
+            "the_vault:velvet_block_1": 8,
+            "the_vault:chromatic_gold_block": 10,
+            "the_vault:chromatic_iron_block": 25,
+            "the_vault:chromatic_steel_block": 30,
+            "the_vault:black_chromatic_steel_block": 1,
+            "compressium:emerald_1": 2,
+            "compressium:gold_1": 3,
+            "compressium:iron_2": 2,
+            "compressium:diamond_1": 1,
+            "compressium:copper_2": 3,
+            "compressium:lapis_1": 2,
+            "compressium:redstone_1": 2
+          }
+        },
+        {
+          "level": 75,
+          "type": "weighted_target",
+          "target": "minecraft:lime_glazed_terracotta",
+          "output": {
+            "minecraft:netherite_block": 1,
+            "minecraft:magma_block": 18,
+            "minecraft:shroomlight_1": 10,
+            "minecraft:sponge_1": 2,
+            "minecraft:glowstone_1": 8,
+            "minecraft:amethyst_block_1": 4,
+            "minecraft:slime_block_1": 2,
+            "the_vault:vault_essence_2": 1,
+            "the_vault:vault_diamond_block": 5,
+            "the_vault:vault_essence_1": 10,
+            "the_vault:magic_silk_block": 7,
+            "the_vault:magic_silk_block_1": 1,
+            "the_vault:vault_plating_block": 45,
+            "the_vault:vault_plating_block_1": 1,
+            "the_vault:carbon_block": 45,
+            "the_vault:chromatic_gold_block": 10,
+            "the_vault:chromatic_iron_block": 25,
+            "the_vault:chromatic_steel_block": 30,
+            "the_vault:black_chromatic_steel_block": 1,
+            "compressium:emerald_1": 2,
+            "compressium:gold_1": 3,
+            "compressium:iron_2": 2,
+            "compressium:diamond_1": 1,
+            "compressium:copper_2": 3,
+            "compressium:lapis_1": 2,
+            "compressium:redstone_1": 2
+          }
+        }
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/challenge_elite_spawners"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/room_base"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

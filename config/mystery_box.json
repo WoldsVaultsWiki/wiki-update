@@ -29,6 +29,33 @@
     },
     {
       "value": {
+        "id": "the_vault:gem_benitoite",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 4
+      },
+      "weight": 64
+    },
+    {
+      "value": {
+        "id": "the_vault:gem_painite",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 2
+      },
+      "weight": 32
+    },
+    {
+      "value": {
+        "id": "the_vault:gem_black_opal",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 16
+    },
+    {
+      "value": {
         "id": "the_vault:gem_echo",
         "nbt": "{}",
         "amountMin": 1,
@@ -47,6 +74,15 @@
     },
     {
       "value": {
+        "id": "the_vault:vault_palladium",
+        "nbt": "{}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
         "id": "the_vault:gem_pog",
         "nbt": "{}",
         "amountMin": 1,
@@ -54,6 +90,5 @@
       },
       "weight": 1
     }
-    
   ]
 }

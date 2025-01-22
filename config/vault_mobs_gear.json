@@ -33,7 +33,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -43,7 +42,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -55,9 +53,7 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-            
-          ],
+          "HEAD": [],
           "CHEST": [
             {
               "value": {
@@ -65,16 +61,14 @@
               },
               "weight": 10
             }
-
           ],
           "MAINHAND": [
             {
               "value": {
                 "ITEM": "minecraft:crossbow"
-                },
+              },
               "weight": 12
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -115,7 +109,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -125,7 +118,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -166,7 +158,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -183,7 +174,6 @@
               },
               "weight": 0
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -222,7 +212,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -239,7 +228,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -278,7 +266,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -295,7 +282,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -307,13 +293,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
@@ -322,7 +303,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -334,13 +314,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
@@ -349,7 +324,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -361,21 +335,15 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
                 "ITEM": "minecraft:crossbow"
-                },
+              },
               "weight": 12
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -387,13 +355,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
@@ -402,7 +365,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -414,21 +376,15 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
                 "ITEM": "minecraft:crossbow"
-                },
+              },
               "weight": 12
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -440,13 +396,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
@@ -455,7 +406,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -467,21 +417,15 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-
-          ],
-          "CHEST": [
-
-
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "MAINHAND": [
             {
               "value": {
                 "ITEM": "minecraft:crossbow"
-                },
+              },
               "weight": 12
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -522,7 +466,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -539,7 +482,6 @@
               },
               "weight": 0
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -578,7 +520,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -595,7 +536,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -634,7 +574,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -651,7 +590,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -692,7 +630,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -709,7 +646,6 @@
               },
               "weight": 0
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -748,7 +684,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -765,7 +700,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -804,7 +738,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -821,7 +754,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -862,7 +794,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -879,7 +810,6 @@
               },
               "weight": 0
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -918,7 +848,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -935,7 +864,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -974,7 +902,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -991,7 +918,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -1032,7 +958,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -1089,7 +1014,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -1139,7 +1063,6 @@
               },
               "weight": 10
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -1181,7 +1104,6 @@
               },
               "weight": 10
             }
-
           ],
           "LEGS": [
             {
@@ -1200,18 +1122,18 @@
           ],
           "FEET": [
             {
-            "value": {
-              "ITEM": "the_vault:boots",
-              "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              "value": {
+                "ITEM": "the_vault:boots",
+                "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              },
+              "weight": 2
             },
-            "weight": 2
-          },
-          {
-            "value": {
-              "ITEM": ""
-            },
-            "weight": 10
-          }
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
           ],
           "MAINHAND": [
             {
@@ -1266,7 +1188,6 @@
               },
               "weight": 10
             }
-
           ],
           "LEGS": [
             {
@@ -1285,18 +1206,18 @@
           ],
           "FEET": [
             {
-            "value": {
-              "ITEM": "the_vault:boots",
-              "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              "value": {
+                "ITEM": "the_vault:boots",
+                "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              },
+              "weight": 2
             },
-            "weight": 2
-          },
-          {
-            "value": {
-              "ITEM": ""
-            },
-            "weight": 10
-          }
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
           ],
           "MAINHAND": [
             {
@@ -1351,7 +1272,6 @@
               },
               "weight": 10
             }
-
           ],
           "LEGS": [
             {
@@ -1370,18 +1290,18 @@
           ],
           "FEET": [
             {
-            "value": {
-              "ITEM": "the_vault:boots",
-              "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              "value": {
+                "ITEM": "the_vault:boots",
+                "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              },
+              "weight": 2
             },
-            "weight": 2
-          },
-          {
-            "value": {
-              "ITEM": ""
-            },
-            "weight": 10
-          }
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
           ],
           "MAINHAND": [
             {
@@ -1407,10 +1327,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1428,7 +1346,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1440,7 +1357,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"             
+                "ITEM": "minecraft:red_banner"
               },
               "weight": 6
             }
@@ -1452,10 +1369,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1473,7 +1388,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1485,7 +1399,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"             
+                "ITEM": "minecraft:red_banner"
               },
               "weight": 6
             }
@@ -1497,10 +1411,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1518,7 +1430,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1530,7 +1441,7 @@
             },
             {
               "value": {
-                "ITEM": "minecraft:red_banner"             
+                "ITEM": "minecraft:red_banner"
               },
               "weight": 6
             }
@@ -1542,10 +1453,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1563,7 +1472,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1588,10 +1496,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1602,7 +1508,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1627,10 +1532,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1641,7 +1544,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1673,10 +1575,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1687,7 +1587,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1719,10 +1618,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1733,7 +1630,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1765,10 +1661,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1779,7 +1673,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1804,10 +1697,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -1818,7 +1709,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -1838,7 +1728,7 @@
             {
               "value": {
                 "ITEM": "minecraft:player_head",
-                "NBT": "{SkullOwner:\"iskall85\"}"
+                "NBT": "{SkullOwner:\"iwolfking\"}"
               },
               "weight": 3
             },
@@ -1983,10 +1873,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2004,7 +1892,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -2029,10 +1916,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2050,7 +1935,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -2075,10 +1959,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2096,7 +1978,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -2121,10 +2002,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2142,7 +2021,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -2167,10 +2045,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2188,7 +2064,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": [
             {
@@ -2204,10 +2079,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2225,10 +2098,8 @@
               },
               "weight": 10
             }
-
           ],
-          "OFFHAND": [
-          ]
+          "OFFHAND": []
         }
       }
     ],
@@ -2236,10 +2107,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2250,7 +2119,6 @@
               },
               "weight": 1
             }
-
           ],
           "OFFHAND": [
             {
@@ -2268,10 +2136,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2289,69 +2155,6 @@
               },
               "weight": 12
             }
-
-          ],
-          "OFFHAND": [
-          ]
-        }
-      },
-      {
-        "minLevel": 10,
-        "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
-          "LEGS": [],
-          "FEET": [],
-          "MAINHAND": [
-            {
-              "value": {
-                "ITEM": "minecraft:bow",
-                "NBT": ""
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "ITEM": "minecraft:iron_sword",
-                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
-              },
-              "weight": 50
-            }
-
-          ],
-          "OFFHAND": [
-          ]
-        }
-      }
-    ],
-    "the_vault:t2_stray": [
-      {
-        "minLevel": 0,
-        "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
-          "LEGS": [],
-          "FEET": [],
-          "MAINHAND": [
-            {
-              "value": {
-                "ITEM": "minecraft:bow",
-                "NBT": ""
-              },
-              "weight": 1
-            },
-            {
-              "value": {
-                "ITEM": "minecraft:iron_sword",
-                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
-              },
-              "weight": 12
-            }
-
           ],
           "OFFHAND": []
         }
@@ -2359,10 +2162,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2380,7 +2181,60 @@
               },
               "weight": 50
             }
-
+          ],
+          "OFFHAND": []
+        }
+      }
+    ],
+    "the_vault:t2_stray": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [],
+          "CHEST": [],
+          "LEGS": [],
+          "FEET": [],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:bow",
+                "NBT": ""
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:iron_sword",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 12
+            }
+          ],
+          "OFFHAND": []
+        }
+      },
+      {
+        "minLevel": 10,
+        "slots": {
+          "HEAD": [],
+          "CHEST": [],
+          "LEGS": [],
+          "FEET": [],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:bow",
+                "NBT": ""
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:iron_sword",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 50
+            }
           ],
           "OFFHAND": []
         }
@@ -2390,10 +2244,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2411,7 +2263,6 @@
               },
               "weight": 50
             }
-
           ],
           "OFFHAND": []
         }
@@ -2419,10 +2270,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2440,7 +2289,6 @@
               },
               "weight": 50
             }
-
           ],
           "OFFHAND": []
         }
@@ -2450,10 +2298,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2464,7 +2310,6 @@
               },
               "weight": 50
             }
-
           ],
           "OFFHAND": []
         }
@@ -2474,10 +2319,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2495,7 +2338,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2503,10 +2345,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2524,7 +2364,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2534,16 +2373,11 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
-          "MAINHAND": [
-          
-
-          ],
+          "MAINHAND": [],
           "OFFHAND": []
         }
       }
@@ -2552,10 +2386,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2573,7 +2405,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2581,10 +2412,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2602,7 +2431,6 @@
               },
               "weight": 10
             }
-
           ],
           "OFFHAND": []
         }
@@ -2612,10 +2440,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2633,7 +2459,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2641,10 +2466,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2662,7 +2485,6 @@
               },
               "weight": 8
             }
-
           ],
           "OFFHAND": []
         }
@@ -2672,10 +2494,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2693,7 +2513,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2701,10 +2520,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2722,7 +2539,6 @@
               },
               "weight": 8
             }
-
           ],
           "OFFHAND": []
         }
@@ -2732,10 +2548,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2753,7 +2567,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2761,10 +2574,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2782,7 +2593,6 @@
               },
               "weight": 8
             }
-
           ],
           "OFFHAND": []
         }
@@ -2792,10 +2602,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2813,7 +2621,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2821,10 +2628,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2842,7 +2647,6 @@
               },
               "weight": 3
             }
-
           ],
           "OFFHAND": []
         }
@@ -2852,10 +2656,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2873,7 +2675,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2881,10 +2682,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2902,7 +2701,6 @@
               },
               "weight": 16
             }
-
           ],
           "OFFHAND": []
         }
@@ -2912,10 +2710,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2933,7 +2729,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -2941,10 +2736,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2962,7 +2755,6 @@
               },
               "weight": 10
             }
-
           ],
           "OFFHAND": []
         }
@@ -2972,10 +2764,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -2993,7 +2783,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -3001,10 +2790,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3022,7 +2809,6 @@
               },
               "weight": 10
             }
-
           ],
           "OFFHAND": []
         }
@@ -3032,10 +2818,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3053,7 +2837,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -3061,10 +2844,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3082,7 +2863,6 @@
               },
               "weight": 0
             }
-
           ],
           "OFFHAND": []
         }
@@ -3092,10 +2872,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3122,10 +2900,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3152,10 +2928,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3173,7 +2947,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -3181,10 +2954,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3202,7 +2973,6 @@
               },
               "weight": 0
             }
-
           ],
           "OFFHAND": []
         }
@@ -3212,10 +2982,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3233,10 +3001,8 @@
       {
         "minLevel": 15,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3263,10 +3029,8 @@
       {
         "minLevel": 0,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3284,7 +3048,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -3292,10 +3055,8 @@
       {
         "minLevel": 10,
         "slots": {
-          "HEAD": [
-          ],
-          "CHEST": [
-          ],
+          "HEAD": [],
+          "CHEST": [],
           "LEGS": [],
           "FEET": [],
           "MAINHAND": [
@@ -3313,7 +3074,6 @@
               },
               "weight": 12
             }
-
           ],
           "OFFHAND": []
         }
@@ -3352,7 +3112,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -3407,7 +3166,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -3462,7 +3220,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -3524,7 +3281,6 @@
               },
               "weight": 0
             }
-
           ],
           "MAINHAND": [
             {
@@ -3583,7 +3339,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -3619,7 +3374,6 @@
               },
               "weight": 1
             }
-
           ],
           "LEGS": [],
           "FEET": [],
@@ -3786,4 +3540,3 @@
     ]
   }
 }
-

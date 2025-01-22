@@ -1,0 +1,45 @@
+{
+  "tile_processors": [
+    {
+      "type": "weighted_target",
+      "target": "minecraft:pink_wool",
+      "output": {
+        "minecraft:orange_wool": 9
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:magenta_terracotta",
+      "output": {
+        "minecraft:yellow_terracotta": 9
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:light_blue_concrete",
+      "output": {
+        "the_vault:wendarr_light_smooth_brick": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "chipped:green_wool_11",
+      "output": {
+        "chipped:yellow_wool_11": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "chipped:green_wool_12",
+      "output": {
+        "chipped:yellow_wool_12": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:gate_lock/base"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

@@ -66,8 +66,9 @@
         "{FullName: \"Dragon Room\", RoomReference: \"the_vault:vault/rooms/challenge/dragon\"}": 1,
         "{FullName: \"Factory Room\", RoomReference: \"the_vault:vault/rooms/challenge/factory\"}": 1,
         "{FullName: \"Village Room\", RoomReference: \"the_vault:vault/rooms/challenge/village\"}": 1,
-        "{FullName: \"Wild West Room\", RoomReference: \"the_vault:vault/rooms/challenge/wildwest\"}": 1,
-        "{FullName: \"X-Mark Room\", RoomReference: \"the_vault:vault/rooms/challenge/x-mark\"}": 1
+        "{FullName: \"Wild West Room\", RoomReference: \"the_vault:vault/rooms/challenge/wildwest\"}": 0,
+        "{FullName: \"X-Mark Room\", RoomReference: \"the_vault:vault/rooms/challenge/x-mark\"}": 1,
+        "{FullName: \"Pirate Cave Room\", RoomReference: \"the_vault:vault/rooms/challenge/pirate_cave\"}": 1
       }
     },
     {
@@ -80,7 +81,10 @@
         "{FullName: \"Library Room\", RoomReference: \"the_vault:vault/rooms/omega/library\"}": 10,
         "{FullName: \"Mine Room\", RoomReference: \"the_vault:vault/rooms/omega/mine\"}": 4,
         "{FullName: \"Mush Room\", RoomReference: \"the_vault:vault/rooms/omega/mush_room\"}": 10,
-        "{FullName: \"Painting Room\", RoomReference: \"the_vault:vault/rooms/omega/painting\"}": 10
+        "{FullName: \"Painting Room\", RoomReference: \"the_vault:vault/rooms/omega/painting\"}": 10,
+        "{FullName: \"Playzone Room\", RoomReference: \"the_vault:vault/rooms/omega/playzone\"}": 10,
+        "{FullName: \"Arcade Room\", RoomReference: \"the_vault:vault/rooms/omega/arcade\"}": 8,
+        "{FullName: \"Woldian Garden Room\", RoomReference: \"the_vault:vault/rooms/omega/iskallian_garden\"}": 4
       }
     }
   ],

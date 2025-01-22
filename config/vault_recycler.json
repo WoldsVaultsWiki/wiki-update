@@ -116,13 +116,12 @@
       "chance": 1.0,
       "stack": {
         "item": "the_vault:silver_scrap"
-        
       },
       "minCount": 5,
       "maxCount": 8
     },
     "extraOutput1": {
-      "chance": 0.05,
+      "chance": 0.75,
       "stack": {
         "item": "the_vault:gemstone"
       },

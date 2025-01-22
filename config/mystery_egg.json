@@ -194,7 +194,31 @@
     },
     {
       "value": {
+        "id": "quark:frog_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "tropicraft:iguana_spawn_egg",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
         "id": "alexsmobs:spawn_egg_flutter",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "quark:toretoise_spawn_egg",
         "amountMin": 1,
         "amountMax": 1
       },

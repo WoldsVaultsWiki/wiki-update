@@ -59,7 +59,6 @@
       "the_vault:gear/armor/goat",
       "the_vault:gear/armor/emperor_snow_wolf",
       "the_vault:gear/armor/emperor_wither_wolf"
-
     ],
     "OMEGA": [
       "the_vault:gear/armor/flamingo",
@@ -71,7 +70,6 @@
       "the_vault:gear/armor/bunny_guardian",
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom"
-
     ],
     "UNIQUE": [
       "the_vault:gear/armor/atomatic",
@@ -132,7 +130,6 @@
     "SCRAPPY": [
       "the_vault:gear/sword/sword_0",
       "the_vault:gear/sword/sword_2"
-
     ],
     "COMMON": [
       "the_vault:gear/sword/sword_1",
@@ -246,7 +243,6 @@
       "the_vault:gear/shield/sculk",
       "the_vault:gear/shield/flowah",
       "the_vault:gear/shield/lifebuoy"
-
     ],
     "EPIC": [
       "the_vault:gear/shield/ender",
@@ -327,5 +323,61 @@
       "the_vault:gear/focus/soulorb",
       "the_vault:gear/focus/frozenorb"
     ]
+  },
+  "BATTLESTAFF_MODEL_ROLLS": {
+    "SCRAPPY": [
+      "the_vault:gear/battlestaff/battlestaff_0"
+    ],
+    "COMMON": [
+      "the_vault:gear/battlestaff/battlestaff_copper",
+      "the_vault:gear/battlestaff/battlestaff_lapis",
+      "the_vault:gear/battlestaff/battlestaff_redstone"
+    ],
+    "RARE": [
+      "the_vault:gear/battlestaff/battlestaff_growing",
+      "the_vault:gear/battlestaff/battlestaff_golden",
+      "the_vault:gear/battlestaff/battlestaff_emerald"
+    ],
+    "EPIC": [
+      "the_vault:gear/battlestaff/battlestaff_diamond",
+      "the_vault:gear/battlestaff/battlestaff_purple",
+      "the_vault:gear/battlestaff/battlestaff_terror"
+    ],
+    "OMEGA": [
+      "the_vault:gear/battlestaff/battlestaff_light_blue"
+    ],
+    "UNIQUE": []
+  },
+  "TRIDENT_MODEL_ROLLS": {
+    "SCRAPPY": [
+      "the_vault:gear/trident/scrappy_1",
+      "the_vault:gear/trident/scrappy_2",
+      "the_vault:gear/trident/scrappy_3",
+      "the_vault:gear/trident/scrappy_4"
+    ],
+    "COMMON": [
+      "the_vault:gear/trident/guardian",
+      "the_vault:gear/trident/emerald",
+      "the_vault:gear/trident/purple",
+      "the_vault:gear/trident/orange",
+      "the_vault:gear/trident/pink",
+      "the_vault:gear/trident/vanilla"
+    ],
+    "RARE": [
+      "the_vault:gear/trident/pitchfork",
+      "the_vault:gear/trident/royal",
+      "the_vault:gear/trident/axolotl",
+      "the_vault:gear/trident/golden",
+      "the_vault:gear/trident/seabird"
+    ],
+    "EPIC": [
+      "the_vault:gear/trident/crimson",
+      "the_vault:gear/trident/prismarine"
+    ],
+    "OMEGA": [
+      "the_vault:gear/trident/phantomguard",
+      "the_vault:gear/trident/crystal"
+    ],
+    "UNIQUE": []
   }
 }

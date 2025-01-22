@@ -49,34 +49,22 @@
         ]
       }
     ],
-    "blackmarket": [
+    "gear_completion_crate_uscav": [
       {
         "level": 0,
         "rollTypeOutcomes": [
           {
-            "value": "Scrappy+",
-            "weight": 70
-          },
-          {
-            "value": "Common+",
-            "weight": 40
-          },
-          {
-            "value": "Rare+",
-            "weight": 18
-          },
-          {
             "value": "Epic+",
-            "weight": 7
+            "weight": 10
           },
           {
             "value": "Omega",
-            "weight": 1
+            "weight": 2
           }
         ]
       }
     ],
-    "strong_common": [
+"strong_common": [
       {
         "level": 0,
         "rollTypeOutcomes": [
@@ -91,22 +79,7 @@
         ]
       }
     ],
-    "strong_rare": [
-      {
-        "level": 0,
-        "rollTypeOutcomes": [
-          {
-            "value": "Common+",
-            "weight": 40
-          },
-          {
-            "value": "Rare+",
-            "weight": 40
-          }
-        ]
-      }
-    ],
-    "strong_epic": [
+  "strong_epic": [
       {
         "level": 0,
         "rollTypeOutcomes": [
@@ -132,6 +105,33 @@
           {
             "value": "Omega",
             "weight": 10
+          }
+        ]
+      }
+    ],
+    "blackmarket": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Scrappy+",
+            "weight": 70
+          },
+          {
+            "value": "Common+",
+            "weight": 40
+          },
+          {
+            "value": "Rare+",
+            "weight": 18
+          },
+          {
+            "value": "Epic+",
+            "weight": 7
+          },
+          {
+            "value": "Omega",
+            "weight": 1
           }
         ]
       }
@@ -277,15 +277,15 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare+",
-            "weight": 80
+            "weight": 50
           },
           {
             "value": "Epic+",
-            "weight": 10
+            "weight": 35
           },
           {
             "value": "Omega",
-            "weight": 4
+            "weight": 15
           }
         ]
       }
@@ -441,7 +441,7 @@
             "value": "Omega",
             "weight": 1
           }
-         ]
+        ]
       }
     ],
     "jewel_high": [
@@ -616,10 +616,6 @@
       {
         "level": 0,
         "rollTypeOutcomes": [
-          {
-            "value": "Common+",
-            "weight": 40
-          },
           {
             "value": "Rare+",
             "weight": 40

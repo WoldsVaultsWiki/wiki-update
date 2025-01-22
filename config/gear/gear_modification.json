@@ -83,6 +83,12 @@
       "potentialUseMax": 0,
       "baseCostMultiplier": 5.0,
       "negativePotentialCostMultiplier": 1.0
+    },
+    "the_vault:add_unusual_modifier": {
+      "potentialUseMin": 0,
+      "potentialUseMax": 0,
+      "baseCostMultiplier": 5.0,
+      "negativePotentialCostMultiplier": 1.0
     }
   }
 }

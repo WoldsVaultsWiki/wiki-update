@@ -108,7 +108,7 @@
       "the_vault:vault_fighter_2",
       "the_vault:vault_fighter_3",
       "the_vault:vault_fighter_4"
-    ],    
+    ],
     "the_vault:elites": [
       "the_vault:elite_husk",
       "the_vault:elite_drowned",
@@ -121,7 +121,8 @@
     ]
   },
   "entries": [
-    { "level": 0,
+    {
+      "level": 0,
       "target": [
         {
           "value": {
@@ -138,7 +139,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -257,7 +258,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -308,7 +309,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -633,7 +634,8 @@
         }
       ]
     },
-    { "level": 30,
+    {
+      "level": 30,
       "target": [
         {
           "value": {
@@ -650,7 +652,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -769,7 +771,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -1145,7 +1147,8 @@
         }
       ]
     },
-    { "level": 50,
+    {
+      "level": 50,
       "target": [
         {
           "value": {
@@ -1162,7 +1165,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -1281,7 +1284,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -1657,7 +1660,8 @@
         }
       ]
     },
-    { "level": 80,
+    {
+      "level": 80,
       "target": [
         {
           "value": {
@@ -1674,7 +1678,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },
@@ -1793,7 +1797,7 @@
           "rolls": [
             {
               "value": {
-                "min": 0,
+                "min": 1,
                 "max": 3,
                 "type": "uniform"
               },

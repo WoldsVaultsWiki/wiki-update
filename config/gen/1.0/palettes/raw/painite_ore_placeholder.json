@@ -1,0 +1,22 @@
+{
+  "tile_processors": [
+    {
+      "type": "placeholder",
+      "target": "ORE",
+      "levels": [
+        {
+          "level": 0,
+          "probability": 0.125,
+          "success": {
+            "the_vault:ore_painite[type=vault_stone,generated=true]": 1,
+            "the_vault:ore_alexandrite[type=vault_stone,generated=true]": 2,
+            "the_vault:ore_wutodie[type=vault_stone,generated=true]": 4
+          },
+          "failure": {
+            "minecraft:deepslate": 1
+          }
+        }
+      ]
+    }
+  ]
+}

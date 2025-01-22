@@ -1,9 +1,20 @@
 {
   "keys": [
     {
+      "id": "the_vault:skaia_vault_autumn_cherry_grove",
+      "name": "Jungle: Cherry Grove",
+      "color": 16751138,
+      "1.0": "config/the_vault/gen/1.0/themes/skaia_vault_autumn_cherry_grove.json"
+    },
+    {
       "id": "the_vault:classic_vault_plastic",
       "name": "Plastic",
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_plastic.json"
+    },
+    {
+      "id": "the_vault:classic_vault_trial",
+      "name": "Trial",
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_trial.json"
     },
     {
       "id": "the_vault:classic_vault_ice",
@@ -64,6 +75,18 @@
       "name": "Oasis: Grotto",
       "color": 14873528,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_beach.json"
+    },
+    {
+      "id": "the_vault:classic_vault_tropical",
+      "name": "Tropical: Oasis",
+      "color": 11504308,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tropical.json"
+    },
+    {
+      "id": "the_vault:classic_vault_dark_cavern",
+      "name": "Special: Dark Cavern",
+      "color": 3080351,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_dark_cavern.json"
     },
     {
       "id": "the_vault:classic_vault_mesa",
@@ -143,7 +166,7 @@
     },
     {
       "id": "the_vault:classic_vault_cave_wasteland",
-      "name": "Rockfall:: Wasteland",
+      "name": "Rockfall: Wasteland",
       "color": 7488811,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_wasteland.json"
     },
@@ -191,7 +214,7 @@
     },
     {
       "id": "the_vault:classic_vault_flooded",
-      "name":"Oasis: Flooded",
+      "name": "Oasis: Flooded",
       "color": 7775663,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_flooded.json"
     },
@@ -246,7 +269,7 @@
     },
     {
       "id": "the_vault:classic_vault_white",
-      "name": "Iskall's Favorite",
+      "name": "X's Favorite",
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_white.json"
     },
     {
@@ -266,6 +289,12 @@
       "name": "Oasis: Sea Floor",
       "color": 6353107,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_sea_floor.json"
+    },
+    {
+      "id": "the_vault:classic_vault_undersea",
+      "name": "Underwater: Undersea",
+      "color": 3093117,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_undersea.json"
     },
     {
       "id": "the_vault:classic_vault_blood_moon",
@@ -418,10 +447,22 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr.json"
     },
     {
+      "id": "the_vault:classic_vault_wendarr_normal",
+      "name": "God: Wendarr",
+      "color": 15638528,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr_normal.json"
+    },
+    {
       "id": "the_vault:classic_vault_tenos",
       "name": "Tenos",
       "color": 687572,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos.json"
+    },
+    {
+      "id": "the_vault:classic_vault_tenos_normal",
+      "name": "God: Tenos",
+      "color": 687572,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos_normal.json"
     },
     {
       "id": "the_vault:classic_vault_velara",
@@ -430,10 +471,22 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara.json"
     },
     {
+      "id": "the_vault:classic_vault_velara_normal",
+      "name": "God: Velara",
+      "color": 1296178,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara_normal.json"
+    },
+    {
       "id": "the_vault:classic_vault_idona",
       "name": "Idona",
       "color": 13041664,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_idona.json"
+    },
+    {
+      "id": "the_vault:classic_vault_idona_normal",
+      "name": "God: Idona",
+      "color": 13041664,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_idona_normal.json"
     },
     {
       "id": "the_vault:classic_vault_intermediary",

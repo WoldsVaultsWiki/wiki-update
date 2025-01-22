@@ -1,5 +1,46 @@
 {
   "pools": {
+    "the_vault:craft_random_positive": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:random_positive",
+                "the_vault:challenge_stack"
+              ],
+              "model": 22
+            },
+            "weight": 9.0
+          }
+        ]
+      }
+    ],
+    "the_vault:catalyst_box": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 15,
+                "type": "uniform"
+              },
+              "modifiers": [],
+              "model": 1
+            },
+            "weight": 9.0
+          }
+        ]
+      }
+    ],
     "the_vault:craft_wooden_cascade": [
       {
         "level": 0,
@@ -285,7 +326,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -661,7 +701,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {

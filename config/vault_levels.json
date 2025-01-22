@@ -1,6 +1,6 @@
 {
   "maxLevel": 100,
-  "expMultiplier": 1,
+  "expMultiplier": 1.0,
   "levelMetas": [
     {
       "level": 0,
@@ -401,6 +401,10 @@
     {
       "level": 99,
       "tnl": 1110375
+    },
+    {
+      "level": 100,
+      "tnl": 22189000
     }
   ]
 }

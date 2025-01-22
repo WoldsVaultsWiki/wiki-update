@@ -37,7 +37,7 @@
   },
   "jewelCuttingRange": {
     "min": 1,
-    "max": 4
+    "max": 5
   },
   "jewelCuttingModifierRemovalChance": 1.0
 }
