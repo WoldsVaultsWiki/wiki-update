@@ -9,7 +9,7 @@ jobs:
       WIKI_USERNAME_ATTACKEIGHT: ${{secrets.WIKI_USERNAME}}
       WIKI_PASSWORD_ATTACKEIGHT: ${{secrets.WIKI_PASSWORD}}
       WIKI_SITE_USERNAME_ATTACKEIGHT: dev
-      WIKI_SITE_PASSWORD_ATTACKEIGHT: utcsJgg
+      WIKI_SITE_PASSWORD_ATTACKEIGHT: wiki.31415
     steps:
 
       - name: checkout repo content
